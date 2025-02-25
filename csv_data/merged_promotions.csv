@@ -1,0 +1,201 @@
+id,name,phone,email,city,devices,promotion,responded
+144.0,Emelia Page,929-575-4315,Emelia.Page@example.com,"San Francisco, USA","['Iphone', 'Desktop']",Coca-Splash,Yes
+74.0,Myrtle Doyle,525-796-7991,Myrtle.Doyle@example.com,"Toronto, Canada","['Android', 'Iphone', 'Desktop']",GatorBoost,Yes
+109.0,Huw Valentine,441-847-1955,Huw.Valentine@example.com,"Chicago, USA","['Iphone', 'Desktop']",Oreoz,Yes
+934.0,Alessandro French,216-516-1958,Alessandro.French@example.com,"San Diego, USA","['Android', 'Desktop']",Popsi,Yes
+530.0,Isobelle Davidson,237-295-4490,Isobelle.Davidson@example.com,"San Francisco, USA",['Iphone'],Popsi,Yes
+296.0,Steven Reid,490-977-4025,Steven.Reid@example.com,"San Francisco, USA","['Android', 'Desktop']",Popsi,Yes
+915.0,Barry Buck,667-391-6777,Barry.Buck@example.com,"San Francisco, USA","['Android', 'Iphone', 'Desktop']",Flixnet,No
+768.0,Caleb Obrien,223-387-1014,Caleb.Obrien@example.com,"Toronto, Canada","['Android', 'Iphone']",Krafty Cheddar,Yes
+971.0,Kyran Duncan,433-632-3326,Kyran.Duncan@example.com,"New York, USA","['Android', 'Desktop']",Oreoz,Yes
+211.0,Gerard Francis,958-724-3846,Gerard.Francis@example.com,"Chicago, USA","['Android', 'Iphone', 'Desktop']",Oreoz,Yes
+828.0,Nora Donaldson,414-618-5713,Nora.Donaldson@example.com,"San Diego, USA","['Android', 'Iphone', 'Desktop']",Colgatex,Yes
+927.0,Alejandro Kent,915-320-3214,Alejandro.Kent@example.com,"Chicago, USA","['Android', 'Iphone']",GatorBoost,Yes
+829.0,Ismaeel Schmidt,110-478-3409,Ismaeel.Schmidt@example.com,"Los Angeles, USA",['Iphone'],Popsi,Yes
+620.0,Neo Lara,276-319-4768,Neo.Lara@example.com,"Toronto, Canada","['Android', 'Iphone']",Dovee,Yes
+922.0,Luisa Haley,916-879-3164,Luisa.Haley@example.com,"Barcelona, Spain","['Iphone', 'Desktop']",GatorBoost,Yes
+861.0,Deacon Boone,950-335-6994,Deacon.Boone@example.com,"New York, USA","['Android', 'Iphone', 'Desktop']",Oreoz,Yes
+206.0,Azaan Roth,130-119-2032,Azaan.Roth@example.com,"Los Angeles, USA","['Android', 'Iphone']",Flixnet,Yes
+31.0,Bradley Butler,937-172-2269,Bradley.Butler@example.com,"Montreal, Canada",['Iphone'],RedCow,Yes
+100.0,Usman Swanson,431-103-9132,Usman.Swanson@example.com,"London, United Kingdom","['Android', 'Iphone', 'Desktop']",Coca-Splash,No
+415.0,Christopher Pollard,915-743-9764,Christopher.Pollard@example.com,"San Diego, USA","['Android', 'Iphone', 'Desktop']",GatorBoost,No
+225.0,Neil Haynes,421-219-5363,Neil.Haynes@example.com,"San Diego, USA","['Android', 'Iphone', 'Desktop']",Coca-Splash,Yes
+383.0,Owen Michael,178-910-8863,Owen.Michael@example.com,"Toronto, Canada",['Iphone'],Oreoz,No
+336.0,Katrina Foster,497-544-5065,Katrina.Foster@example.com,"London, United Kingdom","['Android', 'Iphone']",Coca-Splash,No
+627.0,Everly Key,152-557-5017,Everly.Key@example.com,"New York, USA",['Iphone'],GatorBoost,No
+550.0,Prince Sharp,886-278-8764,Prince.Sharp@example.com,"Montreal, Canada","['Iphone', 'Desktop']",Popsi,No
+246.0,Zara Washington,679-367-1926,Zara.Washington@example.com,"London, United Kingdom","['Iphone', 'Desktop']",Dovee,No
+164.0,Herman Knowles,130-936-8674,Herman.Knowles@example.com,"Los Angeles, USA","['Iphone', 'Desktop']",Dovee,No
+618.0,Janet Hughes,194-769-6265,Janet.Hughes@example.com,"Los Angeles, USA",['Iphone'],KittyKat,No
+77.0,Cleo Greer,138-806-4136,Cleo.Greer@example.com,"Los Angeles, USA","['Android', 'Iphone']",Popsi,No
+576.0,David Mcconnell,967-585-7262,David.Mcconnell@example.com,"San Francisco, USA",['Iphone'],KittyKat,No
+608.0,Rishi Barron,331-128-4346,Rishi.Barron@example.com,"Montreal, Canada","['Android', 'Iphone', 'Desktop']",Oreoz,No
+525.0,Aidan Mcmahon,896-647-2628,Aidan.Mcmahon@example.com,"New York, USA","['Android', 'Iphone', 'Desktop']",Popsi,No
+294.0,Faizan Hill,572-649-5353,Faizan.Hill@example.com,"San Francisco, USA",['Android'],RedCow,No
+384.0,Fraser Hooper,228-636-9031,Fraser.Hooper@example.com,"New York, USA",['Iphone'],Oreoz,No
+357.0,Nikhil Peck,395-769-3300,Nikhil.Peck@example.com,"Chicago, USA","['Iphone', 'Desktop']",RedCow,No
+207.0,Mark Friedman,111-862-3502,Mark.Friedman@example.com,"San Diego, USA","['Android', 'Desktop']",KittyKat,No
+334.0,Elisabeth Tran,363-441-2226,Elisabeth.Tran@example.com,"London, United Kingdom","['Android', 'Desktop']",Popsi,No
+81.0,Ahmad Castro,629-807-5687,Ahmad.Castro@example.com,"San Francisco, USA",['Android'],Popsi,Yes
+218.0,Tony Shepard,416-772-8288,Tony.Shepard@example.com,"Barcelona, Spain",['Iphone'],Colgatex,No
+798.0,Brenda Deleon,997-981-2043,Brenda.Deleon@example.com,"Paris, France",['Iphone'],Flixnet,No
+599.0,Astrid Delgado,641-317-3741,Astrid.Delgado@example.com,"London, United Kingdom","['Android', 'Iphone', 'Desktop']",Popsi,No
+180.0,Dhruv Villarreal,931-559-3083,Dhruv.Villarreal@example.com,"London, United Kingdom","['Android', 'Desktop']",RedCow,No
+909.0,Tyler Vasquez,899-668-7177,Tyler.Vasquez@example.com,"London, United Kingdom",['Iphone'],Colgatex,No
+544.0,Millie Yates,673-424-3380,Millie.Yates@example.com,"Chicago, USA","['Android', 'Iphone']",GatorBoost,No
+133.0,Zack Mcclain,586-280-9496,Zack.Mcclain@example.com,"New York, USA",['Iphone'],KittyKat,No
+853.0,Chester Bell,501-541-1518,Chester.Bell@example.com,"New York, USA",['Iphone'],Flixnet,No
+402.0,Safaa Lopez,863-714-5286,Safaa.Lopez@example.com,"Chicago, USA",['Android'],Colgatex,No
+581.0,Kamal Gates,622-660-1036,Kamal.Gates@example.com,"Chicago, USA",['Android'],Oreoz,No
+872.0,Tomasz Baker,778-642-7614,Tomasz.Baker@example.com,"Barcelona, Spain","['Android', 'Desktop']",Oreoz,No
+207.0,Mark Friedman,111-862-3502,Mark.Friedman@example.com,"San Diego, USA","['Android', 'Desktop']",Flixnet,No
+703.0,Wade Hancock,245-455-9119,Wade.Hancock@example.com,"London, United Kingdom","['Android', 'Iphone', 'Desktop']",Popsi,No
+418.0,Kian Stephens,820-881-5658,Kian.Stephens@example.com,"Chicago, USA","['Android', 'Iphone', 'Desktop']",Popsi,No
+593.0,Danyal Lang,629-875-4423,Danyal.Lang@example.com,"Toronto, Canada","['Iphone', 'Desktop']",GatorBoost,No
+973.0,Jean Winters,526-938-2752,Jean.Winters@example.com,"San Diego, USA","['Android', 'Desktop']",KittyKat,Yes
+42.0,Tomas Griffith,492-337-4468,Tomas.Griffith@example.com,"London, United Kingdom",['Iphone'],Flixnet,Yes
+752.0,Marwa Dennis,444-295-8051,Marwa.Dennis@example.com,"Chicago, USA",['Iphone'],GatorBoost,Yes
+264.0,Maximillian Atkins,421-834-8740,Maximillian.Atkins@example.com,"Toronto, Canada","['Android', 'Iphone']",Oreoz,Yes
+922.0,Luisa Haley,916-879-3164,Luisa.Haley@example.com,"Barcelona, Spain","['Iphone', 'Desktop']",Oreoz,No
+973.0,Jean Winters,526-938-2752,Jean.Winters@example.com,"San Diego, USA","['Android', 'Desktop']",Popsi,Yes
+902.0,Mitchell Murray,939-709-6815,Mitchell.Murray@example.com,"San Francisco, USA","['Android', 'Iphone']",Dovee,Yes
+138.0,Adnan Allen,561-365-7378,Adnan.Allen@example.com,"Chicago, USA","['Android', 'Desktop']",Popsi,Yes
+748.0,Montgomery Davila,267-999-7224,Montgomery.Davila@example.com,"New York, USA","['Android', 'Desktop']",Krafty Cheddar,No
+10.0,Keith Donovan,549-515-6738,Keith.Donovan@example.com,"Chicago, USA","['Iphone', 'Desktop']",Oreoz,Yes
+772.0,Rajan Dickson,372-775-6929,Rajan.Dickson@example.com,"San Diego, USA",['Android'],Popsi,Yes
+918.0,William Franco,196-468-3312,William.Franco@example.com,"Toronto, Canada","['Android', 'Iphone']",GatorBoost,No
+248.0,Bethan Franco,317-895-5803,Bethan.Franco@example.com,"Toronto, Canada",['Android'],Popsi,Yes
+812.0,Saad Ali,185-189-3978,Saad.Ali@example.com,"San Francisco, USA",['Iphone'],Krafty Cheddar,Yes
+202.0,Kabir Stewart,891-887-3513,Kabir.Stewart@example.com,"San Francisco, USA","['Android', 'Desktop']",Oreoz,Yes
+883.0,Daniela James,716-145-3987,Daniela.James@example.com,"San Francisco, USA",['Iphone'],GatorBoost,Yes
+631.0,Brooklyn Fowler,933-501-9509,Brooklyn.Fowler@example.com,"San Francisco, USA","['Android', 'Iphone', 'Desktop']",Popsi,Yes
+237.0,Carter Coleman,530-826-1153,Carter.Coleman@example.com,"San Francisco, USA","['Iphone', 'Desktop']",Coca-Splash,Yes
+538.0,Tristan Valdez,109-614-1639,Tristan.Valdez@example.com,"Los Angeles, USA","['Android', 'Iphone']",Dovee,Yes
+878.0,Mateo Francis,508-390-8347,Mateo.Francis@example.com,"Los Angeles, USA",['Iphone'],Dovee,Yes
+429.0,Mike Hurst,488-247-6930,Mike.Hurst@example.com,"Montreal, Canada","['Iphone', 'Desktop']",Dovee,Yes
+933.0,Kaine Blankenship,294-274-7917,Kaine.Blankenship@example.com,"San Diego, USA","['Android', 'Iphone']",RedCow,Yes
+261.0,Dulcie Melendez,659-843-5422,Dulcie.Melendez@example.com,"Barcelona, Spain","['Android', 'Desktop']",RedCow,Yes
+291.0,Brooklyn Gamble,187-138-7951,Brooklyn.Gamble@example.com,"Chicago, USA","['Iphone', 'Desktop']",Popsi,Yes
+564.0,Craig Mcknight,634-813-9351,Craig.Mcknight@example.com,"Chicago, USA","['Android', 'Desktop']",Oreoz,Yes
+421.0,Juliet Gordon,647-601-9488,Juliet.Gordon@example.com,"San Diego, USA",['Android'],Krafty Cheddar,No
+328.0,Otis Pittman,563-494-9026,Otis.Pittman@example.com,"San Diego, USA","['Android', 'Iphone', 'Desktop']",Coca-Splash,Yes
+78.0,Angela Mcmillan,868-463-1850,Angela.Mcmillan@example.com,"London, United Kingdom",['Android'],Flixnet,No
+127.0,Zoya Giles,301-750-7631,Zoya.Giles@example.com,"Toronto, Canada","['Android', 'Iphone']",GatorBoost,No
+656.0,Tomos Velez,233-661-3978,Tomos.Velez@example.com,"Los Angeles, USA","['Android', 'Desktop']",RedCow,Yes
+258.0,Felicity Tran,530-539-9474,Felicity.Tran@example.com,"San Diego, USA","['Android', 'Iphone']",Flixnet,Yes
+171.0,Patrick Morse,220-102-3684,Patrick.Morse@example.com,"New York, USA","['Android', 'Iphone']",KittyKat,Yes
+503.0,Jim Moses,560-446-1279,Jim.Moses@example.com,"London, United Kingdom",['Iphone'],Popsi,Yes
+677.0,Kelvin Hendricks,767-726-4455,Kelvin.Hendricks@example.com,"San Diego, USA",['Android'],Coca-Splash,No
+938.0,Alisha Hoover,500-251-7080,Alisha.Hoover@example.com,"San Diego, USA",['Android'],Krafty Cheddar,No
+958.0,Luna Fowler,137-365-6816,Luna.Fowler@example.com,"Los Angeles, USA","['Android', 'Iphone', 'Desktop']",Dovee,Yes
+102.0,Alina Walls,507-883-4629,Alina.Walls@example.com,"Chicago, USA",['Android'],Oreoz,No
+436.0,Alan Burton,795-682-8733,Alan.Burton@example.com,"San Francisco, USA",['Android'],Krafty Cheddar,Yes
+68.0,Saif Green,978-659-7286,Saif.Green@example.com,"Paris, France",['Iphone'],Dovee,Yes
+555.0,Ammar Floyd,960-107-6796,Ammar.Floyd@example.com,"New York, USA","['Iphone', 'Desktop']",Dovee,Yes
+35.0,Linda Combs,742-395-8995,Linda.Combs@example.com,"Los Angeles, USA","['Android', 'Iphone', 'Desktop']",Flixnet,No
+50.0,Bruno Noble,639-790-8394,Bruno.Noble@example.com,"San Diego, USA",['Iphone'],Flixnet,No
+511.0,Kitty Carroll,305-617-1384,Kitty.Carroll@example.com,"San Diego, USA",['Iphone'],Coca-Splash,No
+711.0,Calvin Tucker,338-784-4359,Calvin.Tucker@example.com,"San Diego, USA",['Iphone'],Dovee,No
+398.0,Myrtle Lewis,727-289-2785,Myrtle.Lewis@example.com,"London, United Kingdom","['Android', 'Iphone', 'Desktop']",GatorBoost,No
+359.0,Jayden Meyers,233-480-8798,Jayden.Meyers@example.com,"San Diego, USA",['Android'],Krafty Cheddar,Yes
+184.0,David Bridges,946-447-2454,David.Bridges@example.com,"New York, USA",['Iphone'],RedCow,No
+980.0,Kacie Lester,673-651-6332,Kacie.Lester@example.com,"Toronto, Canada",['Android'],GatorBoost,Yes
+747.0,Tia Ali,507-663-5326,Tia.Ali@example.com,"San Francisco, USA",['Android'],Dovee,No
+753.0,Anais Ball,802-416-6545,Anais.Ball@example.com,"San Diego, USA","['Iphone', 'Desktop']",Dovee,Yes
+926.0,Ann John,814-362-6094,Ann.John@example.com,"San Francisco, USA","['Iphone', 'Desktop']",RedCow,Yes
+42.0,Tomas Griffith,492-337-4468,Tomas.Griffith@example.com,"London, United Kingdom",['Iphone'],Flixnet,Yes
+443.0,Miguel Guerrero,542-618-4471,Miguel.Guerrero@example.com,"San Francisco, USA","['Android', 'Iphone', 'Desktop']",KittyKat,No
+924.0,Kendra Francis,680-603-3144,Kendra.Francis@example.com,"San Francisco, USA",['Android'],Oreoz,Yes
+258.0,Felicity Tran,530-539-9474,Felicity.Tran@example.com,"San Diego, USA","['Android', 'Iphone']",GatorBoost,Yes
+556.0,Zayn Webb,561-761-7547,Zayn.Webb@example.com,"New York, USA","['Android', 'Desktop']",GatorBoost,No
+250.0,Sarah Mooney,507-446-1333,Sarah.Mooney@example.com,"Chicago, USA","['Android', 'Iphone', 'Desktop']",KittyKat,Yes
+296.0,Steven Reid,490-977-4025,Steven.Reid@example.com,"San Francisco, USA","['Android', 'Desktop']",Oreoz,Yes
+976.0,Marnie Mayo,725-331-2757,Marnie.Mayo@example.com,"San Diego, USA",['Android'],Oreoz,Yes
+93.0,Elif Khan,686-123-8571,Elif.Khan@example.com,"New York, USA","['Android', 'Desktop']",Coca-Splash,Yes
+197.0,Tiago Dunn,728-796-4352,Tiago.Dunn@example.com,"San Diego, USA","['Android', 'Iphone']",Colgatex,Yes
+489.0,Khadija Dunlap,752-472-1641,Khadija.Dunlap@example.com,"San Francisco, USA","['Android', 'Desktop']",GatorBoost,Yes
+259.0,Lily Chan,390-911-6534,Lily.Chan@example.com,"San Francisco, USA","['Android', 'Iphone']",KittyKat,Yes
+607.0,Bibi Roberts,631-796-8801,Bibi.Roberts@example.com,"New York, USA",['Android'],Krafty Cheddar,Yes
+58.0,Orlando Pitts,427-711-9658,Orlando.Pitts@example.com,"Los Angeles, USA",['Iphone'],RedCow,Yes
+829.0,Ismaeel Schmidt,110-478-3409,Ismaeel.Schmidt@example.com,"Los Angeles, USA",['Iphone'],Dovee,Yes
+274.0,Bronte Riley,786-291-8203,Bronte.Riley@example.com,"Toronto, Canada",['Iphone'],Popsi,Yes
+31.0,Bradley Butler,937-172-2269,Bradley.Butler@example.com,"Montreal, Canada",['Iphone'],Krafty Cheddar,No
+631.0,Brooklyn Fowler,933-501-9509,Brooklyn.Fowler@example.com,"San Francisco, USA","['Android', 'Iphone', 'Desktop']",Oreoz,Yes
+311.0,Mariam Campos,102-916-1394,Mariam.Campos@example.com,"San Diego, USA",['Iphone'],Oreoz,Yes
+260.0,Darcey Robles,790-759-5249,Darcey.Robles@example.com,"London, United Kingdom",['Iphone'],Colgatex,Yes
+929.0,Alannah Perkins,705-521-6039,Alannah.Perkins@example.com,"Chicago, USA","['Android', 'Iphone']",RedCow,Yes
+89.0,Everett Fitzpatrick,520-305-7264,Everett.Fitzpatrick@example.com,"New York, USA",['Iphone'],Oreoz,Yes
+936.0,Ted Wiggins,153-176-3641,Ted.Wiggins@example.com,"San Diego, USA",['Android'],KittyKat,Yes
+270.0,Nelson Huff,169-619-4582,Nelson.Huff@example.com,"New York, USA","['Android', 'Iphone', 'Desktop']",Coca-Splash,Yes
+791.0,Aoife Davidson,628-333-9139,Aoife.Davidson@example.com,"London, United Kingdom",['Android'],RedCow,Yes
+888.0,Liana Baldwin,736-366-9050,Liana.Baldwin@example.com,"San Diego, USA",['Android'],Krafty Cheddar,Yes
+842.0,Nancy Blair,434-174-7916,Nancy.Blair@example.com,"Toronto, Canada","['Iphone', 'Desktop']",GatorBoost,No
+69.0,Saoirse Keller,699-966-4749,Saoirse.Keller@example.com,"San Francisco, USA","['Android', 'Iphone', 'Desktop']",GatorBoost,Yes
+98.0,Traci Banks,313-374-6903,Traci.Banks@example.com,"San Francisco, USA","['Android', 'Iphone']",KittyKat,No
+526.0,Tara Brewer,114-507-5478,Tara.Brewer@example.com,"New York, USA",['Iphone'],Coca-Splash,Yes
+255.0,Miriam Pacheco,401-464-5796,Miriam.Pacheco@example.com,"San Diego, USA","['Android', 'Desktop']",Krafty Cheddar,Yes
+878.0,Mateo Francis,508-390-8347,Mateo.Francis@example.com,"Los Angeles, USA",['Iphone'],GatorBoost,Yes
+947.0,Isra Burgess,142-470-3907,Isra.Burgess@example.com,"San Diego, USA","['Android', 'Desktop']",Oreoz,Yes
+805.0,Gareth Sanford,161-842-7749,Gareth.Sanford@example.com,"Chicago, USA",['Android'],KittyKat,No
+495.0,Sandra Bowman,190-234-9749,Sandra.Bowman@example.com,"Los Angeles, USA","['Android', 'Iphone', 'Desktop']",Dovee,Yes
+292.0,Anya Bray,396-900-5179,Anya.Bray@example.com,"Toronto, Canada",['Iphone'],Oreoz,No
+510.0,Kaya Jacobson,870-909-4612,Kaya.Jacobson@example.com,"San Francisco, USA",['Android'],Dovee,Yes
+785.0,Kara Shelton,837-651-6819,Kara.Shelton@example.com,"Paris, France","['Android', 'Iphone', 'Desktop']",Flixnet,No
+698.0,Arjun Dejesus,693-790-8692,Arjun.Dejesus@example.com,"Chicago, USA",['Iphone'],Dovee,No
+507.0,Bridget Oneill,349-116-7728,Bridget.Oneill@example.com,"San Francisco, USA",['Android'],Coca-Splash,No
+550.0,Prince Sharp,886-278-8764,Prince.Sharp@example.com,"Montreal, Canada","['Iphone', 'Desktop']",GatorBoost,No
+730.0,Rhodri Haley,574-869-4715,Rhodri.Haley@example.com,"London, United Kingdom",['Iphone'],GatorBoost,No
+300.0,Danny Knapp,665-657-4948,Danny.Knapp@example.com,"Los Angeles, USA","['Android', 'Iphone', 'Desktop']",Coca-Splash,No
+524.0,Emre Everett,986-281-7506,Emre.Everett@example.com,"San Francisco, USA","['Iphone', 'Desktop']",KittyKat,No
+362.0,Fletcher Moreno,228-202-6360,Fletcher.Moreno@example.com,"San Francisco, USA",['Android'],Flixnet,No
+407.0,Trinity Mora,406-645-2610,Trinity.Mora@example.com,"Toronto, Canada",['Android'],KittyKat,No
+290.0,Brenda Ingram,919-358-6885,Brenda.Ingram@example.com,"Montreal, Canada","['Android', 'Iphone', 'Desktop']",Colgatex,No
+217.0,Phoebe Rodriguez,516-779-4464,Phoebe.Rodriguez@example.com,"New York, USA","['Android', 'Desktop']",GatorBoost,No
+336.0,Katrina Foster,497-544-5065,Katrina.Foster@example.com,"London, United Kingdom","['Android', 'Iphone']",KittyKat,No
+383.0,Owen Michael,178-910-8863,Owen.Michael@example.com,"Toronto, Canada",['Iphone'],Coca-Splash,No
+613.0,Larissa Perez,742-168-6071,Larissa.Perez@example.com,"London, United Kingdom","['Android', 'Desktop']",Colgatex,No
+107.0,Polly Reyes,296-740-3450,Polly.Reyes@example.com,"San Diego, USA",['Iphone'],GatorBoost,No
+591.0,Annalise Stephens,853-224-1381,Annalise.Stephens@example.com,"Toronto, Canada","['Iphone', 'Desktop']",Dovee,No
+822.0,Marissa Hayes,365-359-3043,Marissa.Hayes@example.com,"San Francisco, USA","['Android', 'Iphone', 'Desktop']",Oreoz,No
+339.0,Sahil Lyons,494-702-9881,Sahil.Lyons@example.com,"Montreal, Canada","['Android', 'Desktop']",Oreoz,No
+905.0,Cory Case,406-161-3681,Cory.Case@example.com,"London, United Kingdom",['Android'],Colgatex,No
+508.0,Brooke Barron,715-588-5341,Brooke.Barron@example.com,"Chicago, USA",['Iphone'],Colgatex,No
+983.0,Nicola Davenport,335-679-5225,Nicola.Davenport@example.com,"Toronto, Canada","['Iphone', 'Desktop']",Flixnet,No
+723.0,Yash Mcleod,270-525-3291,Yash.Mcleod@example.com,"London, United Kingdom",['Android'],GatorBoost,Yes
+21.0,Clifford Mcgee,715-116-6302,Clifford.Mcgee@example.com,"San Francisco, USA","['Android', 'Iphone']",Coca-Splash,No
+136.0,Hafsah Booker,731-730-2543,Hafsah.Booker@example.com,"New York, USA","['Iphone', 'Desktop']",Dovee,No
+91.0,Amir Clark,924-287-4068,Amir.Clark@example.com,"London, United Kingdom","['Android', 'Iphone', 'Desktop']",Krafty Cheddar,No
+164.0,Herman Knowles,130-936-8674,Herman.Knowles@example.com,"Los Angeles, USA","['Iphone', 'Desktop']",Colgatex,No
+218.0,Tony Shepard,416-772-8288,Tony.Shepard@example.com,"Barcelona, Spain",['Iphone'],Oreoz,No
+532.0,Lawson Levine,785-936-5286,Lawson.Levine@example.com,"San Francisco, USA","['Android', 'Iphone', 'Desktop']",GatorBoost,No
+524.0,Emre Everett,986-281-7506,Emre.Everett@example.com,"San Francisco, USA","['Iphone', 'Desktop']",Dovee,No
+586.0,Casey Finley,306-893-4689,Casey.Finley@example.com,"London, United Kingdom","['Android', 'Iphone', 'Desktop']",RedCow,No
+229.0,Kate Cline,927-741-2027,Kate.Cline@example.com,"Toronto, Canada","['Android', 'Desktop']",KittyKat,No
+889.0,Lucas Mcdowell,841-580-6320,Lucas.Mcdowell@example.com,"Chicago, USA","['Android', 'Desktop']",Dovee,No
+977.0,Anita Skinner,885-134-1740,Anita.Skinner@example.com,"Barcelona, Spain","['Android', 'Iphone']",RedCow,No
+354.0,Sharon Rojas,901-513-9962,Sharon.Rojas@example.com,"New York, USA",['Iphone'],Colgatex,No
+114.0,Laurie Melendez,488-382-1416,Laurie.Melendez@example.com,"Toronto, Canada","['Iphone', 'Desktop']",Oreoz,No
+962.0,Isobella Gilbert,717-961-9368,Isobella.Gilbert@example.com,"Barcelona, Spain","['Android', 'Desktop']",RedCow,No
+495.0,Sandra Bowman,190-234-9749,Sandra.Bowman@example.com,"Los Angeles, USA","['Android', 'Iphone', 'Desktop']",KittyKat,No
+608.0,Rishi Barron,331-128-4346,Rishi.Barron@example.com,"Montreal, Canada","['Android', 'Iphone', 'Desktop']",Popsi,No
+107.0,Polly Reyes,296-740-3450,Polly.Reyes@example.com,"San Diego, USA",['Iphone'],KittyKat,No
+665.0,Lucia Cisneros,470-574-7167,Lucia.Cisneros@example.com,"San Francisco, USA","['Android', 'Iphone', 'Desktop']",GatorBoost,No
+182.0,Luqman Carrillo,124-533-2523,Luqman.Carrillo@example.com,"New York, USA",['Android'],Coca-Splash,Yes
+336.0,Katrina Foster,497-544-5065,Katrina.Foster@example.com,"London, United Kingdom","['Android', 'Iphone']",Dovee,Yes
+559.0,Cecilia Edwards,941-963-8256,Cecilia.Edwards@example.com,"London, United Kingdom","['Android', 'Iphone', 'Desktop']",Popsi,No
+715.0,Oliver Garner,937-976-2511,Oliver.Garner@example.com,"Paris, France","['Iphone', 'Desktop']",Dovee,No
+207.0,Mark Friedman,111-862-3502,Mark.Friedman@example.com,"San Diego, USA","['Android', 'Desktop']",Colgatex,No
+679.0,Gabriela Norton,138-968-6467,Gabriela.Norton@example.com,"Chicago, USA",['Android'],Dovee,No
+898.0,Alana Koch,576-828-7913,Alana.Koch@example.com,"Barcelona, Spain","['Iphone', 'Desktop']",Coca-Splash,No
+784.0,Tiana Decker,255-136-3687,Tiana.Decker@example.com,"London, United Kingdom","['Iphone', 'Desktop']",RedCow,No
+306.0,Libbie Swanson,176-108-4411,Libbie.Swanson@example.com,"Chicago, USA",['Iphone'],Flixnet,No
+200.0,Eesa Buchanan,533-397-5445,Eesa.Buchanan@example.com,"London, United Kingdom","['Android', 'Iphone']",Krafty Cheddar,No
+34.0,Livia Howe,868-828-4315,Livia.Howe@example.com,"Toronto, Canada",['Iphone'],GatorBoost,No
+14.0,Harvey Guerrero,597-677-6862,Harvey.Guerrero@example.com,"Chicago, USA",['Iphone'],Popsi,Yes
+462.0,Junior Schwartz,543-252-9069,Junior.Schwartz@example.com,"San Francisco, USA","['Iphone', 'Desktop']",Coca-Splash,No
+284.0,Maximilian Whitney,804-245-1465,Maximilian.Whitney@example.com,"San Francisco, USA","['Android', 'Desktop']",Popsi,No
+569.0,Magnus Mcneil,125-993-7660,Magnus.Mcneil@example.com,"San Francisco, USA","['Iphone', 'Desktop']",Dovee,No
+27.0,Frazer Anthony,139-396-1336,Frazer.Anthony@example.com,"New York, USA","['Iphone', 'Desktop']",Oreoz,No
+170.0,Macie Payne,782-737-6408,Macie.Payne@example.com,"New York, USA",['Android'],KittyKat,No
+904.0,Martin Perry,586-420-6418,Martin.Perry@example.com,"Paris, France","['Android', 'Iphone']",GatorBoost,No
+684.0,Raheem Ellis,491-961-7709,Raheem.Ellis@example.com,"Chicago, USA","['Iphone', 'Desktop']",Krafty Cheddar,No

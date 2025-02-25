@@ -1,0 +1,1001 @@
+email,devices,city,phone,id,name
+Aadam.Browning@example.com,"['Android', 'Iphone', 'Desktop']","San Francisco, USA",702-276-7562,299.0,Aadam Browning
+Aaminah.Daniel@example.com,"['Android', 'Iphone', 'Desktop']","New York, USA",877-314-7868,335.0,Aaminah Daniel
+Aayan.Donovan@example.com,"['Android', 'Desktop']","Paris, France",476-401-9860,580.0,Aayan Donovan
+Abdirahman.Marsh@example.com,['Iphone'],"Toronto, Canada",653-601-4374,669.0,Abdirahman Marsh
+Abdirahman.Mullen@example.com,"['Android', 'Iphone', 'Desktop']","Toronto, Canada",669-442-8257,149.0,Abdirahman Mullen
+Abdullahi.Carson@example.com,"['Android', 'Iphone', 'Desktop']","Toronto, Canada",632-547-8327,809.0,Abdullahi Carson
+Abi.Montgomery@example.com,['Desktop'],"Montreal, Canada",904-933-1987,428.0,Abi Montgomery
+Abigail.Medina@example.com,"['Android', 'Desktop']","London, United Kingdom",857-602-1192,729.0,Abigail Medina
+Abu.Delacruz@example.com,"['Android', 'Iphone']","New York, USA",401-411-2184,657.0,Abu Delacruz
+Abu.Miranda@example.com,"['Iphone', 'Desktop']","Los Angeles, USA",615-102-4849,480.0,Abu Miranda
+Abubakar.House@example.com,['Desktop'],"San Diego, USA",713-179-2294,46.0,Abubakar House
+Abubakar.Shaffer@example.com,['Android'],"Barcelona, Spain",404-849-9394,330.0,Abubakar Shaffer
+Ada.Reid@example.com,"['Android', 'Iphone', 'Desktop']","Chicago, USA",958-944-9616,999.0,Ada Reid
+Ada.Walsh@example.com,['Desktop'],"San Francisco, USA",391-963-8942,534.0,Ada Walsh
+Adele.Cantrell@example.com,"['Android', 'Desktop']","New York, USA",264-319-7312,289.0,Adele Cantrell
+Adele.Garza@example.com,"['Android', 'Iphone', 'Desktop']","New York, USA",429-916-1662,17.0,Adele Garza
+Adem.Kerr@example.com,['Iphone'],"Toronto, Canada",219-873-6077,754.0,Adem Kerr
+Adem.Mccoy@example.com,"['Android', 'Iphone', 'Desktop']","San Francisco, USA",885-779-4082,830.0,Adem Mccoy
+Adnan.Allen@example.com,"['Android', 'Desktop']","Chicago, USA",561-365-7378,138.0,Adnan Allen
+Adnan.Moore@example.com,['Iphone'],"San Francisco, USA",132-644-9432,408.0,Adnan Moore
+Adrian.Joseph@example.com,"['Android', 'Iphone', 'Desktop']","Chicago, USA",808-456-6071,984.0,Adrian Joseph
+Adriana.Stafford@example.com,['Iphone'],"Montreal, Canada",473-741-6496,141.0,Adriana Stafford
+Ahmad.Castro@example.com,['Android'],"San Francisco, USA",629-807-5687,81.0,Ahmad Castro
+Ahmad.Landry@example.com,['Desktop'],"Los Angeles, USA",207-841-9893,890.0,Ahmad Landry
+Ahmad.Patrick@example.com,"['Android', 'Iphone']","Toronto, Canada",875-486-1626,482.0,Ahmad Patrick
+Ahmed.Mcpherson@example.com,['Android'],"Los Angeles, USA",797-300-1323,414.0,Ahmed Mcpherson
+Aidan.Mcmahon@example.com,"['Android', 'Iphone', 'Desktop']","New York, USA",896-647-2628,525.0,Aidan Mcmahon
+Aiden.Galvan@example.com,['Desktop'],"San Diego, USA",559-282-1575,112.0,Aiden Galvan
+Aimee.Duffy@example.com,"['Android', 'Iphone']","San Diego, USA",856-144-7655,157.0,Aimee Duffy
+Aisha.Sosa@example.com,['Iphone'],"New York, USA",964-448-9785,838.0,Aisha Sosa
+Aisha.Webb@example.com,"['Android', 'Desktop']","San Francisco, USA",447-728-9592,66.0,Aisha Webb
+Aisha.Winters@example.com,['Desktop'],"Toronto, Canada",280-831-1664,232.0,Aisha Winters
+Alan.Burton@example.com,['Android'],"San Francisco, USA",795-682-8733,436.0,Alan Burton
+Alana.Koch@example.com,"['Iphone', 'Desktop']","Barcelona, Spain",576-828-7913,898.0,Alana Koch
+Alanna.Stephens@example.com,['Iphone'],"Chicago, USA",710-282-8586,196.0,Alanna Stephens
+Alannah.Perkins@example.com,"['Android', 'Iphone']","Chicago, USA",705-521-6039,929.0,Alannah Perkins
+Alannah.Vaughn@example.com,['Android'],"San Francisco, USA",942-130-5841,431.0,Alannah Vaughn
+Alasdair.Mckinney@example.com,"['Android', 'Desktop']","Montreal, Canada",608-300-8331,874.0,Alasdair Mckinney
+Alastair.Buckley@example.com,['Android'],"San Diego, USA",776-243-3725,97.0,Alastair Buckley
+Albie.Larson@example.com,"['Android', 'Iphone']","Barcelona, Spain",252-910-3152,816.0,Albie Larson
+Aled.Harris@example.com,"['Iphone', 'Desktop']","San Diego, USA",924-132-3783,560.0,Aled Harris
+Aled.Silva@example.com,['Iphone'],"Toronto, Canada",612-360-5367,65.0,Aled Silva
+Alejandro.Ali@example.com,['Desktop'],"San Francisco, USA",685-467-9906,478.0,Alejandro Ali
+Alejandro.Brandt@example.com,"['Android', 'Iphone', 'Desktop']","New York, USA",334-279-1420,32.0,Alejandro Brandt
+Alejandro.Duncan@example.com,['Desktop'],"London, United Kingdom",487-150-9471,129.0,Alejandro Duncan
+Alejandro.Kent@example.com,"['Android', 'Iphone']","Chicago, USA",915-320-3214,927.0,Alejandro Kent
+Aleksander.Durham@example.com,"['Android', 'Iphone', 'Desktop']","New York, USA",582-306-5689,409.0,Aleksander Durham
+Alessandro.French@example.com,"['Android', 'Desktop']","San Diego, USA",216-516-1958,934.0,Alessandro French
+Alessia.Jenkins@example.com,['Iphone'],"Chicago, USA",547-388-2503,210.0,Alessia Jenkins
+Alessia.Watts@example.com,['Android'],"New York, USA",619-580-5165,160.0,Alessia Watts
+Alex.Alexander@example.com,"['Android', 'Iphone']","San Francisco, USA",489-290-8290,790.0,Alex Alexander
+Alexa.Baird@example.com,['Iphone'],"San Francisco, USA",604-771-4056,622.0,Alexa Baird
+Alexander.Reid@example.com,"['Iphone', 'Desktop']","Montreal, Canada",842-314-3728,818.0,Alexander Reid
+Alexander.Terry@example.com,"['Android', 'Iphone', 'Desktop']","New York, USA",480-560-1876,671.0,Alexander Terry
+Alexandra.Young@example.com,"['Android', 'Desktop']","Barcelona, Spain",425-414-7823,500.0,Alexandra Young
+Alexandros.Green@example.com,['Iphone'],"San Diego, USA",725-427-2794,341.0,Alexandros Green
+Alexandros.Ryan@example.com,"['Android', 'Iphone', 'Desktop']","Los Angeles, USA",849-570-8792,862.0,Alexandros Ryan
+Alfred.Stuart@example.com,['Desktop'],"Los Angeles, USA",713-145-1454,342.0,Alfred Stuart
+Alia.Brooks@example.com,"['Android', 'Desktop']","Montreal, Canada",327-292-8469,156.0,Alia Brooks
+Alia.Hess@example.com,['Desktop'],"San Diego, USA",735-371-7432,257.0,Alia Hess
+Alice.Huber@example.com,['Desktop'],"Chicago, USA",190-538-3053,565.0,Alice Huber
+Alice.Nielsen@example.com,['Desktop'],"Chicago, USA",988-763-8894,313.0,Alice Nielsen
+Alina.Mccoy@example.com,"['Iphone', 'Desktop']","San Francisco, USA",495-292-8149,25.0,Alina Mccoy
+Alina.Odom@example.com,"['Android', 'Iphone', 'Desktop']","Chicago, USA",737-828-4041,587.0,Alina Odom
+Alina.Walls@example.com,['Android'],"Chicago, USA",507-883-4629,102.0,Alina Walls
+Alisha.Hoover@example.com,['Android'],"San Diego, USA",500-251-7080,938.0,Alisha Hoover
+Alistair.Moore@example.com,"['Iphone', 'Desktop']","Los Angeles, USA",358-489-3754,348.0,Alistair Moore
+Alivia.Armstrong@example.com,['Iphone'],"Chicago, USA",398-367-7522,131.0,Alivia Armstrong
+Alyssa.Bradshaw@example.com,"['Android', 'Desktop']","San Diego, USA",606-353-8050,939.0,Alyssa Bradshaw
+Amaan.Rangel@example.com,"['Android', 'Iphone']","Montreal, Canada",837-435-2302,52.0,Amaan Rangel
+Amber.Gonzalez@example.com,['Desktop'],"London, United Kingdom",884-628-1984,636.0,Amber Gonzalez
+Ameer.Orr@example.com,"['Android', 'Desktop']","Chicago, USA",993-387-9130,713.0,Ameer Orr
+Ameera.Kirby@example.com,"['Android', 'Desktop']","London, United Kingdom",611-776-9890,523.0,Ameera Kirby
+Amie.Hood@example.com,['Android'],"Los Angeles, USA",659-426-4878,755.0,Amie Hood
+Amie.Lin@example.com,"['Android', 'Desktop']","New York, USA",153-814-9880,451.0,Amie Lin
+Amin.Petersen@example.com,['Desktop'],"London, United Kingdom",680-177-1233,804.0,Amin Petersen
+Aminah.Wells@example.com,"['Android', 'Iphone', 'Desktop']","Chicago, USA",950-639-9777,179.0,Aminah Wells
+Amir.Blackwell@example.com,['Desktop'],"San Francisco, USA",291-386-7567,765.0,Amir Blackwell
+Amir.Clark@example.com,"['Android', 'Iphone', 'Desktop']","London, United Kingdom",924-287-4068,91.0,Amir Clark
+Amira.Berg@example.com,"['Android', 'Iphone']","Chicago, USA",627-954-8991,165.0,Amira Berg
+Amira.Lane@example.com,['Desktop'],"San Francisco, USA",321-569-4426,240.0,Amira Lane
+Amira.Mueller@example.com,['Iphone'],"San Francisco, USA",445-867-4511,471.0,Amira Mueller
+Ammar.Floyd@example.com,"['Iphone', 'Desktop']","New York, USA",960-107-6796,555.0,Ammar Floyd
+Amna.Garner@example.com,"['Android', 'Iphone', 'Desktop']","Paris, France",157-518-8037,448.0,Amna Garner
+Anais.Ball@example.com,"['Iphone', 'Desktop']","San Diego, USA",802-416-6545,753.0,Anais Ball
+Anais.Pineda@example.com,['Android'],"New York, USA",609-304-3412,696.0,Anais Pineda
+Anas.Blevins@example.com,"['Android', 'Iphone', 'Desktop']","San Diego, USA",138-515-3364,90.0,Anas Blevins
+Andre.Le@example.com,['Android'],"San Francisco, USA",583-114-3994,486.0,Andre Le
+Andre.Long@example.com,"['Iphone', 'Desktop']","San Francisco, USA",883-691-2967,187.0,Andre Long
+Angel.Browning@example.com,['Desktop'],"Los Angeles, USA",768-205-1455,831.0,Angel Browning
+Angela.Lynch@example.com,"['Android', 'Iphone']","San Francisco, USA",227-737-8739,212.0,Angela Lynch
+Angela.Mcmillan@example.com,['Android'],"London, United Kingdom",868-463-1850,78.0,Angela Mcmillan
+Angelo.Manning@example.com,['Android'],"Toronto, Canada",182-351-6749,433.0,Angelo Manning
+Anita.Skinner@example.com,"['Android', 'Iphone']","Barcelona, Spain",885-134-1740,977.0,Anita Skinner
+Anjali.Peck@example.com,['Iphone'],"San Diego, USA",703-497-6452,504.0,Anjali Peck
+Ann.John@example.com,"['Iphone', 'Desktop']","San Francisco, USA",814-362-6094,926.0,Ann John
+Annabelle.Atkinson@example.com,['Android'],"San Francisco, USA",494-263-3527,279.0,Annabelle Atkinson
+Annalise.Stephens@example.com,"['Iphone', 'Desktop']","Toronto, Canada",853-224-1381,591.0,Annalise Stephens
+Anthony.Mccullough@example.com,['Desktop'],"Chicago, USA",330-176-2600,662.0,Anthony Mccullough
+Anton.Hartman@example.com,"['Android', 'Iphone', 'Desktop']","London, United Kingdom",708-986-9234,860.0,Anton Hartman
+Anya.Bray@example.com,['Iphone'],"Toronto, Canada",396-900-5179,292.0,Anya Bray
+Aoife.Davidson@example.com,['Android'],"London, United Kingdom",628-333-9139,791.0,Aoife Davidson
+Arabella.Knox@example.com,"['Android', 'Iphone']","Los Angeles, USA",652-272-9539,2.0,Arabella Knox
+Archibald.Melendez@example.com,"['Android', 'Iphone']","Chicago, USA",553-482-8315,326.0,Archibald Melendez
+Archie.Gregory@example.com,"['Android', 'Desktop']","San Diego, USA",945-301-2904,595.0,Archie Gregory
+Arjun.Dejesus@example.com,['Iphone'],"Chicago, USA",693-790-8692,698.0,Arjun Dejesus
+Arjun.Mccarthy@example.com,['Android'],"Los Angeles, USA",152-255-3479,497.0,Arjun Mccarthy
+Arnold.Spencer@example.com,"['Iphone', 'Desktop']","San Francisco, USA",962-701-8237,834.0,Arnold Spencer
+Arron.Herman@example.com,['Desktop'],"San Diego, USA",999-222-5375,573.0,Arron Herman
+Arron.Peck@example.com,"['Android', 'Iphone']","Paris, France",226-392-7970,119.0,Arron Peck
+Arthur.Hebert@example.com,['Android'],"New York, USA",203-343-2956,813.0,Arthur Hebert
+Asa.Haines@example.com,"['Android', 'Iphone']","London, United Kingdom",327-464-5734,199.0,Asa Haines
+Asa.Vazquez@example.com,['Android'],"Toronto, Canada",504-421-4485,9.0,Asa Vazquez
+Ashleigh.Trevino@example.com,['Android'],"San Francisco, USA",621-710-6972,238.0,Ashleigh Trevino
+Ashley.Cain@example.com,['Desktop'],"London, United Kingdom",679-244-6655,485.0,Ashley Cain
+Asia.Holloway@example.com,['Desktop'],"Los Angeles, USA",512-876-7834,864.0,Asia Holloway
+Aston.Villegas@example.com,"['Android', 'Desktop']","Los Angeles, USA",553-640-6714,954.0,Aston Villegas
+Astrid.Delgado@example.com,"['Android', 'Iphone', 'Desktop']","London, United Kingdom",641-317-3741,599.0,Astrid Delgado
+Astrid.Miles@example.com,"['Iphone', 'Desktop']","Paris, France",473-411-8478,906.0,Astrid Miles
+Aurora.Andrews@example.com,['Desktop'],"San Diego, USA",353-307-2005,815.0,Aurora Andrews
+Autumn.Hensley@example.com,"['Android', 'Iphone']","New York, USA",107-156-5064,283.0,Autumn Hensley
+Aya.Hoover@example.com,"['Android', 'Iphone', 'Desktop']","Chicago, USA",640-104-6782,310.0,Aya Hoover
+Aya.Weeks@example.com,"['Android', 'Iphone']","Toronto, Canada",466-888-7144,726.0,Aya Weeks
+Ayden.Valentine@example.com,"['Android', 'Desktop']","San Francisco, USA",208-392-1702,932.0,Ayden Valentine
+Ayesha.O'Reilly@example.com,['Iphone'],"San Diego, USA",273-616-5739,297.0,Ayesha O'Reilly
+Ayesha.Underwood@example.com,"['Android', 'Iphone', 'Desktop']","San Francisco, USA",687-284-9762,919.0,Ayesha Underwood
+Azaan.Barker@example.com,"['Android', 'Iphone', 'Desktop']","New York, USA",326-267-7811,692.0,Azaan Barker
+Azaan.Roth@example.com,"['Android', 'Iphone']","Los Angeles, USA",130-119-2032,206.0,Azaan Roth
+Barnaby.Payne@example.com,['Android'],"London, United Kingdom",140-296-7511,309.0,Barnaby Payne
+Barnaby.Wagner@example.com,['Desktop'],"Montreal, Canada",974-500-4168,716.0,Barnaby Wagner
+Barry.Buck@example.com,"['Android', 'Iphone', 'Desktop']","San Francisco, USA",667-391-6777,915.0,Barry Buck
+Barry.Reilly@example.com,['Desktop'],"Montreal, Canada",117-863-9669,594.0,Barry Reilly
+Barry.Taylor@example.com,['Desktop'],"San Francisco, USA",999-341-2797,717.0,Barry Taylor
+Beatrix.Everett@example.com,['Android'],"Paris, France",194-640-2758,5.0,Beatrix Everett
+Beau.Duran@example.com,"['Android', 'Iphone']","New York, USA",797-203-1866,617.0,Beau Duran
+Benjamin.Riddle@example.com,"['Android', 'Desktop']","Toronto, Canada",835-645-8652,893.0,Benjamin Riddle
+Bernard.Moran@example.com,['Iphone'],"San Francisco, USA",863-265-3242,487.0,Bernard Moran
+Bertha.Carter@example.com,"['Android', 'Desktop']","Chicago, USA",708-356-2109,276.0,Bertha Carter
+Bertha.Walsh@example.com,"['Android', 'Iphone']","London, United Kingdom",129-506-2067,606.0,Bertha Walsh
+Bertie.Cobb@example.com,['Desktop'],"San Francisco, USA",171-373-6091,760.0,Bertie Cobb
+Bertie.Ward@example.com,"['Android', 'Desktop']","Montreal, Canada",971-922-8663,135.0,Bertie Ward
+Bessie.Cole@example.com,['Iphone'],"San Diego, USA",424-390-3432,126.0,Bessie Cole
+Bessie.Conley@example.com,['Iphone'],"London, United Kingdom",128-912-7282,505.0,Bessie Conley
+Bessie.Cuevas@example.com,"['Android', 'Iphone']","Toronto, Canada",629-379-6872,317.0,Bessie Cuevas
+Bethan.Franco@example.com,['Android'],"Toronto, Canada",317-895-5803,248.0,Bethan Franco
+Bethany.Santana@example.com,['Iphone'],"New York, USA",924-146-4189,54.0,Bethany Santana
+Bibi.Roberts@example.com,['Android'],"New York, USA",631-796-8801,607.0,Bibi Roberts
+Bibi.Weaver@example.com,"['Android', 'Iphone']","Paris, France",956-787-2725,869.0,Bibi Weaver
+Bilal.Shaffer@example.com,['Desktop'],"San Diego, USA",308-774-7278,603.0,Bilal Shaffer
+Bill.Andersen@example.com,"['Android', 'Iphone']","Toronto, Canada",962-770-1270,757.0,Bill Andersen
+Bill.Chen@example.com,"['Android', 'Iphone', 'Desktop']","Toronto, Canada",264-895-1912,426.0,Bill Chen
+Bill.Jacobs@example.com,['Android'],"San Francisco, USA",279-704-9018,600.0,Bill Jacobs
+Billie.Price@example.com,['Desktop'],"London, United Kingdom",917-866-8131,57.0,Billie Price
+Billy.Norton@example.com,['Android'],"Chicago, USA",816-614-5153,963.0,Billy Norton
+Blaine.Boyer@example.com,['Desktop'],"London, United Kingdom",411-997-1636,153.0,Blaine Boyer
+Bonnie.Woods@example.com,"['Android', 'Iphone', 'Desktop']","San Francisco, USA",104-443-5734,254.0,Bonnie Woods
+Bradley.Butler@example.com,['Iphone'],"Montreal, Canada",937-172-2269,31.0,Bradley Butler
+Brandon.Rangel@example.com,"['Android', 'Iphone']","New York, USA",417-706-8052,375.0,Brandon Rangel
+Brayden.Patrick@example.com,"['Android', 'Desktop']","Los Angeles, USA",173-881-1582,702.0,Brayden Patrick
+Brenda.Deleon@example.com,['Iphone'],"Paris, France",997-981-2043,798.0,Brenda Deleon
+Brenda.Ingram@example.com,"['Android', 'Iphone', 'Desktop']","Montreal, Canada",919-358-6885,290.0,Brenda Ingram
+Brett.Landry@example.com,['Iphone'],"Barcelona, Spain",213-171-7560,691.0,Brett Landry
+Bridget.Oneill@example.com,['Android'],"San Francisco, USA",349-116-7728,507.0,Bridget Oneill
+Brittney.Ruiz@example.com,"['Iphone', 'Desktop']","San Francisco, USA",259-940-6592,646.0,Brittney Ruiz
+Brogan.Fitzgerald@example.com,"['Android', 'Iphone']","Montreal, Canada",955-732-8107,243.0,Brogan Fitzgerald
+Bronte.Mendoza@example.com,"['Android', 'Iphone']","Toronto, Canada",323-783-6615,712.0,Bronte Mendoza
+Bronte.Riley@example.com,['Iphone'],"Toronto, Canada",786-291-8203,274.0,Bronte Riley
+Bronwyn.Hanna@example.com,['Android'],"Toronto, Canada",763-469-4049,537.0,Bronwyn Hanna
+Brooke.Barron@example.com,['Iphone'],"Chicago, USA",715-588-5341,508.0,Brooke Barron
+Brooklyn.Fowler@example.com,"['Android', 'Iphone', 'Desktop']","San Francisco, USA",933-501-9509,631.0,Brooklyn Fowler
+Brooklyn.Gamble@example.com,"['Iphone', 'Desktop']","Chicago, USA",187-138-7951,291.0,Brooklyn Gamble
+Bruno.Noble@example.com,['Iphone'],"San Diego, USA",639-790-8394,50.0,Bruno Noble
+Bryan.Caldwell@example.com,['Desktop'],"San Francisco, USA",161-104-1451,494.0,Bryan Caldwell
+Bryan.Powell@example.com,['Android'],"San Francisco, USA",235-538-4936,774.0,Bryan Powell
+Bryony.Stevens@example.com,['Desktop'],"New York, USA",537-447-5075,583.0,Bryony Stevens
+Cai.Rowe@example.com,"['Android', 'Desktop']","New York, USA",263-391-9368,942.0,Cai Rowe
+Caiden.Kaufman@example.com,['Desktop'],"Montreal, Canada",805-349-3127,346.0,Caiden Kaufman
+Cain.Robertson@example.com,"['Iphone', 'Desktop']","New York, USA",375-525-5823,988.0,Cain Robertson
+Caitlyn.Lawson@example.com,"['Iphone', 'Desktop']","Paris, France",470-723-2187,987.0,Caitlyn Lawson
+Caleb.Obrien@example.com,"['Android', 'Iphone']","Toronto, Canada",223-387-1014,768.0,Caleb Obrien
+Calvin.Tucker@example.com,['Iphone'],"San Diego, USA",338-784-4359,711.0,Calvin Tucker
+Camilla.Huff@example.com,"['Android', 'Desktop']","San Francisco, USA",943-976-4626,432.0,Camilla Huff
+Camilla.Wells@example.com,"['Android', 'Desktop']","London, United Kingdom",149-482-9546,390.0,Camilla Wells
+Candice.Hooper@example.com,"['Android', 'Iphone', 'Desktop']","Toronto, Canada",382-506-1338,411.0,Candice Hooper
+Candice.Moyer@example.com,"['Android', 'Iphone']","San Francisco, USA",964-229-5609,710.0,Candice Moyer
+Carmen.Burton@example.com,"['Android', 'Desktop']","Toronto, Canada",527-368-7429,19.0,Carmen Burton
+Carol.Bean@example.com,['Android'],"San Francisco, USA",168-263-3805,424.0,Carol Bean
+Carol.Russo@example.com,"['Android', 'Desktop']","Toronto, Canada",192-156-9508,917.0,Carol Russo
+Carol.York@example.com,['Android'],"San Diego, USA",402-586-5192,124.0,Carol York
+Carolyn.Pittman@example.com,['Android'],"New York, USA",451-215-7038,535.0,Carolyn Pittman
+Carter.Coleman@example.com,"['Iphone', 'Desktop']","San Francisco, USA",530-826-1153,237.0,Carter Coleman
+Casey.Finley@example.com,"['Android', 'Iphone', 'Desktop']","London, United Kingdom",306-893-4689,586.0,Casey Finley
+Caspar.Hudson@example.com,['Iphone'],"Toronto, Canada",830-584-4874,103.0,Caspar Hudson
+Casper.Freeman@example.com,['Android'],"San Diego, USA",932-653-8020,82.0,Casper Freeman
+Casper.Padilla@example.com,"['Android', 'Iphone']","San Francisco, USA",823-261-2968,575.0,Casper Padilla
+Cassie.Gaines@example.com,"['Iphone', 'Desktop']","Paris, France",496-692-2413,468.0,Cassie Gaines
+Cassie.Molina@example.com,"['Android', 'Desktop']","San Francisco, USA",811-806-5304,28.0,Cassie Molina
+Cayden.Walls@example.com,"['Android', 'Desktop']","San Francisco, USA",355-649-8007,875.0,Cayden Walls
+Cecilia.David@example.com,"['Android', 'Iphone', 'Desktop']","New York, USA",919-925-5280,868.0,Cecilia David
+Cecilia.Edwards@example.com,"['Android', 'Iphone', 'Desktop']","London, United Kingdom",941-963-8256,559.0,Cecilia Edwards
+Cecily.Blaese@example.com,"['Iphone', 'Desktop']","Toronto, Canada",234-446-2115,405.0,Cecily Blaese
+Cecily.Escobar@example.com,['Desktop'],"New York, USA",840-532-1467,764.0,Cecily Escobar
+Celia.Terry@example.com,"['Iphone', 'Desktop']","New York, USA",986-149-3342,47.0,Celia Terry
+Celine.Calderon@example.com,['Iphone'],"San Diego, USA",110-293-2276,419.0,Celine Calderon
+Chanel.Lang@example.com,"['Iphone', 'Desktop']","San Francisco, USA",284-895-4854,298.0,Chanel Lang
+Chantelle.Holt@example.com,"['Android', 'Desktop']","Paris, France",256-585-1002,736.0,Chantelle Holt
+Charis.Bray@example.com,"['Android', 'Desktop']","Los Angeles, USA",175-925-8526,848.0,Charis Bray
+Charis.Cotton@example.com,['Desktop'],"Toronto, Canada",598-771-1224,466.0,Charis Cotton
+Charlotte.Baxter@example.com,"['Android', 'Desktop']","San Francisco, USA",757-193-7348,190.0,Charlotte Baxter
+Charlotte.Trevino@example.com,"['Android', 'Iphone']","New York, USA",110-715-4620,413.0,Charlotte Trevino
+Chelsea.Proctor@example.com,['Desktop'],"Chicago, USA",256-560-3458,951.0,Chelsea Proctor
+Chelsea.Wyatt@example.com,"['Iphone', 'Desktop']","San Diego, USA",750-801-9657,104.0,Chelsea Wyatt
+Cheryl.Owens@example.com,"['Android', 'Iphone']","San Francisco, USA",812-775-9881,80.0,Cheryl Owens
+Chester.Bell@example.com,['Iphone'],"New York, USA",501-541-1518,853.0,Chester Bell
+Chiara.Ho@example.com,['Iphone'],"Montreal, Canada",279-331-5254,825.0,Chiara Ho
+Chloe.Mullen@example.com,['Android'],"New York, USA",723-357-7363,935.0,Chloe Mullen
+Chris.Zimmerman@example.com,['Desktop'],"San Diego, USA",371-875-4229,241.0,Chris Zimmerman
+Christina.Blanchard@example.com,['Desktop'],"New York, USA",420-887-3636,865.0,Christina Blanchard
+Christina.Mays@example.com,"['Android', 'Desktop']","San Francisco, USA",333-143-8841,930.0,Christina Mays
+Christine.Davenport@example.com,['Iphone'],"Montreal, Canada",168-853-2168,483.0,Christine Davenport
+Christopher.Pollard@example.com,"['Android', 'Iphone', 'Desktop']","San Diego, USA",915-743-9764,415.0,Christopher Pollard
+Clara.Bird@example.com,['Android'],"San Francisco, USA",958-605-3200,40.0,Clara Bird
+Clarence.Hanson@example.com,"['Android', 'Iphone']","Chicago, USA",743-908-5464,85.0,Clarence Hanson
+Clementine.Beck@example.com,"['Iphone', 'Desktop']","San Diego, USA",607-793-6646,857.0,Clementine Beck
+Clementine.Sloan@example.com,"['Android', 'Iphone']","Chicago, USA",480-906-3761,558.0,Clementine Sloan
+Clementine.Whitaker@example.com,['Desktop'],"Los Angeles, USA",193-348-3198,249.0,Clementine Whitaker
+Cleo.Greer@example.com,"['Android', 'Iphone']","Los Angeles, USA",138-806-4136,77.0,Cleo Greer
+Clifford.Mcgee@example.com,"['Android', 'Iphone']","San Francisco, USA",715-116-6302,21.0,Clifford Mcgee
+Cody.Riley@example.com,"['Android', 'Iphone', 'Desktop']","London, United Kingdom",872-906-9681,41.0,Cody Riley
+Colby.Baxter@example.com,['Android'],"Los Angeles, USA",584-747-3867,472.0,Colby Baxter
+Colby.Harding@example.com,"['Android', 'Iphone', 'Desktop']","San Francisco, USA",584-554-7060,964.0,Colby Harding
+Colby.Hart@example.com,"['Android', 'Desktop']","San Francisco, USA",900-712-6799,99.0,Colby Hart
+Connor.Neal@example.com,"['Android', 'Desktop']","Chicago, USA",189-827-7386,941.0,Connor Neal
+Conor.Rush@example.com,['Iphone'],"New York, USA",663-671-4088,201.0,Conor Rush
+Conrad.Hanna@example.com,"['Iphone', 'Desktop']","San Diego, USA",934-954-3387,441.0,Conrad Hanna
+Cordelia.Houston@example.com,"['Android', 'Iphone']","San Francisco, USA",946-560-7738,45.0,Cordelia Houston
+Cordelia.Marquez@example.com,"['Iphone', 'Desktop']","Los Angeles, USA",636-910-2488,286.0,Cordelia Marquez
+Cordelia.Serrano@example.com,"['Android', 'Desktop']","London, United Kingdom",950-319-1013,891.0,Cordelia Serrano
+Cormac.Greer@example.com,"['Iphone', 'Desktop']","Paris, France",722-120-7628,650.0,Cormac Greer
+Cory.Case@example.com,['Android'],"London, United Kingdom",406-161-3681,905.0,Cory Case
+Craig.Mcknight@example.com,"['Android', 'Desktop']","Chicago, USA",634-813-9351,564.0,Craig Mcknight
+Cruz.Neal@example.com,['Desktop'],"Chicago, USA",732-513-2567,566.0,Cruz Neal
+Dafydd.Preston@example.com,"['Android', 'Iphone', 'Desktop']","Barcelona, Spain",368-987-3267,29.0,Dafydd Preston
+Damon.Bullock@example.com,"['Android', 'Desktop']","Chicago, USA",130-864-9453,191.0,Damon Bullock
+Dan.Bates@example.com,['Desktop'],"San Francisco, USA",944-189-5693,824.0,Dan Bates
+Daniel.Reid@example.com,['Android'],"Paris, France",753-936-1634,552.0,Daniel Reid
+Daniela.James@example.com,['Iphone'],"San Francisco, USA",716-145-3987,883.0,Daniela James
+Danielle.Glenn@example.com,"['Android', 'Iphone', 'Desktop']","San Francisco, USA",727-709-3351,23.0,Danielle Glenn
+Danielle.Lester@example.com,"['Android', 'Iphone']","San Francisco, USA",427-342-5497,517.0,Danielle Lester
+Danny.Knapp@example.com,"['Android', 'Iphone', 'Desktop']","Los Angeles, USA",665-657-4948,300.0,Danny Knapp
+Danny.Tate@example.com,['Android'],"San Diego, USA",574-779-9113,549.0,Danny Tate
+Dante.Burgess@example.com,"['Android', 'Desktop']","San Diego, USA",222-241-4261,700.0,Dante Burgess
+Dante.Moon@example.com,"['Android', 'Iphone', 'Desktop']","New York, USA",285-551-6208,811.0,Dante Moon
+Danyal.Lang@example.com,"['Iphone', 'Desktop']","Toronto, Canada",629-875-4423,593.0,Danyal Lang
+Darcey.Powell@example.com,"['Android', 'Iphone']","San Diego, USA",558-608-9550,370.0,Darcey Powell
+Darcey.Robles@example.com,['Iphone'],"London, United Kingdom",790-759-5249,260.0,Darcey Robles
+Darcey.Whitney@example.com,"['Android', 'Iphone', 'Desktop']","San Francisco, USA",483-860-2350,189.0,Darcey Whitney
+Darcie.Lane@example.com,['Android'],"Los Angeles, USA",899-901-3539,166.0,Darcie Lane
+Darcy.Jenkins@example.com,['Iphone'],"Los Angeles, USA",705-890-7715,584.0,Darcy Jenkins
+Darcy.Wall@example.com,['Desktop'],"Montreal, Canada",109-398-3560,231.0,Darcy Wall
+David.Bridges@example.com,['Iphone'],"New York, USA",946-447-2454,184.0,David Bridges
+David.Mcconnell@example.com,['Iphone'],"San Francisco, USA",967-585-7262,576.0,David Mcconnell
+Davina.O'Doherty@example.com,"['Android', 'Desktop']","New York, USA",330-649-8079,572.0,Davina O'Doherty
+Dawid.Lozano@example.com,['Iphone'],"Toronto, Canada",410-788-9917,355.0,Dawid Lozano
+Dawn.Cisneros@example.com,['Desktop'],"Toronto, Canada",375-337-2745,727.0,Dawn Cisneros
+Deacon.Boone@example.com,"['Android', 'Iphone', 'Desktop']","New York, USA",950-335-6994,861.0,Deacon Boone
+Dean.Koch@example.com,['Desktop'],"San Francisco, USA",510-682-8416,440.0,Dean Koch
+Dean.Lewis@example.com,"['Android', 'Iphone', 'Desktop']","San Diego, USA",243-955-3782,6.0,Dean Lewis
+Delilah.Wu@example.com,['Iphone'],"Los Angeles, USA",668-572-6520,787.0,Delilah Wu
+Delores.Carroll@example.com,['Iphone'],"Chicago, USA",778-532-2184,943.0,Delores Carroll
+Demi.Callahan@example.com,['Android'],"Toronto, Canada",713-176-8275,578.0,Demi Callahan
+Demi.Dennis@example.com,['Iphone'],"Los Angeles, USA",429-374-1894,460.0,Demi Dennis
+Demi.Patel@example.com,"['Android', 'Desktop']","Los Angeles, USA",703-829-8473,814.0,Demi Patel
+Denzel.Black@example.com,"['Android', 'Desktop']","San Francisco, USA",677-290-8939,731.0,Denzel Black
+Dewey.Lucas@example.com,['Iphone'],"San Francisco, USA",323-234-9528,819.0,Dewey Lucas
+Dewi.Keith@example.com,"['Android', 'Iphone']","Chicago, USA",816-321-4054,67.0,Dewi Keith
+Dexter.Hartley@example.com,['Iphone'],"San Diego, USA",582-489-4208,654.0,Dexter Hartley
+Dhruv.Villarreal@example.com,"['Android', 'Desktop']","London, United Kingdom",931-559-3083,180.0,Dhruv Villarreal
+Diana.Davenport@example.com,"['Iphone', 'Desktop']","Los Angeles, USA",505-179-8348,44.0,Diana Davenport
+Diane.Kelly@example.com,"['Android', 'Iphone']","Montreal, Canada",219-449-5089,625.0,Diane Kelly
+Dillon.Cisneros@example.com,"['Android', 'Iphone', 'Desktop']","Paris, France",304-384-6230,477.0,Dillon Cisneros
+Dillon.Johnston@example.com,['Desktop'],"New York, USA",732-904-7872,652.0,Dillon Johnston
+Dominik.Odling@example.com,"['Android', 'Desktop']","Los Angeles, USA",365-145-3897,36.0,Dominik Odling
+Dominik.Velez@example.com,"['Android', 'Iphone']","San Francisco, USA",149-740-6115,903.0,Dominik Velez
+Donald.Dale@example.com,['Desktop'],"San Francisco, USA",995-494-7868,288.0,Donald Dale
+Donald.Horne@example.com,"['Android', 'Iphone']","San Francisco, USA",738-911-3567,697.0,Donald Horne
+Donald.Stone@example.com,"['Android', 'Desktop']","London, United Kingdom",730-260-4630,20.0,Donald Stone
+Donovan.Evans@example.com,['Iphone'],"Montreal, Canada",729-134-2962,551.0,Donovan Evans
+Doris.Griffith@example.com,"['Iphone', 'Desktop']","San Francisco, USA",839-124-9420,305.0,Doris Griffith
+Douglas.Browning@example.com,['Android'],"New York, USA",247-523-1403,86.0,Douglas Browning
+Douglas.Lozano@example.com,['Iphone'],"New York, USA",916-136-3366,247.0,Douglas Lozano
+Drew.Orozco@example.com,['Iphone'],"San Diego, USA",531-709-2553,877.0,Drew Orozco
+Dulcie.Melendez@example.com,"['Android', 'Desktop']","Barcelona, Spain",659-843-5422,261.0,Dulcie Melendez
+Dylan.York@example.com,['Iphone'],"Chicago, USA",832-799-7454,725.0,Dylan York
+Earl.Fowler@example.com,"['Android', 'Iphone']","Los Angeles, USA",648-268-9331,597.0,Earl Fowler
+Earl.Hobbs@example.com,['Desktop'],"New York, USA",916-866-7237,605.0,Earl Hobbs
+Earl.Vargas@example.com,['Desktop'],"San Francisco, USA",821-464-7474,786.0,Earl Vargas
+Eddie.Archer@example.com,"['Iphone', 'Desktop']","San Francisco, USA",130-279-8355,265.0,Eddie Archer
+Edith.Walker@example.com,['Iphone'],"Los Angeles, USA",805-146-4773,146.0,Edith Walker
+Edward.Ayala@example.com,"['Android', 'Desktop']","Montreal, Canada",416-337-3343,239.0,Edward Ayala
+Eesa.Buchanan@example.com,"['Android', 'Iphone']","London, United Kingdom",533-397-5445,200.0,Eesa Buchanan
+Effie.Jordan@example.com,"['Iphone', 'Desktop']","San Francisco, USA",778-566-2709,957.0,Effie Jordan
+Ehsan.Anthony@example.com,['Desktop'],"San Francisco, USA",364-687-4749,491.0,Ehsan Anthony
+Eleanor.Mcintosh@example.com,['Android'],"Toronto, Canada",153-538-3431,147.0,Eleanor Mcintosh
+Elena.Pineda@example.com,"['Android', 'Iphone', 'Desktop']","Los Angeles, USA",617-226-9486,43.0,Elena Pineda
+Eleni.Maxwell@example.com,['Android'],"San Diego, USA",449-237-4755,802.0,Eleni Maxwell
+Elif.Hopkins@example.com,['Iphone'],"New York, USA",953-491-9939,793.0,Elif Hopkins
+Elif.Khan@example.com,"['Android', 'Desktop']","New York, USA",686-123-8571,93.0,Elif Khan
+Elijah.Castaneda@example.com,['Desktop'],"Chicago, USA",354-709-5741,145.0,Elijah Castaneda
+Eliot.Stokes@example.com,['Iphone'],"Los Angeles, USA",864-975-1957,209.0,Eliot Stokes
+Elisabeth.Tran@example.com,"['Android', 'Desktop']","London, United Kingdom",363-441-2226,334.0,Elisabeth Tran
+Elisha.Cobb@example.com,['Iphone'],"San Francisco, USA",821-536-1739,604.0,Elisha Cobb
+Elisha.Garza@example.com,"['Android', 'Iphone', 'Desktop']","Los Angeles, USA",313-206-2033,706.0,Elisha Garza
+Elisha.Owens@example.com,['Iphone'],"Los Angeles, USA",195-699-1871,945.0,Elisha Owens
+Eliza.Gordon@example.com,['Android'],"Los Angeles, USA",805-946-7433,161.0,Eliza Gordon
+Ellena.Ramsey@example.com,['Desktop'],"San Diego, USA",639-267-5334,302.0,Ellena Ramsey
+Elodie.Flores@example.com,"['Android', 'Desktop']","San Francisco, USA",565-243-9336,634.0,Elodie Flores
+Elsa.Hebert@example.com,['Iphone'],"Los Angeles, USA",389-739-1832,381.0,Elsa Hebert
+Elsie.Cuevas@example.com,['Iphone'],"Montreal, Canada",186-536-6820,245.0,Elsie Cuevas
+Elysia.Mata@example.com,"['Iphone', 'Desktop']","New York, USA",111-388-1063,282.0,Elysia Mata
+Elysia.Schaefer@example.com,"['Android', 'Desktop']","Montreal, Canada",264-321-9679,541.0,Elysia Schaefer
+Emelia.Bridges@example.com,"['Android', 'Desktop']","San Diego, USA",347-640-5509,866.0,Emelia Bridges
+Emelia.Page@example.com,"['Iphone', 'Desktop']","San Francisco, USA",929-575-4315,144.0,Emelia Page
+Emilie.Frye@example.com,['Iphone'],"San Francisco, USA",193-516-9014,792.0,Emilie Frye
+Emilie.Mckee@example.com,"['Android', 'Iphone']","San Francisco, USA",270-914-6681,416.0,Emilie Mckee
+Emilio.Stevenson@example.com,['Android'],"Toronto, Canada",293-399-2353,967.0,Emilio Stevenson
+Emmie.Schmidt@example.com,['Android'],"San Francisco, USA",130-236-9253,221.0,Emmie Schmidt
+Emre.Everett@example.com,"['Iphone', 'Desktop']","San Francisco, USA",986-281-7506,524.0,Emre Everett
+Enya.Chen@example.com,"['Android', 'Iphone']","Los Angeles, USA",266-343-6530,632.0,Enya Chen
+Enya.Hernandez@example.com,['Iphone'],"Barcelona, Spain",406-397-1498,173.0,Enya Hernandez
+Enzo.Hess@example.com,"['Android', 'Desktop']","Los Angeles, USA",359-874-3781,434.0,Enzo Hess
+Enzo.Whitney@example.com,"['Android', 'Iphone', 'Desktop']","Chicago, USA",565-709-5636,708.0,Enzo Whitney
+Eoin.Fields@example.com,['Android'],"Los Angeles, USA",507-766-7432,519.0,Eoin Fields
+Ernest.Martinez@example.com,"['Android', 'Desktop']","San Diego, USA",448-597-4211,55.0,Ernest Martinez
+Eryn.Bowers@example.com,"['Android', 'Iphone', 'Desktop']","Chicago, USA",767-372-8468,367.0,Eryn Bowers
+Esha.Zuniga@example.com,"['Iphone', 'Desktop']","Los Angeles, USA",807-517-9078,680.0,Esha Zuniga
+Eshal.Carpenter@example.com,"['Android', 'Desktop']","Chicago, USA",918-191-3394,851.0,Eshal Carpenter
+Esme.Krueger@example.com,"['Android', 'Iphone']","Toronto, Canada",173-138-2227,543.0,Esme Krueger
+Esme.Nielsen@example.com,"['Android', 'Iphone']","Los Angeles, USA",621-797-5367,4.0,Esme Nielsen
+Esme.Reeves@example.com,['Desktop'],"Chicago, USA",151-285-9583,718.0,Esme Reeves
+Esmee.Harmon@example.com,"['Android', 'Desktop']","New York, USA",271-604-3446,234.0,Esmee Harmon
+Esther.Mccall@example.com,"['Android', 'Desktop']","Los Angeles, USA",573-696-6671,48.0,Esther Mccall
+Ethan.Price@example.com,"['Android', 'Iphone', 'Desktop']","Los Angeles, USA",558-134-7531,158.0,Ethan Price
+Eugene.Taylor@example.com,['Iphone'],"Toronto, Canada",712-926-3402,214.0,Eugene Taylor
+Evelyn.Cross@example.com,['Iphone'],"San Francisco, USA",312-643-8868,852.0,Evelyn Cross
+Everett.Fitzpatrick@example.com,['Iphone'],"New York, USA",520-305-7264,89.0,Everett Fitzpatrick
+Everly.Chaney@example.com,['Desktop'],"San Francisco, USA",184-294-5435,910.0,Everly Chaney
+Everly.Cortez@example.com,['Android'],"Toronto, Canada",954-995-1806,262.0,Everly Cortez
+Everly.Fuentes@example.com,['Android'],"Barcelona, Spain",398-369-8927,142.0,Everly Fuentes
+Everly.Key@example.com,['Iphone'],"New York, USA",152-557-5017,627.0,Everly Key
+Fahad.Gill@example.com,"['Android', 'Iphone']","Chicago, USA",796-816-9963,733.0,Fahad Gill
+Faizan.Hill@example.com,['Android'],"San Francisco, USA",572-649-5353,294.0,Faizan Hill
+Fatimah.Johns@example.com,['Iphone'],"London, United Kingdom",520-433-7411,998.0,Fatimah Johns
+Fay.Lucas@example.com,"['Android', 'Iphone']","Montreal, Canada",436-818-1915,277.0,Fay Lucas
+Felicity.Tran@example.com,"['Android', 'Iphone']","San Diego, USA",530-539-9474,258.0,Felicity Tran
+Ffion.Brandt@example.com,['Desktop'],"San Diego, USA",560-197-4771,457.0,Ffion Brandt
+Ffion.Knight@example.com,['Iphone'],"San Diego, USA",233-159-4158,854.0,Ffion Knight
+Findlay.O'Quinn@example.com,['Android'],"Los Angeles, USA",605-713-8734,410.0,Findlay O'Quinn
+Findlay.Velasquez@example.com,"['Android', 'Iphone', 'Desktop']","Los Angeles, USA",675-319-8856,272.0,Findlay Velasquez
+Finnian.Fisher@example.com,"['Android', 'Iphone']","Toronto, Canada",382-879-9946,123.0,Finnian Fisher
+Fletcher.Moreno@example.com,['Android'],"San Francisco, USA",228-202-6360,362.0,Fletcher Moreno
+Frankie.Jenkins@example.com,['Desktop'],"San Francisco, USA",301-409-5419,899.0,Frankie Jenkins
+Franklin.Conway@example.com,"['Android', 'Desktop']","San Diego, USA",768-545-4465,105.0,Franklin Conway
+Fraser.Hooper@example.com,['Iphone'],"New York, USA",228-636-9031,384.0,Fraser Hooper
+Frazer.Anthony@example.com,"['Iphone', 'Desktop']","New York, USA",139-396-1336,27.0,Frazer Anthony
+Frederick.Everett@example.com,"['Android', 'Desktop']","San Francisco, USA",262-696-7077,762.0,Frederick Everett
+Fynn.Graham@example.com,"['Android', 'Iphone']","Toronto, Canada",763-842-3292,194.0,Fynn Graham
+Gabriel.Mccormick@example.com,['Desktop'],"New York, USA",903-845-9623,801.0,Gabriel Mccormick
+Gabriela.Norton@example.com,['Android'],"Chicago, USA",138-968-6467,679.0,Gabriela Norton
+Gareth.Sanford@example.com,['Android'],"Chicago, USA",161-842-7749,805.0,Gareth Sanford
+Gareth.Sutherland@example.com,['Android'],"San Diego, USA",471-744-7605,186.0,Gareth Sutherland
+Gary.Hutchinson@example.com,['Android'],"San Francisco, USA",245-506-5389,140.0,Gary Hutchinson
+Gary.Richards@example.com,"['Android', 'Iphone']","Toronto, Canada",970-902-7934,645.0,Gary Richards
+Georgiana.Horton@example.com,"['Android', 'Desktop']","Los Angeles, USA",290-200-9393,273.0,Georgiana Horton
+Gerald.Carver@example.com,['Desktop'],"Los Angeles, USA",658-867-4112,515.0,Gerald Carver
+Gerald.Maldonado@example.com,['Android'],"San Francisco, USA",660-116-3336,22.0,Gerald Maldonado
+Gerard.Francis@example.com,"['Android', 'Iphone', 'Desktop']","Chicago, USA",958-724-3846,211.0,Gerard Francis
+Gerard.Vargas@example.com,"['Android', 'Iphone', 'Desktop']","San Diego, USA",663-149-3581,116.0,Gerard Vargas
+Gertrude.Huffman@example.com,['Iphone'],"San Diego, USA",148-739-3707,332.0,Gertrude Huffman
+Gertrude.Mcgrath@example.com,"['Android', 'Iphone']","Toronto, Canada",364-150-1035,738.0,Gertrude Mcgrath
+Gideon.Perez@example.com,"['Android', 'Iphone', 'Desktop']","Toronto, Canada",135-944-5781,406.0,Gideon Perez
+Giovanni.Duncan@example.com,"['Iphone', 'Desktop']","New York, USA",679-161-6360,720.0,Giovanni Duncan
+Gloria.Mason@example.com,['Iphone'],"Los Angeles, USA",495-379-8123,236.0,Gloria Mason
+Gloria.Quinn@example.com,"['Android', 'Desktop']","San Diego, USA",225-175-9968,401.0,Gloria Quinn
+Gordon.Morales@example.com,"['Android', 'Desktop']","Chicago, USA",973-462-1199,761.0,Gordon Morales
+Grayson.Rasmussen@example.com,['Android'],"New York, USA",312-891-9587,251.0,Grayson Rasmussen
+Gregory.Mcgrath@example.com,['Desktop'],"San Francisco, USA",284-161-5702,386.0,Gregory Mcgrath
+Gregory.Strong@example.com,"['Iphone', 'Desktop']","New York, USA",952-404-1885,266.0,Gregory Strong
+Guy.Osborn@example.com,['Desktop'],"San Francisco, USA",990-686-6129,394.0,Guy Osborn
+Gwen.Norris@example.com,"['Android', 'Iphone']","San Diego, USA",699-606-9952,981.0,Gwen Norris
+Haaris.Blevins@example.com,['Iphone'],"Chicago, USA",790-597-2437,423.0,Haaris Blevins
+Hafsah.Booker@example.com,"['Iphone', 'Desktop']","New York, USA",731-730-2543,136.0,Hafsah Booker
+Haider.Lynn@example.com,['Desktop'],"San Francisco, USA",796-196-9713,775.0,Haider Lynn
+Haider.Mcguire@example.com,['Desktop'],"New York, USA",719-649-9057,492.0,Haider Mcguire
+Hajra.Baxter@example.com,['Android'],"San Francisco, USA",600-542-2254,596.0,Hajra Baxter
+Halima.Maldonado@example.com,"['Android', 'Iphone']","San Francisco, USA",831-743-6220,758.0,Halima Maldonado
+Hamish.Khan@example.com,['Desktop'],"Los Angeles, USA",609-154-4773,847.0,Hamish Khan
+Hana.Barr@example.com,"['Android', 'Desktop']","San Francisco, USA",541-180-4090,230.0,Hana Barr
+Hanna.Knight@example.com,"['Android', 'Iphone']","San Diego, USA",249-198-1689,928.0,Hanna Knight
+Hannah.Roman@example.com,['Iphone'],"London, United Kingdom",331-750-4621,721.0,Hannah Roman
+Hannah.Zuniga@example.com,"['Android', 'Iphone', 'Desktop']","Chicago, USA",515-268-3667,345.0,Hannah Zuniga
+Hari.Everett@example.com,"['Iphone', 'Desktop']","San Francisco, USA",487-669-8884,655.0,Hari Everett
+Harold.Sharpe@example.com,"['Android', 'Desktop']","New York, USA",646-622-1082,630.0,Harold Sharpe
+Harriett.Mccoy@example.com,"['Android', 'Iphone', 'Desktop']","San Francisco, USA",956-438-3865,111.0,Harriett Mccoy
+Harriett.Villegas@example.com,"['Android', 'Desktop']","Los Angeles, USA",329-505-8826,275.0,Harriett Villegas
+Harris.Mack@example.com,['Iphone'],"New York, USA",633-338-5745,499.0,Harris Mack
+Harun.Clark@example.com,['Android'],"San Francisco, USA",853-267-3048,734.0,Harun Clark
+Harvey.Guerrero@example.com,['Iphone'],"Chicago, USA",597-677-6862,14.0,Harvey Guerrero
+Harvey.Rios@example.com,"['Android', 'Iphone']","Los Angeles, USA",439-940-5960,437.0,Harvey Rios
+Hassan.Kemp@example.com,['Desktop'],"San Diego, USA",131-471-2639,177.0,Hassan Kemp
+Hayden.Lucas@example.com,"['Android', 'Desktop']","Montreal, Canada",527-308-6637,473.0,Hayden Lucas
+Haydn.Contreras@example.com,"['Iphone', 'Desktop']","Chicago, USA",694-921-2135,959.0,Haydn Contreras
+Haydn.Ramos@example.com,"['Android', 'Iphone']","Los Angeles, USA",354-376-9233,744.0,Haydn Ramos
+Hayley.Montoya@example.com,['Desktop'],"New York, USA",672-566-6794,833.0,Hayley Montoya
+Hazel.Joseph@example.com,['Desktop'],"New York, USA",272-647-4049,242.0,Hazel Joseph
+Hazel.Watson@example.com,"['Android', 'Desktop']","New York, USA",349-725-3565,794.0,Hazel Watson
+Hazel.Yoder@example.com,['Android'],"London, United Kingdom",839-203-3903,635.0,Hazel Yoder
+Hector.Lam@example.com,"['Android', 'Desktop']","Los Angeles, USA",784-605-2200,459.0,Hector Lam
+Henry.Holloway@example.com,['Desktop'],"San Francisco, USA",760-481-5035,520.0,Henry Holloway
+Herbie.Huber@example.com,"['Android', 'Iphone']","New York, USA",562-925-1087,756.0,Herbie Huber
+Herman.Knowles@example.com,"['Iphone', 'Desktop']","Los Angeles, USA",130-936-8674,164.0,Herman Knowles
+Herman.Munoz@example.com,"['Android', 'Desktop']","Los Angeles, USA",689-881-9382,51.0,Herman Munoz
+Hiba.Hicks@example.com,"['Android', 'Iphone']","Chicago, USA",640-390-3390,944.0,Hiba Hicks
+Hollie.Escobar@example.com,"['Android', 'Iphone', 'Desktop']","London, United Kingdom",978-312-6279,921.0,Hollie Escobar
+Holly.Dillon@example.com,['Desktop'],"San Diego, USA",662-944-2078,751.0,Holly Dillon
+Holly.Gillespie@example.com,"['Iphone', 'Desktop']","New York, USA",537-653-7820,372.0,Holly Gillespie
+Honor.Jacobson@example.com,"['Android', 'Desktop']","San Francisco, USA",624-535-4606,61.0,Honor Jacobson
+Huda.Crane@example.com,"['Android', 'Desktop']","Toronto, Canada",243-321-6881,763.0,Huda Crane
+Huda.Rogers@example.com,['Desktop'],"New York, USA",714-169-1009,301.0,Huda Rogers
+Humaira.Quinn@example.com,['Desktop'],"London, United Kingdom",623-887-1255,952.0,Humaira Quinn
+Humza.Velez@example.com,"['Iphone', 'Desktop']","New York, USA",931-502-4660,88.0,Humza Velez
+Hussain.Santos@example.com,"['Iphone', 'Desktop']","San Diego, USA",379-352-6285,12.0,Hussain Santos
+Huw.Pearson@example.com,['Iphone'],"San Diego, USA",505-476-1251,430.0,Huw Pearson
+Huw.Valentine@example.com,"['Iphone', 'Desktop']","Chicago, USA",441-847-1955,109.0,Huw Valentine
+Ian.Ho@example.com,['Android'],"San Francisco, USA",586-175-1970,143.0,Ian Ho
+Ibraheem.Mcgee@example.com,['Iphone'],"San Diego, USA",667-192-9013,227.0,Ibraheem Mcgee
+Ibrahim.Robertson@example.com,"['Android', 'Iphone', 'Desktop']","Barcelona, Spain",603-299-3596,614.0,Ibrahim Robertson
+Idris.Proctor@example.com,"['Android', 'Desktop']","San Diego, USA",584-182-6496,49.0,Idris Proctor
+Ilyas.Dunlap@example.com,['Iphone'],"London, United Kingdom",491-981-1293,71.0,Ilyas Dunlap
+Imran.Page@example.com,"['Iphone', 'Desktop']","Montreal, Canada",203-209-8114,502.0,Imran Page
+Inaaya.Bruce@example.com,"['Android', 'Desktop']","London, United Kingdom",780-773-8755,994.0,Inaaya Bruce
+Inaaya.Velasquez@example.com,"['Android', 'Iphone', 'Desktop']","Los Angeles, USA",489-241-7631,7.0,Inaaya Velasquez
+India.Simmons@example.com,"['Android', 'Iphone']","San Diego, USA",605-920-3435,137.0,India Simmons
+Ines.Davis@example.com,['Desktop'],"San Francisco, USA",238-215-9099,425.0,Ines Davis
+Ioan.Harrington@example.com,['Iphone'],"San Diego, USA",803-120-2281,867.0,Ioan Harrington
+Iqra.Kelly@example.com,"['Android', 'Iphone', 'Desktop']","Los Angeles, USA",319-337-5741,452.0,Iqra Kelly
+Irene.Kim@example.com,['Iphone'],"San Francisco, USA",946-883-2145,683.0,Irene Kim
+Isabelle.Jenkins@example.com,"['Android', 'Iphone']","San Diego, USA",724-444-3001,746.0,Isabelle Jenkins
+Isabelle.Lopez@example.com,"['Android', 'Iphone']","Paris, France",981-878-3234,24.0,Isabelle Lopez
+Ishaan.Stevenson@example.com,['Desktop'],"San Francisco, USA",631-367-5233,183.0,Ishaan Stevenson
+Isla.Barber@example.com,['Iphone'],"Toronto, Canada",860-505-2643,714.0,Isla Barber
+Ismaeel.Roach@example.com,"['Iphone', 'Desktop']","Los Angeles, USA",334-436-6254,371.0,Ismaeel Roach
+Ismaeel.Schmidt@example.com,['Iphone'],"Los Angeles, USA",110-478-3409,829.0,Ismaeel Schmidt
+Isobella.Gilbert@example.com,"['Android', 'Desktop']","Barcelona, Spain",717-961-9368,962.0,Isobella Gilbert
+Isobelle.Davidson@example.com,['Iphone'],"San Francisco, USA",237-295-4490,530.0,Isobelle Davidson
+Isra.Burgess@example.com,"['Android', 'Desktop']","San Diego, USA",142-470-3907,947.0,Isra Burgess
+Izaak.Welsh@example.com,"['Android', 'Iphone', 'Desktop']","Los Angeles, USA",280-473-9965,837.0,Izaak Welsh
+Jacob.Patton@example.com,"['Android', 'Iphone', 'Desktop']","San Diego, USA",914-260-3945,670.0,Jacob Patton
+Jake.Salazar@example.com,['Android'],"San Francisco, USA",250-705-1154,531.0,Jake Salazar
+Jake.Spencer@example.com,"['Android', 'Iphone', 'Desktop']","San Diego, USA",445-216-5918,267.0,Jake Spencer
+James.Warner@example.com,['Iphone'],"Toronto, Canada",839-312-5829,380.0,James Warner
+Jamie.Berg@example.com,['Desktop'],"Los Angeles, USA",397-515-6866,638.0,Jamie Berg
+Jamie.Bright@example.com,['Android'],"Montreal, Canada",533-849-3913,1.0,Jamie Bright
+Jamil.Maldonado@example.com,"['Android', 'Desktop']","New York, USA",424-799-2220,651.0,Jamil Maldonado
+Jamil.Shepherd@example.com,"['Android', 'Iphone', 'Desktop']","Toronto, Canada",298-276-5058,592.0,Jamil Shepherd
+Jan.Daniels@example.com,"['Android', 'Desktop']","Montreal, Canada",305-449-8274,287.0,Jan Daniels
+Janet.Hughes@example.com,['Iphone'],"Los Angeles, USA",194-769-6265,618.0,Janet Hughes
+Jannat.Landry@example.com,"['Android', 'Iphone', 'Desktop']","Los Angeles, USA",754-634-9309,770.0,Jannat Landry
+Jared.Hamilton@example.com,['Android'],"New York, USA",642-707-7765,974.0,Jared Hamilton
+Jason.Snyder@example.com,['Android'],"San Francisco, USA",202-632-2346,64.0,Jason Snyder
+Jasper.Brandt@example.com,['Desktop'],"London, United Kingdom",527-756-7352,121.0,Jasper Brandt
+Jaxson.Moss@example.com,"['Android', 'Iphone']","San Francisco, USA",499-701-5813,647.0,Jaxson Moss
+Jayden.Dunlap@example.com,"['Android', 'Iphone']","New York, USA",626-458-8110,693.0,Jayden Dunlap
+Jayden.Meyers@example.com,['Android'],"San Diego, USA",233-480-8798,359.0,Jayden Meyers
+Jayson.Sutton@example.com,"['Iphone', 'Desktop']","Montreal, Canada",289-775-9088,993.0,Jayson Sutton
+Jazmin.Lopez@example.com,"['Android', 'Iphone', 'Desktop']","Los Angeles, USA",116-866-3838,602.0,Jazmin Lopez
+Jazmine.Harper@example.com,"['Iphone', 'Desktop']","Los Angeles, USA",956-324-6086,493.0,Jazmine Harper
+Jean.Winters@example.com,"['Android', 'Desktop']","San Diego, USA",526-938-2752,973.0,Jean Winters
+Jed.Myers@example.com,['Desktop'],"San Francisco, USA",920-927-4758,350.0,Jed Myers
+Jemima.Leonard@example.com,['Desktop'],"Chicago, USA",149-310-5366,252.0,Jemima Leonard
+Jemma.Greer@example.com,['Desktop'],"San Francisco, USA",220-752-3577,347.0,Jemma Greer
+Jennie.Freeman@example.com,['Desktop'],"Chicago, USA",396-732-6980,776.0,Jennie Freeman
+Jennie.Monroe@example.com,['Desktop'],"Montreal, Canada",613-385-2077,353.0,Jennie Monroe
+Jenson.Carlson@example.com,"['Android', 'Iphone', 'Desktop']","Paris, France",282-249-3068,488.0,Jenson Carlson
+Jenson.Carver@example.com,"['Iphone', 'Desktop']","Chicago, USA",128-789-4202,178.0,Jenson Carver
+Jeremiah.Martin@example.com,['Android'],"London, United Kingdom",277-350-5557,38.0,Jeremiah Martin
+Jerry.Whitney@example.com,"['Iphone', 'Desktop']","San Francisco, USA",990-444-7435,616.0,Jerry Whitney
+Jesse.Perry@example.com,"['Iphone', 'Desktop']","New York, USA",711-621-8470,387.0,Jesse Perry
+Jessie.Greer@example.com,"['Android', 'Iphone', 'Desktop']","London, United Kingdom",950-317-1709,208.0,Jessie Greer
+Jessie.Noble@example.com,['Iphone'],"San Francisco, USA",557-354-5286,690.0,Jessie Noble
+Jim.Moses@example.com,['Iphone'],"London, United Kingdom",560-446-1279,503.0,Jim Moses
+Joanna.Durham@example.com,['Iphone'],"Los Angeles, USA",302-863-6548,400.0,Joanna Durham
+Joel.Baldwin@example.com,['Desktop'],"San Diego, USA",161-534-8719,361.0,Joel Baldwin
+John.Mason@example.com,"['Android', 'Desktop']","San Diego, USA",768-888-3211,846.0,John Mason
+Johnathan.Berger@example.com,"['Iphone', 'Desktop']","San Diego, USA",545-458-1679,63.0,Johnathan Berger
+Johnny.Ford@example.com,"['Android', 'Iphone', 'Desktop']","San Francisco, USA",760-126-9651,268.0,Johnny Ford
+Jonathan.David@example.com,['Desktop'],"San Francisco, USA",815-636-7913,795.0,Jonathan David
+Jonathan.Klein@example.com,['Desktop'],"Los Angeles, USA",495-419-4637,699.0,Jonathan Klein
+Jordanne.Juarez@example.com,['Iphone'],"San Francisco, USA",376-601-8743,896.0,Jordanne Juarez
+Jorge.Hebert@example.com,['Desktop'],"Los Angeles, USA",301-526-9714,435.0,Jorge Hebert
+Jorge.Maldonado@example.com,"['Android', 'Desktop']","San Diego, USA",220-296-3772,195.0,Jorge Maldonado
+Joshua.Bonner@example.com,['Desktop'],"San Francisco, USA",550-710-1849,668.0,Joshua Bonner
+Joshua.Holt@example.com,"['Iphone', 'Desktop']","New York, USA",993-541-7464,533.0,Joshua Holt
+Josie.Holt@example.com,['Desktop'],"Los Angeles, USA",745-483-6160,882.0,Josie Holt
+Josie.Pham@example.com,"['Android', 'Iphone', 'Desktop']","San Diego, USA",202-569-8234,168.0,Josie Pham
+Juanita.Baldwin@example.com,"['Android', 'Iphone', 'Desktop']","San Diego, USA",989-786-8538,60.0,Juanita Baldwin
+Jude.Manning@example.com,"['Android', 'Iphone', 'Desktop']","New York, USA",705-992-3397,506.0,Jude Manning
+Judy.Clayton@example.com,"['Android', 'Iphone']","Paris, France",757-533-4647,360.0,Judy Clayton
+Juliet.Buck@example.com,"['Android', 'Iphone']","San Francisco, USA",499-242-5191,637.0,Juliet Buck
+Juliet.Gordon@example.com,['Android'],"San Diego, USA",647-601-9488,421.0,Juliet Gordon
+Juliette.Gordon@example.com,"['Android', 'Desktop']","Chicago, USA",424-534-2837,823.0,Juliette Gordon
+Juliette.Luna@example.com,['Iphone'],"New York, USA",782-806-6417,990.0,Juliette Luna
+Julius.Donnelly@example.com,"['Android', 'Desktop']","San Francisco, USA",733-325-2658,666.0,Julius Donnelly
+Julius.Garrett@example.com,"['Android', 'Iphone', 'Desktop']","Barcelona, Spain",866-664-7969,26.0,Julius Garrett
+Julius.Marquez@example.com,"['Iphone', 'Desktop']","Montreal, Canada",189-235-8167,446.0,Julius Marquez
+Junaid.Fletcher@example.com,"['Iphone', 'Desktop']","Los Angeles, USA",677-571-4277,912.0,Junaid Fletcher
+Junior.Mcgowan@example.com,['Android'],"San Francisco, USA",820-164-6757,378.0,Junior Mcgowan
+Junior.Schwartz@example.com,"['Iphone', 'Desktop']","San Francisco, USA",543-252-9069,462.0,Junior Schwartz
+Justin.Rowland@example.com,"['Android', 'Iphone']","Paris, France",665-725-2354,120.0,Justin Rowland
+Kaan.Miranda@example.com,['Android'],"San Francisco, USA",940-569-5175,113.0,Kaan Miranda
+Kabir.Stewart@example.com,"['Android', 'Desktop']","San Francisco, USA",891-887-3513,202.0,Kabir Stewart
+Kacie.Lester@example.com,['Android'],"Toronto, Canada",673-651-6332,980.0,Kacie Lester
+Kacie.Morse@example.com,"['Android', 'Iphone', 'Desktop']","Toronto, Canada",108-917-7237,641.0,Kacie Morse
+Kaine.Blankenship@example.com,"['Android', 'Iphone']","San Diego, USA",294-274-7917,933.0,Kaine Blankenship
+Kamal.Gates@example.com,['Android'],"Chicago, USA",622-660-1036,581.0,Kamal Gates
+Kamil.Bernard@example.com,['Desktop'],"San Francisco, USA",400-528-1349,920.0,Kamil Bernard
+Kamil.Guzman@example.com,"['Iphone', 'Desktop']","San Francisco, USA",641-829-6099,895.0,Kamil Guzman
+Kamran.Wilcox@example.com,"['Android', 'Desktop']","London, United Kingdom",476-365-7838,139.0,Kamran Wilcox
+Kane.Huff@example.com,['Desktop'],"Chicago, USA",417-611-9319,672.0,Kane Huff
+Kara.Shelton@example.com,"['Android', 'Iphone', 'Desktop']","Paris, France",837-651-6819,785.0,Kara Shelton
+Kara.Stewart@example.com,"['Android', 'Iphone']","Paris, France",794-314-2500,73.0,Kara Stewart
+Karen.Robles@example.com,['Desktop'],"Barcelona, Spain",144-367-7871,465.0,Karen Robles
+Karina.Mata@example.com,"['Android', 'Iphone']","San Francisco, USA",428-919-4395,444.0,Karina Mata
+Kate.Cline@example.com,"['Android', 'Desktop']","Toronto, Canada",927-741-2027,229.0,Kate Cline
+Kate.Key@example.com,"['Iphone', 'Desktop']","San Francisco, USA",336-283-3896,516.0,Kate Key
+Katelyn.Collins@example.com,['Android'],"San Diego, USA",878-870-9506,615.0,Katelyn Collins
+Katerina.Turner@example.com,"['Iphone', 'Desktop']","San Francisco, USA",753-511-5460,215.0,Katerina Turner
+Katherine.Whitehead@example.com,"['Android', 'Iphone', 'Desktop']","Los Angeles, USA",416-889-9840,548.0,Katherine Whitehead
+Kathleen.Carter@example.com,['Iphone'],"San Francisco, USA",210-798-9930,881.0,Kathleen Carter
+Katrina.Foster@example.com,"['Android', 'Iphone']","London, United Kingdom",497-544-5065,336.0,Katrina Foster
+Katy.Harrington@example.com,['Iphone'],"San Francisco, USA",645-829-7495,169.0,Katy Harrington
+Kaya.Jacobson@example.com,['Android'],"San Francisco, USA",870-909-4612,510.0,Kaya Jacobson
+Kayla.Jones@example.com,"['Android', 'Iphone']","London, United Kingdom",579-756-1305,689.0,Kayla Jones
+Keaton.Ortiz@example.com,"['Iphone', 'Desktop']","San Diego, USA",676-716-9033,351.0,Keaton Ortiz
+Keelan.Thompson@example.com,"['Iphone', 'Desktop']","San Francisco, USA",254-156-9308,571.0,Keelan Thompson
+Keeley.Mills@example.com,['Desktop'],"New York, USA",123-972-2938,839.0,Keeley Mills
+Keira.Herman@example.com,['Android'],"Los Angeles, USA",607-258-2059,610.0,Keira Herman
+Keisha.Norris@example.com,"['Android', 'Iphone']","New York, USA",117-850-3045,498.0,Keisha Norris
+Keith.Donovan@example.com,"['Iphone', 'Desktop']","Chicago, USA",549-515-6738,10.0,Keith Donovan
+Kelvin.Hendricks@example.com,['Android'],"San Diego, USA",767-726-4455,677.0,Kelvin Hendricks
+Kendra.Francis@example.com,['Android'],"San Francisco, USA",680-603-3144,924.0,Kendra Francis
+Kevin.Sherman@example.com,['Iphone'],"Barcelona, Spain",185-617-6120,574.0,Kevin Sherman
+Keyaan.Holland@example.com,"['Android', 'Iphone']","Barcelona, Spain",845-797-2979,39.0,Keyaan Holland
+Khadija.Dunlap@example.com,"['Android', 'Desktop']","San Francisco, USA",752-472-1641,489.0,Khadija Dunlap
+Khadijah.Little@example.com,"['Android', 'Iphone']","San Diego, USA",258-211-4243,512.0,Khadijah Little
+Khalid.Burke@example.com,['Iphone'],"Chicago, USA",973-766-4810,740.0,Khalid Burke
+Khalid.Davies@example.com,['Desktop'],"San Francisco, USA",191-582-9251,841.0,Khalid Davies
+Khalid.Mclaughlin@example.com,['Android'],"San Francisco, USA",140-879-1467,521.0,Khalid Mclaughlin
+Kian.Stephens@example.com,"['Android', 'Iphone', 'Desktop']","Chicago, USA",820-881-5658,418.0,Kian Stephens
+Kiana.Carter@example.com,['Iphone'],"San Diego, USA",219-142-7516,621.0,Kiana Carter
+Kiara.Bell@example.com,"['Android', 'Iphone']","San Francisco, USA",614-291-6530,737.0,Kiara Bell
+Kiara.Sosa@example.com,['Android'],"Los Angeles, USA",982-969-2499,315.0,Kiara Sosa
+Kiera.Cotton@example.com,['Android'],"Los Angeles, USA",254-627-7406,174.0,Kiera Cotton
+Kieran.Hoover@example.com,"['Android', 'Desktop']","New York, USA",101-165-2021,742.0,Kieran Hoover
+Kingsley.Moyer@example.com,"['Android', 'Desktop']","San Francisco, USA",927-708-1141,72.0,Kingsley Moyer
+Kiran.Barr@example.com,['Iphone'],"New York, USA",755-593-9023,453.0,Kiran Barr
+Kitty.Carroll@example.com,['Iphone'],"San Diego, USA",305-617-1384,511.0,Kitty Carroll
+Kobe.Knapp@example.com,"['Iphone', 'Desktop']","Los Angeles, USA",911-288-9695,948.0,Kobe Knapp
+Krish.Hutchinson@example.com,"['Android', 'Iphone', 'Desktop']","London, United Kingdom",405-788-7051,779.0,Krish Hutchinson
+Kristen.Curry@example.com,['Desktop'],"San Francisco, USA",473-371-9332,771.0,Kristen Curry
+Kurtis.Marks@example.com,['Desktop'],"Montreal, Canada",690-396-3965,167.0,Kurtis Marks
+Kyla.Brennan@example.com,['Desktop'],"Toronto, Canada",440-863-6538,470.0,Kyla Brennan
+Kyle.Joseph@example.com,"['Android', 'Desktop']","Toronto, Canada",499-600-6164,392.0,Kyle Joseph
+Kyran.Duncan@example.com,"['Android', 'Desktop']","New York, USA",433-632-3326,971.0,Kyran Duncan
+Kyran.Foster@example.com,"['Iphone', 'Desktop']","Chicago, USA",362-464-9875,894.0,Kyran Foster
+Kyran.Wyatt@example.com,"['Android', 'Iphone']","Montreal, Canada",778-841-9881,213.0,Kyran Wyatt
+Lacie.Mayer@example.com,"['Android', 'Iphone']","Toronto, Canada",412-562-8215,946.0,Lacie Mayer
+Laiba.Ingram@example.com,"['Iphone', 'Desktop']","San Diego, USA",780-200-2871,151.0,Laiba Ingram
+Laiba.Knapp@example.com,['Iphone'],"New York, USA",311-460-4985,391.0,Laiba Knapp
+Larissa.Perez@example.com,"['Android', 'Desktop']","London, United Kingdom",742-168-6071,613.0,Larissa Perez
+Larry.Clay@example.com,['Iphone'],"Montreal, Canada",151-494-2927,456.0,Larry Clay
+Laura.Valdez@example.com,"['Android', 'Iphone', 'Desktop']","Los Angeles, USA",766-901-1157,682.0,Laura Valdez
+Lauren.Ashley@example.com,"['Iphone', 'Desktop']","London, United Kingdom",564-133-8260,643.0,Lauren Ashley
+Laurence.Graves@example.com,['Desktop'],"Los Angeles, USA",609-435-5709,827.0,Laurence Graves
+Laurie.Melendez@example.com,"['Iphone', 'Desktop']","Toronto, Canada",488-382-1416,114.0,Laurie Melendez
+Lawrence.Simon@example.com,['Iphone'],"San Diego, USA",305-708-6970,529.0,Lawrence Simon
+Lawson.Levine@example.com,"['Android', 'Iphone', 'Desktop']","San Francisco, USA",785-936-5286,532.0,Lawson Levine
+Layla.Roth@example.com,"['Android', 'Iphone']","Montreal, Canada",812-207-8855,969.0,Layla Roth
+Layton.Cisneros@example.com,['Android'],"San Francisco, USA",624-631-4459,527.0,Layton Cisneros
+Layton.Suarez@example.com,['Android'],"San Francisco, USA",909-218-5658,363.0,Layton Suarez
+Leanne.Cordova@example.com,['Desktop'],"Paris, France",514-225-7453,379.0,Leanne Cordova
+Leena.Castillo@example.com,['Desktop'],"San Francisco, USA",648-845-8799,321.0,Leena Castillo
+Leighton.Crane@example.com,['Desktop'],"Los Angeles, USA",372-753-5586,688.0,Leighton Crane
+Leila.Hawkins@example.com,['Iphone'],"Los Angeles, USA",970-992-9362,461.0,Leila Hawkins
+Lenny.Hardy@example.com,"['Iphone', 'Desktop']","Toronto, Canada",618-571-1851,442.0,Lenny Hardy
+Lenny.Patrick@example.com,"['Android', 'Iphone']","San Francisco, USA",109-247-6898,546.0,Lenny Patrick
+Leona.Daugherty@example.com,"['Android', 'Iphone', 'Desktop']","Montreal, Canada",815-288-7354,439.0,Leona Daugherty
+Leonie.Sanders@example.com,"['Android', 'Iphone']","Chicago, USA",248-366-9279,192.0,Leonie Sanders
+Leroy.Barrera@example.com,"['Android', 'Iphone', 'Desktop']","New York, USA",659-190-9378,15.0,Leroy Barrera
+Leslie.Harrington@example.com,"['Android', 'Iphone']","Chicago, USA",170-517-1270,438.0,Leslie Harrington
+Levi.Hoffman@example.com,"['Android', 'Iphone']","London, United Kingdom",442-352-9243,389.0,Levi Hoffman
+Lewis.Brooks@example.com,"['Iphone', 'Desktop']","New York, USA",737-205-4525,739.0,Lewis Brooks
+Lewis.Mcmahon@example.com,['Android'],"San Francisco, USA",682-426-4872,960.0,Lewis Mcmahon
+Leyla.Finley@example.com,"['Iphone', 'Desktop']","New York, USA",743-377-7767,989.0,Leyla Finley
+Lia.Hudson@example.com,"['Android', 'Iphone']","San Francisco, USA",671-560-5008,331.0,Lia Hudson
+Liana.Baldwin@example.com,['Android'],"San Diego, USA",736-366-9050,888.0,Liana Baldwin
+Libbie.Swanson@example.com,['Iphone'],"Chicago, USA",176-108-4411,306.0,Libbie Swanson
+Liberty.Stephenson@example.com,['Android'],"San Francisco, USA",613-740-5020,320.0,Liberty Stephenson
+Lili.Patel@example.com,"['Android', 'Desktop']","Montreal, Canada",823-509-3052,203.0,Lili Patel
+Lili.Schroeder@example.com,"['Android', 'Iphone']","Toronto, Canada",640-348-2128,37.0,Lili Schroeder
+Lilian.Strickland@example.com,"['Android', 'Desktop']","Toronto, Canada",925-438-1993,797.0,Lilian Strickland
+Liliana.Carpenter@example.com,['Iphone'],"New York, USA",769-403-7834,464.0,Liliana Carpenter
+Lilli.Bowman@example.com,['Iphone'],"New York, USA",551-867-4367,653.0,Lilli Bowman
+Lillian.Hanna@example.com,['Iphone'],"Los Angeles, USA",488-762-8236,13.0,Lillian Hanna
+Lilly-Rose.Richards@example.com,"['Android', 'Iphone', 'Desktop']","New York, USA",264-213-8415,340.0,Lilly-Rose Richards
+Lily-May.Horne@example.com,['Iphone'],"Los Angeles, USA",564-761-8451,901.0,Lily-May Horne
+Lily-Rose.Kaufman@example.com,['Android'],"Chicago, USA",271-963-2123,224.0,Lily-Rose Kaufman
+Lily.Chan@example.com,"['Android', 'Iphone']","San Francisco, USA",390-911-6534,259.0,Lily Chan
+Lina.Trujillo@example.com,['Desktop'],"San Francisco, USA",351-538-5203,767.0,Lina Trujillo
+Linda.Combs@example.com,"['Android', 'Iphone', 'Desktop']","Los Angeles, USA",742-395-8995,35.0,Linda Combs
+Lisa.Mcclain@example.com,['Android'],"New York, USA",518-968-9659,685.0,Lisa Mcclain
+Livia.Howe@example.com,['Iphone'],"Toronto, Canada",868-828-4315,34.0,Livia Howe
+Lloyd.Robbins@example.com,"['Iphone', 'Desktop']","London, United Kingdom",603-494-3648,985.0,Lloyd Robbins
+Lloyd.Wise@example.com,['Iphone'],"San Francisco, USA",521-580-3829,789.0,Lloyd Wise
+Lochlan.Fitzgerald@example.com,['Desktop'],"San Francisco, USA",762-973-4444,155.0,Lochlan Fitzgerald
+Lola.Vaughan@example.com,['Desktop'],"Paris, France",722-400-6707,427.0,Lola Vaughan
+Lorna.Levy@example.com,['Iphone'],"Toronto, Canada",809-114-1988,285.0,Lorna Levy
+Louise.Daniel@example.com,"['Android', 'Iphone']","Barcelona, Spain",917-348-4728,33.0,Louise Daniel
+Lowri.Brady@example.com,"['Android', 'Iphone']","Toronto, Canada",116-274-4785,484.0,Lowri Brady
+Lucas.Burke@example.com,"['Iphone', 'Desktop']","Toronto, Canada",321-512-2703,681.0,Lucas Burke
+Lucas.Mcdowell@example.com,"['Android', 'Desktop']","Chicago, USA",841-580-6320,889.0,Lucas Mcdowell
+Lucia.Cisneros@example.com,"['Android', 'Iphone', 'Desktop']","San Francisco, USA",470-574-7167,665.0,Lucia Cisneros
+Lucy.Fuentes@example.com,"['Android', 'Desktop']","New York, USA",427-948-5524,879.0,Lucy Fuentes
+Lucy.Livingston@example.com,"['Android', 'Desktop']","San Diego, USA",528-980-5732,447.0,Lucy Livingston
+Luisa.Fisher@example.com,['Iphone'],"San Diego, USA",510-167-1940,633.0,Luisa Fisher
+Luisa.Haley@example.com,"['Iphone', 'Desktop']","Barcelona, Spain",916-879-3164,922.0,Luisa Haley
+Lukas.Howard@example.com,"['Android', 'Desktop']","Chicago, USA",846-508-8212,509.0,Lukas Howard
+Luke.Graham@example.com,['Android'],"San Diego, USA",132-159-2485,873.0,Luke Graham
+Luna.Fowler@example.com,"['Android', 'Iphone', 'Desktop']","Los Angeles, USA",137-365-6816,958.0,Luna Fowler
+Luna.Levy@example.com,"['Android', 'Iphone', 'Desktop']","San Francisco, USA",855-484-1981,648.0,Luna Levy
+Luqman.Carrillo@example.com,['Android'],"New York, USA",124-533-2523,182.0,Luqman Carrillo
+Luqman.Larson@example.com,"['Android', 'Iphone']","San Francisco, USA",100-329-7363,773.0,Luqman Larson
+Lydia.Chan@example.com,"['Iphone', 'Desktop']","San Francisco, USA",649-585-3076,134.0,Lydia Chan
+Mabel.Foley@example.com,['Desktop'],"New York, USA",417-857-9143,832.0,Mabel Foley
+Mabel.Pace@example.com,"['Iphone', 'Desktop']","Los Angeles, USA",752-347-2146,518.0,Mabel Pace
+Macie.Payne@example.com,['Android'],"New York, USA",782-737-6408,170.0,Macie Payne
+Macy.King@example.com,['Android'],"Montreal, Canada",475-826-7209,567.0,Macy King
+Madeline.Mann@example.com,['Iphone'],"New York, USA",441-188-5776,780.0,Madeline Mann
+Mae.Barry@example.com,['Iphone'],"London, United Kingdom",501-577-5306,724.0,Mae Barry
+Mae.Castro@example.com,"['Iphone', 'Desktop']","San Francisco, USA",714-485-2518,629.0,Mae Castro
+Magnus.Mcneil@example.com,"['Iphone', 'Desktop']","San Francisco, USA",125-993-7660,569.0,Magnus Mcneil
+Mahir.Cooper@example.com,['Desktop'],"San Francisco, USA",829-570-7880,674.0,Mahir Cooper
+Maisie.Cunningham@example.com,"['Iphone', 'Desktop']","Los Angeles, USA",389-110-9784,856.0,Maisie Cunningham
+Maisy.Clark@example.com,"['Android', 'Iphone']","San Diego, USA",966-801-8945,295.0,Maisy Clark
+Maksymilian.Crosby@example.com,['Android'],"New York, USA",298-837-9139,148.0,Maksymilian Crosby
+Maliha.Hood@example.com,['Desktop'],"San Diego, USA",296-552-6256,352.0,Maliha Hood
+Malik.Cuevas@example.com,['Android'],"San Diego, USA",935-337-2537,128.0,Malik Cuevas
+Marco.Fletcher@example.com,"['Android', 'Iphone']","Los Angeles, USA",196-551-2162,445.0,Marco Fletcher
+Margaret.Woods@example.com,['Desktop'],"Chicago, USA",693-338-9657,455.0,Margaret Woods
+Mari.Phillips@example.com,"['Iphone', 'Desktop']","Los Angeles, USA",301-646-5827,781.0,Mari Phillips
+Maria.Stephens@example.com,"['Android', 'Iphone']","Toronto, Canada",798-578-4631,996.0,Maria Stephens
+Mariah.Castro@example.com,"['Android', 'Iphone']","New York, USA",866-155-1011,150.0,Mariah Castro
+Mariam.Campos@example.com,['Iphone'],"San Diego, USA",102-916-1394,311.0,Mariam Campos
+Marie.Hughes@example.com,"['Android', 'Iphone', 'Desktop']","New York, USA",918-588-9531,368.0,Marie Hughes
+Marilyn.Hart@example.com,"['Android', 'Iphone', 'Desktop']","Los Angeles, USA",635-581-5074,940.0,Marilyn Hart
+Marilyn.Scott@example.com,"['Android', 'Iphone', 'Desktop']","San Francisco, USA",360-359-2274,769.0,Marilyn Scott
+Mario.Luna@example.com,"['Android', 'Iphone', 'Desktop']","Toronto, Canada",547-624-3479,318.0,Mario Luna
+Marion.Webster@example.com,"['Iphone', 'Desktop']","Toronto, Canada",169-218-9165,991.0,Marion Webster
+Marissa.Hayes@example.com,"['Android', 'Iphone', 'Desktop']","San Francisco, USA",365-359-3043,822.0,Marissa Hayes
+Marissa.Rubio@example.com,"['Iphone', 'Desktop']","Chicago, USA",400-815-9011,312.0,Marissa Rubio
+Marjorie.Morrison@example.com,['Android'],"San Francisco, USA",642-203-8931,562.0,Marjorie Morrison
+Marjorie.Munoz@example.com,['Android'],"Los Angeles, USA",385-637-4138,966.0,Marjorie Munoz
+Marjorie.Shields@example.com,"['Iphone', 'Desktop']","San Diego, USA",346-207-2724,75.0,Marjorie Shields
+Mark.Friedman@example.com,"['Android', 'Desktop']","San Diego, USA",111-862-3502,207.0,Mark Friedman
+Markus.Weaver@example.com,"['Android', 'Desktop']","Los Angeles, USA",806-124-5977,364.0,Markus Weaver
+Marnie.Mayo@example.com,['Android'],"San Diego, USA",725-331-2757,976.0,Marnie Mayo
+Marnie.Sheppard@example.com,['Desktop'],"Los Angeles, USA",576-261-4653,844.0,Marnie Sheppard
+Marnie.White@example.com,['Android'],"San Francisco, USA",267-434-1395,719.0,Marnie White
+Martin.Perry@example.com,"['Android', 'Iphone']","Paris, France",586-420-6418,904.0,Martin Perry
+Martina.Boyle@example.com,['Desktop'],"Los Angeles, USA",145-824-4775,162.0,Martina Boyle
+Martina.Moran@example.com,['Desktop'],"Toronto, Canada",641-323-9929,365.0,Martina Moran
+Martina.Steele@example.com,['Desktop'],"Paris, France",349-841-5113,759.0,Martina Steele
+Marwa.Dennis@example.com,['Iphone'],"Chicago, USA",444-295-8051,752.0,Marwa Dennis
+Mason.Kelley@example.com,"['Android', 'Desktop']","San Francisco, USA",185-970-1196,840.0,Mason Kelley
+Mateo.Francis@example.com,['Iphone'],"Los Angeles, USA",508-390-8347,878.0,Mateo Francis
+Mathilda.Abbott@example.com,['Desktop'],"New York, USA",893-420-4063,316.0,Mathilda Abbott
+Matilda.Griffin@example.com,"['Android', 'Iphone']","Toronto, Canada",176-758-4552,325.0,Matilda Griffin
+Matteo.Moon@example.com,"['Android', 'Iphone']","London, United Kingdom",830-546-5378,152.0,Matteo Moon
+Maxim.Romero@example.com,['Desktop'],"San Diego, USA",398-796-6242,395.0,Maxim Romero
+Maximilian.Whitney@example.com,"['Android', 'Desktop']","San Francisco, USA",804-245-1465,284.0,Maximilian Whitney
+Maximillian.Atkins@example.com,"['Android', 'Iphone']","Toronto, Canada",421-834-8740,264.0,Maximillian Atkins
+Maxwell.Lee@example.com,['Iphone'],"San Francisco, USA",221-138-8090,366.0,Maxwell Lee
+Md.Booker@example.com,"['Android', 'Desktop']","New York, USA",544-944-1609,528.0,Md Booker
+Melissa.Harding@example.com,['Android'],"San Francisco, USA",614-765-9511,322.0,Melissa Harding
+Melvin.Flores@example.com,"['Iphone', 'Desktop']","London, United Kingdom",708-692-8746,176.0,Melvin Flores
+Meredith.Reyes@example.com,['Android'],"New York, USA",680-737-7650,950.0,Meredith Reyes
+Mia.Horne@example.com,"['Android', 'Iphone', 'Desktop']","Los Angeles, USA",667-185-1569,94.0,Mia Horne
+Micheal.Maldonado@example.com,['Desktop'],"London, United Kingdom",895-850-8289,496.0,Micheal Maldonado
+Michelle.Love@example.com,"['Android', 'Iphone']","New York, USA",672-651-8173,101.0,Michelle Love
+Miguel.Guerrero@example.com,"['Android', 'Iphone', 'Desktop']","San Francisco, USA",542-618-4471,443.0,Miguel Guerrero
+Mike.Hurst@example.com,"['Iphone', 'Desktop']","Montreal, Canada",488-247-6930,429.0,Mike Hurst
+Miles.Fisher@example.com,"['Android', 'Iphone', 'Desktop']","San Diego, USA",702-511-6770,95.0,Miles Fisher
+Millicent.Solomon@example.com,"['Iphone', 'Desktop']","Paris, France",597-434-8108,741.0,Millicent Solomon
+Millie.Yates@example.com,"['Android', 'Iphone']","Chicago, USA",673-424-3380,544.0,Millie Yates
+Milton.Carlson@example.com,['Desktop'],"Los Angeles, USA",344-559-6014,185.0,Milton Carlson
+Miranda.Cain@example.com,['Desktop'],"Los Angeles, USA",377-263-6278,588.0,Miranda Cain
+Miriam.Pacheco@example.com,"['Android', 'Desktop']","San Diego, USA",401-464-5796,255.0,Miriam Pacheco
+Miriam.Stuart@example.com,"['Android', 'Iphone', 'Desktop']","Montreal, Canada",846-333-2100,806.0,Miriam Stuart
+Mitchell.Murray@example.com,"['Android', 'Iphone']","San Francisco, USA",939-709-6815,902.0,Mitchell Murray
+Miya.Warner@example.com,['Desktop'],"Los Angeles, USA",204-288-1980,561.0,Miya Warner
+Mohamed.Barr@example.com,['Android'],"San Francisco, USA",604-185-7149,92.0,Mohamed Barr
+Mohamed.Miller@example.com,"['Android', 'Iphone', 'Desktop']","San Diego, USA",883-481-7339,686.0,Mohamed Miller
+Mohsin.Conley@example.com,['Android'],"San Francisco, USA",979-201-3101,777.0,Mohsin Conley
+Mohsin.Tucker@example.com,['Desktop'],"Toronto, Canada",174-389-8757,108.0,Mohsin Tucker
+Monica.Bruce@example.com,['Iphone'],"Los Angeles, USA",302-368-5572,598.0,Monica Bruce
+Montgomery.Davila@example.com,"['Android', 'Desktop']","New York, USA",267-999-7224,748.0,Montgomery Davila
+Morgan.Hardy@example.com,"['Iphone', 'Desktop']","London, United Kingdom",974-761-7628,226.0,Morgan Hardy
+Moses.O'Gallagher@example.com,['Android'],"Chicago, USA",303-406-9507,542.0,Moses O'Gallagher
+Moshe.Colon@example.com,"['Iphone', 'Desktop']","New York, USA",131-622-5442,11.0,Moshe Colon
+Muhammad.Henry@example.com,"['Android', 'Iphone', 'Desktop']","Paris, France",298-612-6847,707.0,Muhammad Henry
+Mustafa.Mason@example.com,['Iphone'],"Los Angeles, USA",866-179-9539,678.0,Mustafa Mason
+Mya.Delgado@example.com,['Iphone'],"London, United Kingdom",760-931-9269,863.0,Mya Delgado
+Mya.Ho@example.com,"['Iphone', 'Desktop']","San Francisco, USA",448-770-8204,916.0,Mya Ho
+Myles.Sharpe@example.com,['Iphone'],"Toronto, Canada",420-682-4722,982.0,Myles Sharpe
+Myrtle.Bradford@example.com,"['Android', 'Iphone']","San Diego, USA",960-593-3677,979.0,Myrtle Bradford
+Myrtle.Doyle@example.com,"['Android', 'Iphone', 'Desktop']","Toronto, Canada",525-796-7991,74.0,Myrtle Doyle
+Myrtle.Lewis@example.com,"['Android', 'Iphone', 'Desktop']","London, United Kingdom",727-289-2785,398.0,Myrtle Lewis
+Nadia.Neal@example.com,"['Android', 'Iphone', 'Desktop']","New York, USA",255-874-4270,96.0,Nadia Neal
+Nadia.Wyatt@example.com,"['Android', 'Iphone', 'Desktop']","San Diego, USA",277-573-9871,640.0,Nadia Wyatt
+Nancy.Blair@example.com,"['Iphone', 'Desktop']","Toronto, Canada",434-174-7916,842.0,Nancy Blair
+Nancy.Sharp@example.com,['Desktop'],"Los Angeles, USA",723-866-1140,914.0,Nancy Sharp
+Nancy.Stuart@example.com,['Iphone'],"Paris, France",301-686-1705,628.0,Nancy Stuart
+Nannie.Carr@example.com,"['Android', 'Desktop']","San Francisco, USA",175-709-3929,501.0,Nannie Carr
+Nannie.Hunt@example.com,"['Android', 'Desktop']","Chicago, USA",290-190-1157,722.0,Nannie Hunt
+Nataniel.Glenn@example.com,"['Android', 'Iphone', 'Desktop']","Los Angeles, USA",504-112-5228,908.0,Nataniel Glenn
+Nataniel.Nunez@example.com,['Desktop'],"New York, USA",202-158-5194,216.0,Nataniel Nunez
+Nathan.Pearce@example.com,"['Android', 'Iphone', 'Desktop']","Los Angeles, USA",161-192-5834,399.0,Nathan Pearce
+Nathaniel.Gonzalez@example.com,['Desktop'],"Chicago, USA",421-145-6627,172.0,Nathaniel Gonzalez
+Ned.Rowland@example.com,['Iphone'],"Paris, France",400-103-9062,228.0,Ned Rowland
+Neil.Haynes@example.com,"['Android', 'Iphone', 'Desktop']","San Diego, USA",421-219-5363,225.0,Neil Haynes
+Nelson.Huff@example.com,"['Android', 'Iphone', 'Desktop']","New York, USA",169-619-4582,270.0,Nelson Huff
+Neo.Lara@example.com,"['Android', 'Iphone']","Toronto, Canada",276-319-4768,620.0,Neo Lara
+Nettie.Bryan@example.com,['Desktop'],"Chicago, USA",274-274-8873,745.0,Nettie Bryan
+Neve.Hendrix@example.com,"['Iphone', 'Desktop']","Chicago, USA",965-871-6717,314.0,Neve Hendrix
+Nia.Adams@example.com,"['Android', 'Iphone', 'Desktop']","San Diego, USA",520-550-1148,624.0,Nia Adams
+Nicholas.Thomson@example.com,['Iphone'],"Toronto, Canada",936-615-3052,704.0,Nicholas Thomson
+Nicola.Davenport@example.com,"['Iphone', 'Desktop']","Toronto, Canada",335-679-5225,983.0,Nicola Davenport
+Nikhil.Peck@example.com,"['Iphone', 'Desktop']","Chicago, USA",395-769-3300,357.0,Nikhil Peck
+Nikita.Marquez@example.com,['Android'],"Montreal, Canada",492-815-1793,303.0,Nikita Marquez
+Nina.Mathews@example.com,['Iphone'],"New York, USA",863-385-2205,937.0,Nina Mathews
+Noah.Benton@example.com,"['Iphone', 'Desktop']","Los Angeles, USA",936-522-1085,308.0,Noah Benton
+Nora.Ball@example.com,['Desktop'],"Barcelona, Spain",921-528-9551,125.0,Nora Ball
+Nora.Donaldson@example.com,"['Android', 'Iphone', 'Desktop']","San Diego, USA",414-618-5713,828.0,Nora Donaldson
+Oliver.Garner@example.com,"['Iphone', 'Desktop']","Paris, France",937-976-2511,715.0,Oliver Garner
+Oliver.Sanford@example.com,"['Android', 'Iphone']","Toronto, Canada",628-646-1375,327.0,Oliver Sanford
+Olivia.Slater@example.com,"['Android', 'Iphone', 'Desktop']","Los Angeles, USA",618-239-1471,385.0,Olivia Slater
+Olivier.Thornton@example.com,"['Android', 'Iphone', 'Desktop']","Montreal, Canada",401-494-6634,800.0,Olivier Thornton
+Oliwia.Dominguez@example.com,"['Iphone', 'Desktop']","San Diego, USA",161-309-1110,293.0,Oliwia Dominguez
+Oliwia.Harvey@example.com,['Desktop'],"San Francisco, USA",143-701-8741,676.0,Oliwia Harvey
+Oliwier.Gill@example.com,"['Android', 'Iphone', 'Desktop']","San Diego, USA",902-175-4864,659.0,Oliwier Gill
+Omar.Ashley@example.com,['Iphone'],"Los Angeles, USA",156-912-7263,885.0,Omar Ashley
+Omar.Clements@example.com,['Desktop'],"Barcelona, Spain",998-234-1057,412.0,Omar Clements
+Omari.Gibbs@example.com,['Desktop'],"San Diego, USA",524-749-7401,589.0,Omari Gibbs
+Omari.Richmond@example.com,['Desktop'],"San Diego, USA",921-179-3270,611.0,Omari Richmond
+Omer.Kemp@example.com,"['Android', 'Desktop']","San Francisco, USA",857-531-3045,808.0,Omer Kemp
+Orla.Monroe@example.com,"['Iphone', 'Desktop']","Toronto, Canada",200-722-3778,536.0,Orla Monroe
+Orlando.Pitts@example.com,['Iphone'],"Los Angeles, USA",427-711-9658,58.0,Orlando Pitts
+Oskar.Mccarty@example.com,"['Iphone', 'Desktop']","London, United Kingdom",582-269-7396,253.0,Oskar Mccarty
+Otis.Pittman@example.com,"['Android', 'Iphone', 'Desktop']","San Diego, USA",563-494-9026,328.0,Otis Pittman
+Owen.Michael@example.com,['Iphone'],"Toronto, Canada",178-910-8863,383.0,Owen Michael
+Pablo.Benton@example.com,['Android'],"London, United Kingdom",918-474-3062,420.0,Pablo Benton
+Patricia.John@example.com,['Desktop'],"Barcelona, Spain",338-345-6084,338.0,Patricia John
+Patrick.Morse@example.com,"['Android', 'Iphone']","New York, USA",220-102-3684,171.0,Patrick Morse
+Paula.West@example.com,['Iphone'],"London, United Kingdom",345-217-2266,782.0,Paula West
+Pearl.Perez@example.com,['Iphone'],"San Francisco, USA",947-926-6369,110.0,Pearl Perez
+Penny.Hanson@example.com,['Desktop'],"Toronto, Canada",853-297-6593,396.0,Penny Hanson
+Philippa.Webster@example.com,['Android'],"Toronto, Canada",407-892-7705,204.0,Philippa Webster
+Phoebe.Rodriguez@example.com,"['Android', 'Desktop']","New York, USA",516-779-4464,217.0,Phoebe Rodriguez
+Phoebe.Weiss@example.com,"['Android', 'Desktop']","London, United Kingdom",299-560-9666,59.0,Phoebe Weiss
+Phoenix.Chapman@example.com,"['Android', 'Iphone', 'Desktop']","Los Angeles, USA",791-853-6464,626.0,Phoenix Chapman
+Phyllis.Gill@example.com,['Iphone'],"Los Angeles, USA",821-675-4190,377.0,Phyllis Gill
+Pippa.Harding@example.com,['Desktop'],"Chicago, USA",419-183-4778,880.0,Pippa Harding
+Polly.Mendez@example.com,"['Android', 'Iphone']","San Francisco, USA",916-453-8696,807.0,Polly Mendez
+Polly.Reyes@example.com,['Iphone'],"San Diego, USA",296-740-3450,107.0,Polly Reyes
+Prince.Sharp@example.com,"['Iphone', 'Desktop']","Montreal, Canada",886-278-8764,550.0,Prince Sharp
+Prince.Thompson@example.com,['Desktop'],"Chicago, USA",115-215-7565,53.0,Prince Thompson
+Princess.Schneider@example.com,"['Android', 'Desktop']","Paris, France",683-604-6287,271.0,Princess Schneider
+Priya.Moore@example.com,['Desktop'],"Paris, France",455-692-4736,117.0,Priya Moore
+Qasim.Bullock@example.com,"['Android', 'Iphone', 'Desktop']","Chicago, USA",392-468-4297,970.0,Qasim Bullock
+Rabia.Parsons@example.com,['Android'],"Montreal, Canada",244-470-8381,612.0,Rabia Parsons
+Rachael.Shields@example.com,"['Android', 'Iphone', 'Desktop']","New York, USA",557-384-9605,349.0,Rachael Shields
+Rachael.Sykes@example.com,"['Iphone', 'Desktop']","San Diego, USA",623-319-1782,278.0,Rachael Sykes
+Raheem.Ellis@example.com,"['Iphone', 'Desktop']","Chicago, USA",491-961-7709,684.0,Raheem Ellis
+Rahim.Cuevas@example.com,['Iphone'],"Los Angeles, USA",300-879-5941,87.0,Rahim Cuevas
+Raja.Hull@example.com,"['Android', 'Desktop']","Toronto, Canada",209-644-4005,449.0,Raja Hull
+Raja.Reeves@example.com,"['Android', 'Iphone']","Montreal, Canada",990-569-7356,995.0,Raja Reeves
+Rajan.Dickson@example.com,['Android'],"San Diego, USA",372-775-6929,772.0,Rajan Dickson
+Rajan.Fletcher@example.com,"['Android', 'Desktop']","Chicago, USA",443-159-6306,553.0,Rajan Fletcher
+Randy.Edwards@example.com,['Iphone'],"Barcelona, Spain",935-107-2953,344.0,Randy Edwards
+Randy.Sparks@example.com,['Iphone'],"New York, USA",339-468-1078,884.0,Randy Sparks
+Rebekah.Shaw@example.com,"['Android', 'Desktop']","Chicago, USA",531-380-1711,307.0,Rebekah Shaw
+Reggie.Strong@example.com,"['Android', 'Iphone', 'Desktop']","Toronto, Canada",459-645-8476,369.0,Reggie Strong
+Renee.Arroyo@example.com,"['Iphone', 'Desktop']","Los Angeles, USA",706-663-4493,965.0,Renee Arroyo
+Renee.Mullen@example.com,"['Android', 'Desktop']","San Diego, USA",185-170-8307,817.0,Renee Mullen
+Rhiannon.Vaughan@example.com,"['Android', 'Iphone']","Chicago, USA",206-626-6238,972.0,Rhiannon Vaughan
+Rhodri.Haley@example.com,['Iphone'],"London, United Kingdom",574-869-4715,730.0,Rhodri Haley
+Rhodri.Kelley@example.com,['Iphone'],"Los Angeles, USA",106-651-2649,181.0,Rhodri Kelley
+Rhonda.Coffey@example.com,"['Iphone', 'Desktop']","San Francisco, USA",473-420-4500,490.0,Rhonda Coffey
+Ria.Ponce@example.com,['Iphone'],"Chicago, USA",547-111-1151,619.0,Ria Ponce
+Ricardo.Odling@example.com,"['Android', 'Iphone']","New York, USA",218-272-9415,913.0,Ricardo Odling
+Richard.Jones@example.com,"['Iphone', 'Desktop']","San Francisco, USA",478-814-3941,799.0,Richard Jones
+Richard.Pope@example.com,"['Android', 'Iphone', 'Desktop']","Los Angeles, USA",216-184-3684,694.0,Richard Pope
+Ridwan.Houston@example.com,['Desktop'],"London, United Kingdom",530-308-5425,188.0,Ridwan Houston
+Riley.Fletcher@example.com,['Android'],"London, United Kingdom",522-750-5985,821.0,Riley Fletcher
+Rio.Pennington@example.com,"['Android', 'Iphone', 'Desktop']","New York, USA",473-123-1959,601.0,Rio Pennington
+Rio.Suarez@example.com,"['Iphone', 'Desktop']","Paris, France",304-182-8487,450.0,Rio Suarez
+Rishi.Barron@example.com,"['Android', 'Iphone', 'Desktop']","Montreal, Canada",331-128-4346,608.0,Rishi Barron
+Robbie.Hardy@example.com,['Android'],"Chicago, USA",950-716-3630,796.0,Robbie Hardy
+Robbie.Paul@example.com,"['Android', 'Desktop']","Los Angeles, USA",852-236-4050,373.0,Robbie Paul
+Rohan.Figueroa@example.com,['Android'],"New York, USA",542-617-7442,728.0,Rohan Figueroa
+Romeo.Martin@example.com,"['Iphone', 'Desktop']","Toronto, Canada",834-460-4855,356.0,Romeo Martin
+Ronald.Estes@example.com,['Iphone'],"Chicago, USA",328-873-2183,623.0,Ronald Estes
+Ronnie.Burch@example.com,"['Iphone', 'Desktop']","San Diego, USA",184-620-1928,871.0,Ronnie Burch
+Roosevelt.Huff@example.com,"['Android', 'Desktop']","New York, USA",348-716-1274,968.0,Roosevelt Huff
+Rory.Bartlett@example.com,"['Android', 'Iphone']","San Diego, USA",429-411-4734,329.0,Rory Bartlett
+Rosa.Stone@example.com,['Iphone'],"Paris, France",922-216-4141,281.0,Rosa Stone
+Rosanna.Dyer@example.com,['Iphone'],"Los Angeles, USA",512-600-6692,986.0,Rosanna Dyer
+Rowan.Acevedo@example.com,"['Iphone', 'Desktop']","Los Angeles, USA",223-620-9032,663.0,Rowan Acevedo
+Ruby.Reid@example.com,['Iphone'],"San Francisco, USA",877-977-4677,422.0,Ruby Reid
+Rupert.Mejia@example.com,"['Android', 'Desktop']","San Francisco, USA",194-235-2353,223.0,Rupert Mejia
+Russell.Carlson@example.com,"['Android', 'Desktop']","San Francisco, USA",635-758-7564,835.0,Russell Carlson
+Russell.Long@example.com,"['Android', 'Iphone', 'Desktop']","Montreal, Canada",399-959-7203,923.0,Russell Long
+Ruth.Andrews@example.com,"['Iphone', 'Desktop']","Chicago, USA",159-468-6067,106.0,Ruth Andrews
+Ruth.Stone@example.com,"['Android', 'Iphone']","Montreal, Canada",429-930-9178,539.0,Ruth Stone
+Saad.Ali@example.com,['Iphone'],"San Francisco, USA",185-189-3978,812.0,Saad Ali
+Sabrina.Becker@example.com,['Android'],"Toronto, Canada",895-364-8107,476.0,Sabrina Becker
+Sadie.Hammond@example.com,"['Android', 'Iphone']","Barcelona, Spain",799-609-4421,358.0,Sadie Hammond
+Safaa.Lopez@example.com,['Android'],"Chicago, USA",863-714-5286,402.0,Safaa Lopez
+Safaa.Sharpe@example.com,['Desktop'],"San Francisco, USA",648-955-3738,563.0,Safaa Sharpe
+Safia.Ayers@example.com,['Iphone'],"San Francisco, USA",512-649-7865,84.0,Safia Ayers
+Sahar.Kim@example.com,"['Android', 'Iphone']","San Francisco, USA",718-676-2743,220.0,Sahar Kim
+Sahil.Lyons@example.com,"['Android', 'Desktop']","Montreal, Canada",494-702-9881,339.0,Sahil Lyons
+Saif.Green@example.com,['Iphone'],"Paris, France",978-659-7286,68.0,Saif Green
+Saira.Lewis@example.com,['Iphone'],"New York, USA",921-562-9790,783.0,Saira Lewis
+Sam.Arias@example.com,['Iphone'],"Chicago, USA",415-467-1137,997.0,Sam Arias
+Sameer.Watkins@example.com,['Desktop'],"Montreal, Canada",982-313-9358,859.0,Sameer Watkins
+Samia.Bradley@example.com,"['Iphone', 'Desktop']","San Diego, USA",363-816-6259,907.0,Samia Bradley
+Samson.Berger@example.com,"['Android', 'Iphone', 'Desktop']","San Francisco, USA",815-817-9902,887.0,Samson Berger
+Sandra.Bowman@example.com,"['Android', 'Iphone', 'Desktop']","Los Angeles, USA",190-234-9749,495.0,Sandra Bowman
+Sandra.Cherry@example.com,['Desktop'],"San Francisco, USA",218-605-4170,18.0,Sandra Cherry
+Saoirse.Keller@example.com,"['Android', 'Iphone', 'Desktop']","San Francisco, USA",699-966-4749,69.0,Saoirse Keller
+Sapphire.Hatfield@example.com,"['Android', 'Iphone', 'Desktop']","San Francisco, USA",564-357-3504,673.0,Sapphire Hatfield
+Sapphire.Lane@example.com,"['Android', 'Iphone']","Chicago, USA",847-138-8647,911.0,Sapphire Lane
+Sara.Harris@example.com,"['Android', 'Iphone']","San Francisco, USA",549-750-2047,374.0,Sara Harris
+Sarah.Mooney@example.com,"['Android', 'Iphone', 'Desktop']","Chicago, USA",507-446-1333,250.0,Sarah Mooney
+Sasha.Berger@example.com,['Android'],"London, United Kingdom",492-295-4570,766.0,Sasha Berger
+Sasha.Ponce@example.com,"['Android', 'Iphone']","New York, USA",746-650-5343,836.0,Sasha Ponce
+Saskia.Glover@example.com,"['Iphone', 'Desktop']","Los Angeles, USA",883-302-1765,376.0,Saskia Glover
+Savannah.Boone@example.com,"['Android', 'Iphone', 'Desktop']","Los Angeles, USA",159-573-6793,540.0,Savannah Boone
+Scarlett.Bradley@example.com,['Iphone'],"San Diego, USA",841-963-6257,513.0,Scarlett Bradley
+Sean.Bolton@example.com,"['Android', 'Iphone']","Los Angeles, USA",222-241-5406,118.0,Sean Bolton
+Sebastian.Pierce@example.com,"['Android', 'Iphone', 'Desktop']","Chicago, USA",947-717-1440,992.0,Sebastian Pierce
+Seren.Rocha@example.com,['Iphone'],"Toronto, Canada",880-236-4632,323.0,Seren Rocha
+Serena.Lewis@example.com,"['Android', 'Iphone', 'Desktop']","Montreal, Canada",730-187-7131,876.0,Serena Lewis
+Seth.Walter@example.com,['Iphone'],"London, United Kingdom",988-932-7592,642.0,Seth Walter
+Shane.Wheeler@example.com,"['Android', 'Iphone']","Los Angeles, USA",315-892-7127,735.0,Shane Wheeler
+Sharon.Rojas@example.com,['Iphone'],"New York, USA",901-513-9962,354.0,Sharon Rojas
+Siena.Stanton@example.com,"['Android', 'Iphone', 'Desktop']","Chicago, USA",247-260-7851,304.0,Siena Stanton
+Sienna.Howard@example.com,['Desktop'],"Los Angeles, USA",835-486-5256,732.0,Sienna Howard
+Simeon.Mccall@example.com,"['Android', 'Desktop']","San Francisco, USA",135-125-7738,1000.0,Simeon Mccall
+Simon.Santiago@example.com,"['Android', 'Desktop']","Paris, France",471-290-4198,858.0,Simon Santiago
+Sinead.Horne@example.com,"['Android', 'Desktop']","Toronto, Canada",340-355-9098,219.0,Sinead Horne
+Sinead.Montes@example.com,['Android'],"New York, USA",711-829-6800,826.0,Sinead Montes
+Sonia.Lowe@example.com,['Android'],"Paris, France",418-550-4001,222.0,Sonia Lowe
+Sophia.Randolph@example.com,"['Android', 'Iphone']","New York, USA",972-667-2372,481.0,Sophia Randolph
+Sophie.Lindsey@example.com,['Desktop'],"Paris, France",392-864-7558,475.0,Sophie Lindsey
+Soraya.Bradford@example.com,['Desktop'],"Chicago, USA",951-513-3667,849.0,Soraya Bradford
+Stacey.Daniel@example.com,['Android'],"San Diego, USA",246-819-8817,709.0,Stacey Daniel
+Stacey.Manning@example.com,['Android'],"Los Angeles, USA",981-952-6391,870.0,Stacey Manning
+Stella.Wilkinson@example.com,"['Android', 'Iphone']","Los Angeles, USA",145-501-4975,639.0,Stella Wilkinson
+Stephanie.Rice@example.com,['Android'],"Montreal, Canada",830-901-9870,30.0,Stephanie Rice
+Steven.Reid@example.com,"['Android', 'Desktop']","San Francisco, USA",490-977-4025,296.0,Steven Reid
+Stuart.Clements@example.com,"['Android', 'Iphone', 'Desktop']","New York, USA",104-221-4124,955.0,Stuart Clements
+Sufyaan.Castillo@example.com,"['Android', 'Desktop']","Montreal, Canada",412-479-8766,579.0,Sufyaan Castillo
+Sufyaan.Gonzales@example.com,"['Android', 'Iphone', 'Desktop']","San Diego, USA",729-767-8923,417.0,Sufyaan Gonzales
+Sufyaan.Villanueva@example.com,['Android'],"Toronto, Canada",882-282-1419,949.0,Sufyaan Villanueva
+Sufyan.Guzman@example.com,"['Iphone', 'Desktop']","Montreal, Canada",125-583-6823,585.0,Sufyan Guzman
+Susan.Fowler@example.com,"['Android', 'Iphone']","San Diego, USA",305-117-8580,803.0,Susan Fowler
+Susannah.Kane@example.com,"['Android', 'Iphone', 'Desktop']","New York, USA",172-773-1455,590.0,Susannah Kane
+Susannah.O'Doherty@example.com,"['Android', 'Iphone', 'Desktop']","Chicago, USA",981-489-3689,56.0,Susannah O'Doherty
+Susie.Gibbons@example.com,"['Android', 'Iphone', 'Desktop']","Los Angeles, USA",194-777-4804,193.0,Susie Gibbons
+Sydney.Pratt@example.com,"['Iphone', 'Desktop']","Toronto, Canada",297-838-1084,892.0,Sydney Pratt
+Syed.Mooney@example.com,"['Iphone', 'Desktop']","San Francisco, USA",348-929-4959,810.0,Syed Mooney
+Syeda.Calhoun@example.com,['Desktop'],"Chicago, USA",738-680-1717,658.0,Syeda Calhoun
+Taha.Carroll@example.com,"['Android', 'Iphone']","Chicago, USA",368-154-2650,343.0,Taha Carroll
+Taha.Casey@example.com,"['Android', 'Desktop']","Los Angeles, USA",581-100-2001,76.0,Taha Casey
+Taha.Torres@example.com,['Iphone'],"Los Angeles, USA",685-146-7547,458.0,Taha Torres
+Talha.Austin@example.com,"['Iphone', 'Desktop']","New York, USA",279-345-3532,163.0,Talha Austin
+Tamara.Riddle@example.com,"['Android', 'Iphone', 'Desktop']","Los Angeles, USA",481-405-7265,235.0,Tamara Riddle
+Tamsin.Stein@example.com,"['Android', 'Iphone']","Los Angeles, USA",953-386-1321,701.0,Tamsin Stein
+Tamzin.Hernandez@example.com,"['Android', 'Desktop']","Chicago, USA",657-945-1077,333.0,Tamzin Hernandez
+Tanya.Watson@example.com,"['Android', 'Iphone']","Montreal, Canada",432-515-4933,115.0,Tanya Watson
+Tara.Brewer@example.com,['Iphone'],"New York, USA",114-507-5478,526.0,Tara Brewer
+Tariq.Holman@example.com,"['Iphone', 'Desktop']","Paris, France",734-647-8275,403.0,Tariq Holman
+Tasnim.Cobb@example.com,['Desktop'],"San Diego, USA",262-380-8877,8.0,Tasnim Cobb
+Taylor.Leon@example.com,['Android'],"Paris, France",857-418-9149,609.0,Taylor Leon
+Taylor.Ramos@example.com,"['Android', 'Desktop']","Toronto, Canada",833-282-1248,244.0,Taylor Ramos
+Taylor.Woods@example.com,"['Android', 'Iphone', 'Desktop']","Chicago, USA",294-365-8364,850.0,Taylor Woods
+Ted.Eaton@example.com,['Desktop'],"Paris, France",534-915-3617,788.0,Ted Eaton
+Ted.Wiggins@example.com,['Android'],"San Diego, USA",153-176-3641,936.0,Ted Wiggins
+Terence.Rosales@example.com,"['Iphone', 'Desktop']","Toronto, Canada",298-641-6696,479.0,Terence Rosales
+Teresa.Mccarty@example.com,"['Iphone', 'Desktop']","Toronto, Canada",223-114-4003,122.0,Teresa Mccarty
+Tess.Short@example.com,"['Android', 'Desktop']","Los Angeles, USA",990-918-2059,319.0,Tess Short
+Thea.Hamilton@example.com,"['Android', 'Iphone', 'Desktop']","Montreal, Canada",868-547-6826,324.0,Thea Hamilton
+Thea.Suarez@example.com,"['Android', 'Iphone', 'Desktop']","Toronto, Canada",647-211-7337,687.0,Thea Suarez
+Theresa.Bentley@example.com,['Android'],"San Francisco, USA",553-407-1049,667.0,Theresa Bentley
+Thomas.English@example.com,['Desktop'],"New York, USA",891-190-2889,154.0,Thomas English
+Tia.Ali@example.com,['Android'],"San Francisco, USA",507-663-5326,747.0,Tia Ali
+Tia.Potter@example.com,"['Android', 'Iphone']","New York, USA",137-491-6519,175.0,Tia Potter
+Tiago.Dunn@example.com,"['Android', 'Iphone']","San Diego, USA",728-796-4352,197.0,Tiago Dunn
+Tiana.Decker@example.com,"['Iphone', 'Desktop']","London, United Kingdom",255-136-3687,784.0,Tiana Decker
+Tiffany.Griffith@example.com,['Android'],"Paris, France",201-302-5165,843.0,Tiffany Griffith
+Timothy.Jacobs@example.com,"['Android', 'Desktop']","Barcelona, Spain",105-356-5519,393.0,Timothy Jacobs
+Tina.Powell@example.com,"['Android', 'Desktop']","New York, USA",372-218-6551,132.0,Tina Powell
+Tobias.Beltran@example.com,"['Iphone', 'Desktop']","Chicago, USA",598-751-1029,749.0,Tobias Beltran
+Tobias.Schultz@example.com,"['Iphone', 'Desktop']","Los Angeles, USA",995-854-2821,961.0,Tobias Schultz
+Tom.Tapia@example.com,['Desktop'],"Chicago, USA",439-227-1780,675.0,Tom Tapia
+Tomas.Griffith@example.com,['Iphone'],"London, United Kingdom",492-337-4468,42.0,Tomas Griffith
+Tomasz.Baker@example.com,"['Android', 'Desktop']","Barcelona, Spain",778-642-7614,872.0,Tomasz Baker
+Tommy.Farmer@example.com,['Android'],"Toronto, Canada",999-431-4584,263.0,Tommy Farmer
+Tomos.Velez@example.com,"['Android', 'Desktop']","Los Angeles, USA",233-661-3978,656.0,Tomos Velez
+Tony.Shepard@example.com,['Iphone'],"Barcelona, Spain",416-772-8288,218.0,Tony Shepard
+Tori.Rowland@example.com,"['Android', 'Iphone']","San Diego, USA",372-470-9101,931.0,Tori Rowland
+Traci.Banks@example.com,"['Android', 'Iphone']","San Francisco, USA",313-374-6903,98.0,Traci Banks
+Trinity.Mora@example.com,['Android'],"Toronto, Canada",406-645-2610,407.0,Trinity Mora
+Tristan.Lambert@example.com,"['Android', 'Iphone', 'Desktop']","San Diego, USA",125-567-3504,463.0,Tristan Lambert
+Tristan.Valdez@example.com,"['Android', 'Iphone']","Los Angeles, USA",109-614-1639,538.0,Tristan Valdez
+Ty.Mcintyre@example.com,"['Android', 'Iphone']","San Francisco, USA",743-856-9854,62.0,Ty Mcintyre
+Ty.Serrano@example.com,['Iphone'],"San Francisco, USA",901-570-7400,547.0,Ty Serrano
+Tyler.Vasquez@example.com,['Iphone'],"London, United Kingdom",899-668-7177,909.0,Tyler Vasquez
+Tyrell.Holman@example.com,"['Iphone', 'Desktop']","San Francisco, USA",582-574-4299,554.0,Tyrell Holman
+Umar.Guerrero@example.com,"['Android', 'Iphone', 'Desktop']","San Francisco, USA",207-890-3313,522.0,Umar Guerrero
+Usman.Swanson@example.com,"['Android', 'Iphone', 'Desktop']","London, United Kingdom",431-103-9132,100.0,Usman Swanson
+Valentina.Cross@example.com,"['Android', 'Iphone']","Los Angeles, USA",142-486-2939,545.0,Valentina Cross
+Valerie.Bright@example.com,['Iphone'],"Los Angeles, USA",838-333-3237,845.0,Valerie Bright
+Valerie.Oneal@example.com,"['Android', 'Iphone', 'Desktop']","Toronto, Canada",651-335-6190,70.0,Valerie Oneal
+Vera.Walker@example.com,"['Iphone', 'Desktop']","London, United Kingdom",516-811-2158,661.0,Vera Walker
+Verity.Oneal@example.com,"['Android', 'Desktop']","San Francisco, USA",736-555-3571,404.0,Verity Oneal
+Vincent.Garrison@example.com,['Iphone'],"Chicago, USA",598-173-8153,705.0,Vincent Garrison
+Vinnie.Schwartz@example.com,['Desktop'],"San Diego, USA",790-948-7013,570.0,Vinnie Schwartz
+Vivian.Peterson@example.com,['Android'],"San Francisco, USA",598-995-3909,79.0,Vivian Peterson
+Wade.Hancock@example.com,"['Android', 'Iphone', 'Desktop']","London, United Kingdom",245-455-9119,703.0,Wade Hancock
+Wendy.Mcclure@example.com,['Android'],"San Diego, USA",830-402-9784,743.0,Wendy Mcclure
+Wilbur.Hicks@example.com,['Android'],"San Diego, USA",979-216-9924,820.0,Wilbur Hicks
+Wilbur.Valentine@example.com,"['Android', 'Iphone', 'Desktop']","San Francisco, USA",718-283-9417,557.0,Wilbur Valentine
+Wilfred.Michael@example.com,['Iphone'],"Chicago, USA",632-902-2453,644.0,Wilfred Michael
+Will.Santana@example.com,"['Android', 'Desktop']","Los Angeles, USA",460-231-8743,159.0,Will Santana
+Willard.Gray@example.com,"['Android', 'Iphone', 'Desktop']","Paris, France",894-914-4304,474.0,Willard Gray
+Willard.Odling@example.com,"['Android', 'Desktop']","Chicago, USA",156-301-8459,514.0,Willard Odling
+William.Franco@example.com,"['Android', 'Iphone']","Toronto, Canada",196-468-3312,918.0,William Franco
+Willow.Buck@example.com,"['Android', 'Iphone', 'Desktop']","San Francisco, USA",472-603-6198,778.0,Willow Buck
+Xander.Levine@example.com,"['Iphone', 'Desktop']","Toronto, Canada",790-969-1579,695.0,Xander Levine
+Xavier.Mcguire@example.com,['Desktop'],"San Francisco, USA",329-569-7858,337.0,Xavier Mcguire
+Yaseen.Kennedy@example.com,"['Android', 'Iphone', 'Desktop']","Chicago, USA",778-172-1502,855.0,Yaseen Kennedy
+Yash.Mcleod@example.com,['Android'],"London, United Kingdom",270-525-3291,723.0,Yash Mcleod
+Yasin.Rogers@example.com,['Iphone'],"San Diego, USA",416-776-3422,577.0,Yasin Rogers
+Yasmine.Scott@example.com,['Desktop'],"San Diego, USA",300-321-6761,925.0,Yasmine Scott
+Yousef.Andrews@example.com,"['Android', 'Iphone']","Los Angeles, USA",532-910-6535,388.0,Yousef Andrews
+Yusra.Fletcher@example.com,"['Android', 'Iphone', 'Desktop']","Toronto, Canada",385-702-8874,3.0,Yusra Fletcher
+Yusra.Norman@example.com,"['Android', 'Desktop']","Los Angeles, USA",945-940-4995,582.0,Yusra Norman
+Yusuf.Dickerson@example.com,['Android'],"San Francisco, USA",502-896-9441,750.0,Yusuf Dickerson
+Yusuf.Salazar@example.com,['Android'],"Toronto, Canada",311-351-7403,269.0,Yusuf Salazar
+Zac.Wagner@example.com,"['Android', 'Iphone', 'Desktop']","San Francisco, USA",131-396-9743,280.0,Zac Wagner
+Zachary.Lawson@example.com,['Desktop'],"San Diego, USA",655-475-1852,886.0,Zachary Lawson
+Zachary.Rubio@example.com,"['Android', 'Iphone', 'Desktop']","Montreal, Canada",971-477-1542,975.0,Zachary Rubio
+Zachery.Brennan@example.com,['Android'],"San Francisco, USA",323-591-3874,83.0,Zachery Brennan
+Zachery.Snow@example.com,['Iphone'],"Toronto, Canada",354-295-2894,382.0,Zachery Snow
+Zack.Griffin@example.com,['Desktop'],"San Diego, USA",467-370-7724,16.0,Zack Griffin
+Zack.Mcclain@example.com,['Iphone'],"New York, USA",586-280-9496,133.0,Zack Mcclain
+Zahraa.Villanueva@example.com,['Desktop'],"San Francisco, USA",130-183-4153,256.0,Zahraa Villanueva
+Zain.Haney@example.com,['Desktop'],"New York, USA",206-514-3761,978.0,Zain Haney
+Zakariya.Stuart@example.com,['Desktop'],"Los Angeles, USA",192-776-4957,956.0,Zakariya Stuart
+Zaki.Mcpherson@example.com,"['Android', 'Desktop']","San Francisco, USA",344-278-2013,568.0,Zaki Mcpherson
+Zakir.Russell@example.com,"['Iphone', 'Desktop']","Toronto, Canada",599-588-9264,198.0,Zakir Russell
+Zane.Oconnor@example.com,['Desktop'],"Chicago, USA",108-772-5524,900.0,Zane Oconnor
+Zara.Oconnell@example.com,['Android'],"Toronto, Canada",543-537-6044,664.0,Zara Oconnell
+Zara.Washington@example.com,"['Iphone', 'Desktop']","London, United Kingdom",679-367-1926,246.0,Zara Washington
+Zayd.Yoder@example.com,"['Android', 'Desktop']","New York, USA",259-388-7717,233.0,Zayd Yoder
+Zayn.Kaufman@example.com,"['Iphone', 'Desktop']","Chicago, USA",893-890-8415,660.0,Zayn Kaufman
+Zayn.Webb@example.com,"['Android', 'Desktop']","New York, USA",561-761-7547,556.0,Zayn Webb
+Zaynab.Davila@example.com,['Iphone'],"Toronto, Canada",767-906-5124,953.0,Zaynab Davila
+Zaynab.Salas@example.com,['Iphone'],"San Diego, USA",696-692-1941,397.0,Zaynab Salas
+Zaynah.Wong@example.com,"['Android', 'Iphone']","Paris, France",597-835-8978,649.0,Zaynah Wong
+Zoe.Decker@example.com,"['Iphone', 'Desktop']","Los Angeles, USA",197-454-9658,897.0,Zoe Decker
+Zoe.Newman@example.com,"['Iphone', 'Desktop']","San Francisco, USA",620-765-4496,205.0,Zoe Newman
+Zohaib.Hartman@example.com,['Desktop'],"Montreal, Canada",928-400-6426,130.0,Zohaib Hartman
+Zohaib.Preston@example.com,['Iphone'],"San Francisco, USA",575-540-7871,469.0,Zohaib Preston
+Zoya.Giles@example.com,"['Android', 'Iphone']","Toronto, Canada",301-750-7631,127.0,Zoya Giles
+Zubair.Sheppard@example.com,"['Android', 'Iphone', 'Desktop']","San Francisco, USA",845-425-4523,467.0,Zubair Sheppard
+Zuzanna.Moody@example.com,"['Iphone', 'Desktop']","San Diego, USA",727-221-6352,454.0,Zuzanna Moody
