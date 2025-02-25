@@ -44,12 +44,12 @@ def update_devices(row):
             devices.add(device)
     return list(devices)
 
-transaction_xml = parse_xml("Venmo-FrHend-Raul/Venmito-FrHend-Raul/data/transactions.xml")
-people_js = pd.read_json("Venmo-FrHend-Raul/Venmito-FrHend-Raul/data/people.json")
-promotions_csv = pd.read_csv("Venmo-FrHend-Raul/Venmito-FrHend-Raul/data/promotions.csv")
-transfers_csv = pd.read_csv("Venmo-FrHend-Raul/Venmito-FrHend-Raul/data/transfers.csv")
+transaction_xml = parse_xml("Venmito-FrHend-Raul/data/transactions.xml")
+people_js = pd.read_json("Venmito-FrHend-Raul/data/people.json")
+promotions_csv = pd.read_csv("Venmito-FrHend-Raul/data/promotions.csv")
+transfers_csv = pd.read_csv("Venmito-FrHend-Raul/data/transfers.csv")
 
-with open("Venmo-FrHend-Raul/Venmito-FrHend-Raul/data/people.yml", "r") as file:
+with open("Venmito-FrHend-Raul/data/people.yml", "r") as file:
     people_yml = pd.DataFrame(yaml.safe_load(file))
 
 ## =================================
@@ -76,7 +76,7 @@ merged_people.drop(columns=["location"], inplace=True, errors="ignore")
 merged_people["devices"] = merged_people.apply(update_devices, axis=1)
 merged_people.drop(columns=["Android", "Desktop", "Iphone"], inplace=True, errors="ignore")
 
-merged_people.to_csv("Venmo-FrHend-Raul/Venmito-FrHend-Raul/csv_data/final_cleaned_data.csv", index=False)
+merged_people.to_csv("Venmito-FrHend-Raul/csv_data/Merged_people.csv", index=False)
 
 ## =================================
 # Normalazing the data and merging
@@ -102,7 +102,7 @@ merged_promotions = merge_email.combine_first(merge_phone)
 final_columns = ["id", "name", "phone", "email", "city", "devices", "promotion", "responded"]
 final_promotions = merged_promotions[final_columns]
 
-final_promotions.to_csv("Venmo-FrHend-Raul\Venmito-FrHend-Raul\csv_data\merged_promotions.csv", index=False)
+final_promotions.to_csv("Venmito-FrHend-Raul\csv_data\merged_promotions.csv", index=False)
 
 ## =================================
 # Normalazing the data and merging
@@ -146,7 +146,7 @@ transfers_csv = transfers_csv.drop([col for col in transfers_csv.columns if col.
 
 transfers_csv = transfers_csv.rename(columns={col: col.replace('_y', '') for col in transfers_csv.columns if col.endswith('_y')})
 
-transfers_csv.to_csv('Venmo-FrHend-Raul/Venmito-FrHend-Raul/csv_data/transfers_filled.csv', index=False)
+transfers_csv.to_csv('Venmito-FrHend-Raul/csv_data/transfers_filled.csv', index=False)
 
 ## =================================
 # Normalazing the data and merging
@@ -156,7 +156,7 @@ transfers_csv.to_csv('Venmo-FrHend-Raul/Venmito-FrHend-Raul/csv_data/transfers_f
 merged_transactions = transaction_xml.merge(merged_people[['phone', 'id', 'name', 'email']], 
                                             how='left', on='phone')
 
-merged_transactions.to_csv('Venmo-FrHend-Raul\Venmito-FrHend-Raul\csv_data\merged_transactions.csv', index=False)
+merged_transactions.to_csv('Venmito-FrHend-Raul\csv_data\merged_transactions.csv', index=False)
 
 
 ###ANALYSIS
@@ -604,7 +604,7 @@ if __name__ == "__main__":
 ## =================================
 # RUNNING EVERYTHING
 # To run the CLI go to line 610 and uncomment the function. This should work just running the python file as any other python file
-# To run the GUI comment line 610 and run streamlit run "file path"
+# To run the GUI comment line 610 and run streamlit run "local file path". Any issues with python write "py -m" before the command.
 ## =================================
 
-# cli_main_menu()
+cli_main_menu()
