@@ -1,0 +1,297 @@
+transaction_id,phone,store,item_name,price,price_per_item,quantity,id,name,email
+1000,233-159-4158,Trader Tales,Krafty Cheddar,5.0,5.0,1,854.0,Ffion Knight,Ffion.Knight@example.com
+1000,233-159-4158,Trader Tales,Popsi,4.0,4.0,1,854.0,Ffion Knight,Ffion.Knight@example.com
+1000,233-159-4158,Trader Tales,Oreoz,8.0,4.0,2,854.0,Ffion Knight,Ffion.Knight@example.com
+1001,725-427-2794,PetPals Mart,Colgatex,2.0,2.0,1,341.0,Alexandros Green,Alexandros.Green@example.com
+1002,659-190-9378,Trader Tales,Colgatex,3.0,3.0,1,15.0,Leroy Barrera,Leroy.Barrera@example.com
+1002,659-190-9378,Trader Tales,Dovee,2.0,2.0,1,15.0,Leroy Barrera,Leroy.Barrera@example.com
+1002,659-190-9378,Trader Tales,Flixnet,11.0,11.0,1,15.0,Leroy Barrera,Leroy.Barrera@example.com
+1003,334-436-6254,Urban Outfitters Loft,Krafty Cheddar,8.0,4.0,2,371.0,Ismaeel Roach,Ismaeel.Roach@example.com
+1003,334-436-6254,Urban Outfitters Loft,RedCow,3.0,3.0,1,371.0,Ismaeel Roach,Ismaeel.Roach@example.com
+1003,334-436-6254,Urban Outfitters Loft,Dovee,2.0,1.0,2,371.0,Ismaeel Roach,Ismaeel.Roach@example.com
+1004,615-102-4849,PetPals Mart,Popsi,3.0,3.0,1,480.0,Abu Miranda,Abu.Miranda@example.com
+1004,615-102-4849,PetPals Mart,Flixnet,10.0,10.0,1,480.0,Abu Miranda,Abu.Miranda@example.com
+1005,294-365-8364,Urban Outfitters Loft,Popsi,3.0,3.0,1,850.0,Taylor Woods,Taylor.Woods@example.com
+1005,294-365-8364,Urban Outfitters Loft,KittyKat,4.0,2.0,2,850.0,Taylor Woods,Taylor.Woods@example.com
+1006,634-813-9351,BestChoice Buy,Flixnet,11.0,11.0,1,564.0,Craig Mcknight,Craig.Mcknight@example.com
+1006,634-813-9351,BestChoice Buy,Colgatex,6.0,3.0,2,564.0,Craig Mcknight,Craig.Mcknight@example.com
+1007,273-616-5739,SparkMart,KittyKat,8.0,4.0,2,297.0,Ayesha O'Reilly,Ayesha.O'Reilly@example.com
+1007,273-616-5739,SparkMart,RedCow,5.0,5.0,1,297.0,Ayesha O'Reilly,Ayesha.O'Reilly@example.com
+1007,273-616-5739,SparkMart,Dovee,9.0,3.0,3,297.0,Ayesha O'Reilly,Ayesha.O'Reilly@example.com
+1008,839-124-9420,SparkMart,Colgatex,4.0,4.0,1,305.0,Doris Griffith,Doris.Griffith@example.com
+1008,839-124-9420,SparkMart,RedCow,5.0,5.0,1,305.0,Doris Griffith,Doris.Griffith@example.com
+1008,839-124-9420,SparkMart,KittyKat,4.0,4.0,1,305.0,Doris Griffith,Doris.Griffith@example.com
+1009,645-829-7495,Trader Tales,Krafty Cheddar,5.0,5.0,1,169.0,Katy Harrington,Katy.Harrington@example.com
+1010,444-295-8051,Trader Tales,Flixnet,11.0,11.0,1,752.0,Marwa Dennis,Marwa.Dennis@example.com
+1010,444-295-8051,Trader Tales,RedCow,4.0,4.0,1,752.0,Marwa Dennis,Marwa.Dennis@example.com
+1010,444-295-8051,Trader Tales,Popsi,4.0,4.0,1,752.0,Marwa Dennis,Marwa.Dennis@example.com
+1011,520-305-7264,Trader Tales,Colgatex,3.0,3.0,1,89.0,Everett Fitzpatrick,Everett.Fitzpatrick@example.com
+1011,520-305-7264,Trader Tales,Popsi,4.0,4.0,1,89.0,Everett Fitzpatrick,Everett.Fitzpatrick@example.com
+1011,520-305-7264,Trader Tales,Flixnet,11.0,11.0,1,89.0,Everett Fitzpatrick,Everett.Fitzpatrick@example.com
+1012,891-887-3513,PetPals Mart,Colgatex,2.0,2.0,1,202.0,Kabir Stewart,Kabir.Stewart@example.com
+1012,891-887-3513,PetPals Mart,Flixnet,30.0,10.0,3,202.0,Kabir Stewart,Kabir.Stewart@example.com
+1013,114-507-5478,BestChoice Buy,RedCow,4.0,4.0,1,526.0,Tara Brewer,Tara.Brewer@example.com
+1013,114-507-5478,BestChoice Buy,Colgatex,3.0,3.0,1,526.0,Tara Brewer,Tara.Brewer@example.com
+1013,114-507-5478,BestChoice Buy,Dovee,4.0,2.0,2,526.0,Tara Brewer,Tara.Brewer@example.com
+1014,558-608-9550,BestChoice Buy,Krafty Cheddar,5.0,5.0,1,370.0,Darcey Powell,Darcey.Powell@example.com
+1015,372-218-6551,BestChoice Buy,Colgatex,3.0,3.0,1,132.0,Tina Powell,Tina.Powell@example.com
+1015,372-218-6551,BestChoice Buy,Krafty Cheddar,10.0,5.0,2,132.0,Tina Powell,Tina.Powell@example.com
+1015,372-218-6551,BestChoice Buy,Popsi,4.0,4.0,1,132.0,Tina Powell,Tina.Powell@example.com
+1016,441-847-1955,Urban Outfitters Loft,Popsi,9.0,3.0,3,109.0,Huw Valentine,Huw.Valentine@example.com
+1016,441-847-1955,Urban Outfitters Loft,Dovee,3.0,1.0,3,109.0,Huw Valentine,Huw.Valentine@example.com
+1016,441-847-1955,Urban Outfitters Loft,Flixnet,10.0,10.0,1,109.0,Huw Valentine,Huw.Valentine@example.com
+1017,924-146-4189,PetPals Mart,Dovee,1.0,1.0,1,54.0,Bethany Santana,Bethany.Santana@example.com
+1018,512-600-6692,Urban Outfitters Loft,Dovee,2.0,1.0,2,986.0,Rosanna Dyer,Rosanna.Dyer@example.com
+1019,362-464-9875,Trader Tales,Popsi,4.0,4.0,1,894.0,Kyran Foster,Kyran.Foster@example.com
+1019,362-464-9875,Trader Tales,Colgatex,6.0,3.0,2,894.0,Kyran Foster,Kyran.Foster@example.com
+1020,101-165-2021,SparkMart,Flixnet,12.0,12.0,1,742.0,Kieran Hoover,Kieran.Hoover@example.com
+1020,101-165-2021,SparkMart,Popsi,10.0,5.0,2,742.0,Kieran Hoover,Kieran.Hoover@example.com
+1021,563-494-9026,Urban Outfitters Loft,Colgatex,2.0,2.0,1,328.0,Otis Pittman,Otis.Pittman@example.com
+1022,918-588-9531,Trader Tales,RedCow,8.0,4.0,2,368.0,Marie Hughes,Marie.Hughes@example.com
+1022,918-588-9531,Trader Tales,Krafty Cheddar,5.0,5.0,1,368.0,Marie Hughes,Marie.Hughes@example.com
+1023,315-892-7127,PetPals Mart,KittyKat,6.0,2.0,3,735.0,Shane Wheeler,Shane.Wheeler@example.com
+1023,315-892-7127,PetPals Mart,Popsi,6.0,3.0,2,735.0,Shane Wheeler,Shane.Wheeler@example.com
+1023,315-892-7127,PetPals Mart,Dovee,1.0,1.0,1,735.0,Shane Wheeler,Shane.Wheeler@example.com
+1024,640-390-3390,Trader Tales,Flixnet,22.0,11.0,2,944.0,Hiba Hicks,Hiba.Hicks@example.com
+1024,640-390-3390,Trader Tales,RedCow,12.0,4.0,3,944.0,Hiba Hicks,Hiba.Hicks@example.com
+1025,626-458-8110,Targeted Treasures,RedCow,10.0,5.0,2,693.0,Jayden Dunlap,Jayden.Dunlap@example.com
+1026,993-541-7464,BestChoice Buy,Colgatex,6.0,3.0,2,533.0,Joshua Holt,Joshua.Holt@example.com
+1026,993-541-7464,BestChoice Buy,RedCow,4.0,4.0,1,533.0,Joshua Holt,Joshua.Holt@example.com
+1027,116-866-3838,Urban Outfitters Loft,Popsi,6.0,3.0,2,602.0,Jazmin Lopez,Jazmin.Lopez@example.com
+1027,116-866-3838,Urban Outfitters Loft,Dovee,2.0,1.0,2,602.0,Jazmin Lopez,Jazmin.Lopez@example.com
+1027,116-866-3838,Urban Outfitters Loft,RedCow,6.0,3.0,2,602.0,Jazmin Lopez,Jazmin.Lopez@example.com
+1028,776-243-3725,Trader Tales,Dovee,2.0,2.0,1,97.0,Alastair Buckley,Alastair.Buckley@example.com
+1029,553-407-1049,PetPals Mart,Popsi,3.0,3.0,1,667.0,Theresa Bentley,Theresa.Bentley@example.com
+1029,553-407-1049,PetPals Mart,RedCow,3.0,3.0,1,667.0,Theresa Bentley,Theresa.Bentley@example.com
+1029,553-407-1049,PetPals Mart,Flixnet,10.0,10.0,1,667.0,Theresa Bentley,Theresa.Bentley@example.com
+1030,782-806-6417,Urban Outfitters Loft,Oreoz,3.0,3.0,1,990.0,Juliette Luna,Juliette.Luna@example.com
+1031,271-963-2123,Urban Outfitters Loft,Dovee,1.0,1.0,1,224.0,Lily-Rose Kaufman,Lily-Rose.Kaufman@example.com
+1032,915-320-3214,Urban Outfitters Loft,Colgatex,2.0,2.0,1,927.0,Alejandro Kent,Alejandro.Kent@example.com
+1033,953-386-1321,PetPals Mart,Coca-Splash,2.0,2.0,1,701.0,Tamsin Stein,Tamsin.Stein@example.com
+1033,953-386-1321,PetPals Mart,Popsi,6.0,3.0,2,701.0,Tamsin Stein,Tamsin.Stein@example.com
+1033,953-386-1321,PetPals Mart,Colgatex,2.0,2.0,1,701.0,Tamsin Stein,Tamsin.Stein@example.com
+1034,731-730-2543,Urban Outfitters Loft,Colgatex,2.0,2.0,1,136.0,Hafsah Booker,Hafsah.Booker@example.com
+1035,544-944-1609,PetPals Mart,Colgatex,2.0,2.0,1,528.0,Md Booker,Md.Booker@example.com
+1036,891-887-3513,PetPals Mart,RedCow,3.0,3.0,1,202.0,Kabir Stewart,Kabir.Stewart@example.com
+1037,478-814-3941,Trader Tales,Dovee,2.0,2.0,1,799.0,Richard Jones,Richard.Jones@example.com
+1037,478-814-3941,Trader Tales,Colgatex,9.0,3.0,3,799.0,Richard Jones,Richard.Jones@example.com
+1038,742-395-8995,Urban Outfitters Loft,Flixnet,30.0,10.0,3,35.0,Linda Combs,Linda.Combs@example.com
+1038,742-395-8995,Urban Outfitters Loft,Popsi,3.0,3.0,1,35.0,Linda Combs,Linda.Combs@example.com
+1038,742-395-8995,Urban Outfitters Loft,GatorBoost,3.0,3.0,1,35.0,Linda Combs,Linda.Combs@example.com
+1039,849-570-8792,PetPals Mart,Dovee,1.0,1.0,1,862.0,Alexandros Ryan,Alexandros.Ryan@example.com
+1039,849-570-8792,PetPals Mart,Oreoz,6.0,3.0,2,862.0,Alexandros Ryan,Alexandros.Ryan@example.com
+1039,849-570-8792,PetPals Mart,Colgatex,2.0,2.0,1,862.0,Alexandros Ryan,Alexandros.Ryan@example.com
+1040,220-102-3684,BestChoice Buy,Krafty Cheddar,10.0,5.0,2,171.0,Patrick Morse,Patrick.Morse@example.com
+1041,805-146-4773,Urban Outfitters Loft,GatorBoost,6.0,3.0,2,146.0,Edith Walker,Edith.Walker@example.com
+1041,805-146-4773,Urban Outfitters Loft,Colgatex,2.0,2.0,1,146.0,Edith Walker,Edith.Walker@example.com
+1042,159-573-6793,Urban Outfitters Loft,Dovee,1.0,1.0,1,540.0,Savannah Boone,Savannah.Boone@example.com
+1042,159-573-6793,Urban Outfitters Loft,Oreoz,3.0,3.0,1,540.0,Savannah Boone,Savannah.Boone@example.com
+1043,549-750-2047,Urban Outfitters Loft,KittyKat,2.0,2.0,1,374.0,Sara Harris,Sara.Harris@example.com
+1044,326-267-7811,Urban Outfitters Loft,KittyKat,2.0,2.0,1,692.0,Azaan Barker,Azaan.Barker@example.com
+1044,326-267-7811,Urban Outfitters Loft,Dovee,3.0,1.0,3,692.0,Azaan Barker,Azaan.Barker@example.com
+1045,247-523-1403,PetPals Mart,Oreoz,6.0,3.0,2,86.0,Douglas Browning,Douglas.Browning@example.com
+1046,950-639-9777,PetPals Mart,Oreoz,3.0,3.0,1,179.0,Aminah Wells,Aminah.Wells@example.com
+1046,950-639-9777,PetPals Mart,Dovee,1.0,1.0,1,179.0,Aminah Wells,Aminah.Wells@example.com
+1047,727-709-3351,BestChoice Buy,Colgatex,6.0,3.0,2,23.0,Danielle Glenn,Danielle.Glenn@example.com
+1047,727-709-3351,BestChoice Buy,Popsi,8.0,4.0,2,23.0,Danielle Glenn,Danielle.Glenn@example.com
+1048,883-481-7339,Urban Outfitters Loft,RedCow,3.0,3.0,1,686.0,Mohamed Miller,Mohamed.Miller@example.com
+1048,883-481-7339,Urban Outfitters Loft,Krafty Cheddar,4.0,4.0,1,686.0,Mohamed Miller,Mohamed.Miller@example.com
+1049,936-522-1085,Urban Outfitters Loft,Popsi,3.0,3.0,1,308.0,Noah Benton,Noah.Benton@example.com
+1049,936-522-1085,Urban Outfitters Loft,RedCow,6.0,3.0,2,308.0,Noah Benton,Noah.Benton@example.com
+1049,936-522-1085,Urban Outfitters Loft,Dovee,1.0,1.0,1,308.0,Noah Benton,Noah.Benton@example.com
+1050,424-390-3432,PetPals Mart,Krafty Cheddar,4.0,4.0,1,126.0,Bessie Cole,Bessie.Cole@example.com
+1050,424-390-3432,PetPals Mart,Dovee,2.0,1.0,2,126.0,Bessie Cole,Bessie.Cole@example.com
+1051,336-283-3896,Trader Tales,KittyKat,3.0,3.0,1,516.0,Kate Key,Kate.Key@example.com
+1051,336-283-3896,Trader Tales,Flixnet,11.0,11.0,1,516.0,Kate Key,Kate.Key@example.com
+1052,738-911-3567,Urban Outfitters Loft,Flixnet,20.0,10.0,2,697.0,Donald Horne,Donald.Horne@example.com
+1052,738-911-3567,Urban Outfitters Loft,RedCow,3.0,3.0,1,697.0,Donald Horne,Donald.Horne@example.com
+1053,561-761-7547,Trader Tales,Oreoz,4.0,4.0,1,556.0,Zayn Webb,Zayn.Webb@example.com
+1053,561-761-7547,Trader Tales,Colgatex,3.0,3.0,1,556.0,Zayn Webb,Zayn.Webb@example.com
+1054,227-737-8739,SparkMart,Flixnet,12.0,12.0,1,212.0,Angela Lynch,Angela.Lynch@example.com
+1055,515-268-3667,PetPals Mart,Dovee,1.0,1.0,1,345.0,Hannah Zuniga,Hannah.Zuniga@example.com
+1056,392-468-4297,Trader Tales,Dovee,6.0,2.0,3,970.0,Qasim Bullock,Qasim.Bullock@example.com
+1056,392-468-4297,Trader Tales,Krafty Cheddar,5.0,5.0,1,970.0,Qasim Bullock,Qasim.Bullock@example.com
+1057,645-829-7495,SparkMart,Colgatex,8.0,4.0,2,169.0,Katy Harrington,Katy.Harrington@example.com
+1057,645-829-7495,SparkMart,Flixnet,24.0,12.0,2,169.0,Katy Harrington,Katy.Harrington@example.com
+1058,520-550-1148,Urban Outfitters Loft,Krafty Cheddar,4.0,4.0,1,624.0,Nia Adams,Nia.Adams@example.com
+1058,520-550-1148,Urban Outfitters Loft,Popsi,3.0,3.0,1,624.0,Nia Adams,Nia.Adams@example.com
+1059,516-779-4464,Trader Tales,Dovee,4.0,2.0,2,217.0,Phoebe Rodriguez,Phoebe.Rodriguez@example.com
+1060,558-608-9550,Trader Tales,Dovee,4.0,2.0,2,370.0,Darcey Powell,Darcey.Powell@example.com
+1061,752-347-2146,SparkMart,KittyKat,8.0,4.0,2,518.0,Mabel Pace,Mabel.Pace@example.com
+1061,752-347-2146,SparkMart,Flixnet,12.0,12.0,1,518.0,Mabel Pace,Mabel.Pace@example.com
+1062,139-396-1336,PetPals Mart,Dovee,3.0,1.0,3,27.0,Frazer Anthony,Frazer.Anthony@example.com
+1062,139-396-1336,PetPals Mart,Popsi,6.0,3.0,2,27.0,Frazer Anthony,Frazer.Anthony@example.com
+1062,139-396-1336,PetPals Mart,Colgatex,4.0,2.0,2,27.0,Frazer Anthony,Frazer.Anthony@example.com
+1063,553-407-1049,Urban Outfitters Loft,RedCow,9.0,3.0,3,667.0,Theresa Bentley,Theresa.Bentley@example.com
+1063,553-407-1049,Urban Outfitters Loft,KittyKat,6.0,2.0,3,667.0,Theresa Bentley,Theresa.Bentley@example.com
+1064,811-806-5304,Trader Tales,Flixnet,11.0,11.0,1,28.0,Cassie Molina,Cassie.Molina@example.com
+1065,558-134-7531,Trader Tales,Flixnet,11.0,11.0,1,158.0,Ethan Price,Ethan.Price@example.com
+1065,558-134-7531,Trader Tales,RedCow,4.0,4.0,1,158.0,Ethan Price,Ethan.Price@example.com
+1066,402-586-5192,Urban Outfitters Loft,Flixnet,20.0,10.0,2,124.0,Carol York,Carol.York@example.com
+1066,402-586-5192,Urban Outfitters Loft,Dovee,1.0,1.0,1,124.0,Carol York,Carol.York@example.com
+1067,878-870-9506,Trader Tales,Krafty Cheddar,5.0,5.0,1,615.0,Katelyn Collins,Katelyn.Collins@example.com
+1067,878-870-9506,Trader Tales,Dovee,4.0,2.0,2,615.0,Katelyn Collins,Katelyn.Collins@example.com
+1068,313-206-2033,Targeted Treasures,RedCow,5.0,5.0,1,706.0,Elisha Garza,Elisha.Garza@example.com
+1068,313-206-2033,Targeted Treasures,Dovee,6.0,3.0,2,706.0,Elisha Garza,Elisha.Garza@example.com
+1069,194-235-2353,Trader Tales,RedCow,12.0,4.0,3,223.0,Rupert Mejia,Rupert.Mejia@example.com
+1069,194-235-2353,Trader Tales,Krafty Cheddar,10.0,5.0,2,223.0,Rupert Mejia,Rupert.Mejia@example.com
+1070,111-862-3502,PetPals Mart,RedCow,6.0,3.0,2,207.0,Mark Friedman,Mark.Friedman@example.com
+1071,723-357-7363,Trader Tales,Oreoz,4.0,4.0,1,935.0,Chloe Mullen,Chloe.Mullen@example.com
+1071,723-357-7363,Trader Tales,Dovee,4.0,2.0,2,935.0,Chloe Mullen,Chloe.Mullen@example.com
+1072,124-533-2523,SparkMart,Colgatex,12.0,4.0,3,182.0,Luqman Carrillo,Luqman.Carrillo@example.com
+1072,124-533-2523,SparkMart,Dovee,9.0,3.0,3,182.0,Luqman Carrillo,Luqman.Carrillo@example.com
+1073,583-114-3994,BestChoice Buy,KittyKat,9.0,3.0,3,486.0,Andre Le,Andre.Le@example.com
+1074,429-916-1662,PetPals Mart,RedCow,6.0,3.0,2,17.0,Adele Garza,Adele.Garza@example.com
+1075,946-447-2454,PetPals Mart,RedCow,6.0,3.0,2,184.0,David Bridges,David.Bridges@example.com
+1075,946-447-2454,PetPals Mart,KittyKat,2.0,2.0,1,184.0,David Bridges,David.Bridges@example.com
+1076,254-627-7406,Urban Outfitters Loft,RedCow,6.0,3.0,2,174.0,Kiera Cotton,Kiera.Cotton@example.com
+1076,254-627-7406,Urban Outfitters Loft,Flixnet,20.0,10.0,2,174.0,Kiera Cotton,Kiera.Cotton@example.com
+1076,254-627-7406,Urban Outfitters Loft,Popsi,3.0,3.0,1,174.0,Kiera Cotton,Kiera.Cotton@example.com
+1077,958-724-3846,PetPals Mart,Dovee,1.0,1.0,1,211.0,Gerard Francis,Gerard.Francis@example.com
+1077,958-724-3846,PetPals Mart,Flixnet,10.0,10.0,1,211.0,Gerard Francis,Gerard.Francis@example.com
+1077,958-724-3846,PetPals Mart,Popsi,3.0,3.0,1,211.0,Gerard Francis,Gerard.Francis@example.com
+1078,743-908-5464,SparkMart,Colgatex,4.0,4.0,1,85.0,Clarence Hanson,Clarence.Hanson@example.com
+1079,549-515-6738,SparkMart,GatorBoost,5.0,5.0,1,10.0,Keith Donovan,Keith.Donovan@example.com
+1079,549-515-6738,SparkMart,Krafty Cheddar,6.0,6.0,1,10.0,Keith Donovan,Keith.Donovan@example.com
+1079,549-515-6738,SparkMart,Popsi,15.0,5.0,3,10.0,Keith Donovan,Keith.Donovan@example.com
+1080,480-560-1876,Trader Tales,KittyKat,6.0,3.0,2,671.0,Alexander Terry,Alexander.Terry@example.com
+1080,480-560-1876,Trader Tales,RedCow,12.0,4.0,3,671.0,Alexander Terry,Alexander.Terry@example.com
+1080,480-560-1876,Trader Tales,Colgatex,6.0,3.0,2,671.0,Alexander Terry,Alexander.Terry@example.com
+1081,390-911-6534,BestChoice Buy,Dovee,6.0,2.0,3,259.0,Lily Chan,Lily.Chan@example.com
+1081,390-911-6534,BestChoice Buy,KittyKat,9.0,3.0,3,259.0,Lily Chan,Lily.Chan@example.com
+1081,390-911-6534,BestChoice Buy,Popsi,8.0,4.0,2,259.0,Lily Chan,Lily.Chan@example.com
+1082,782-806-6417,PetPals Mart,RedCow,6.0,3.0,2,990.0,Juliette Luna,Juliette.Luna@example.com
+1082,782-806-6417,PetPals Mart,Popsi,3.0,3.0,1,990.0,Juliette Luna,Juliette.Luna@example.com
+1083,617-226-9486,PetPals Mart,Flixnet,10.0,10.0,1,43.0,Elena Pineda,Elena.Pineda@example.com
+1083,617-226-9486,PetPals Mart,Oreoz,3.0,3.0,1,43.0,Elena Pineda,Elena.Pineda@example.com
+1083,617-226-9486,PetPals Mart,KittyKat,2.0,2.0,1,43.0,Elena Pineda,Elena.Pineda@example.com
+1084,530-539-9474,Urban Outfitters Loft,RedCow,6.0,3.0,2,258.0,Felicity Tran,Felicity.Tran@example.com
+1084,530-539-9474,Urban Outfitters Loft,KittyKat,2.0,2.0,1,258.0,Felicity Tran,Felicity.Tran@example.com
+1085,507-766-7432,Urban Outfitters Loft,Dovee,1.0,1.0,1,519.0,Eoin Fields,Eoin.Fields@example.com
+1085,507-766-7432,Urban Outfitters Loft,GatorBoost,6.0,3.0,2,519.0,Eoin Fields,Eoin.Fields@example.com
+1086,743-908-5464,PetPals Mart,RedCow,6.0,3.0,2,85.0,Clarence Hanson,Clarence.Hanson@example.com
+1087,573-696-6671,Trader Tales,Krafty Cheddar,5.0,5.0,1,48.0,Esther Mccall,Esther.Mccall@example.com
+1087,573-696-6671,Trader Tales,Dovee,4.0,2.0,2,48.0,Esther Mccall,Esther.Mccall@example.com
+1087,573-696-6671,Trader Tales,Popsi,4.0,4.0,1,48.0,Esther Mccall,Esther.Mccall@example.com
+1088,173-881-1582,Trader Tales,Popsi,4.0,4.0,1,702.0,Brayden Patrick,Brayden.Patrick@example.com
+1089,228-202-6360,Urban Outfitters Loft,Popsi,6.0,3.0,2,362.0,Fletcher Moreno,Fletcher.Moreno@example.com
+1089,228-202-6360,Urban Outfitters Loft,Dovee,1.0,1.0,1,362.0,Fletcher Moreno,Fletcher.Moreno@example.com
+1090,202-632-2346,Trader Tales,GatorBoost,8.0,4.0,2,64.0,Jason Snyder,Jason.Snyder@example.com
+1090,202-632-2346,Trader Tales,Colgatex,6.0,3.0,2,64.0,Jason Snyder,Jason.Snyder@example.com
+1091,742-395-8995,Trader Tales,GatorBoost,4.0,4.0,1,35.0,Linda Combs,Linda.Combs@example.com
+1092,137-491-6519,BestChoice Buy,KittyKat,3.0,3.0,1,175.0,Tia Potter,Tia.Potter@example.com
+1093,663-149-3581,Urban Outfitters Loft,Oreoz,3.0,3.0,1,116.0,Gerard Vargas,Gerard.Vargas@example.com
+1093,663-149-3581,Urban Outfitters Loft,Dovee,2.0,1.0,2,116.0,Gerard Vargas,Gerard.Vargas@example.com
+1093,663-149-3581,Urban Outfitters Loft,Popsi,3.0,3.0,1,116.0,Gerard Vargas,Gerard.Vargas@example.com
+1094,237-295-4490,Trader Tales,Dovee,4.0,2.0,2,530.0,Isobelle Davidson,Isobelle.Davidson@example.com
+1094,237-295-4490,Trader Tales,Oreoz,12.0,4.0,3,530.0,Isobelle Davidson,Isobelle.Davidson@example.com
+1095,441-847-1955,BestChoice Buy,Dovee,4.0,2.0,2,109.0,Huw Valentine,Huw.Valentine@example.com
+1096,507-883-4629,Urban Outfitters Loft,Flixnet,10.0,10.0,1,102.0,Alina Walls,Alina.Walls@example.com
+1097,553-482-8315,BestChoice Buy,Dovee,4.0,2.0,2,326.0,Archibald Melendez,Archibald.Melendez@example.com
+1097,553-482-8315,BestChoice Buy,RedCow,8.0,4.0,2,326.0,Archibald Melendez,Archibald.Melendez@example.com
+1098,145-501-4975,SparkMart,Oreoz,5.0,5.0,1,639.0,Stella Wilkinson,Stella.Wilkinson@example.com
+1098,145-501-4975,SparkMart,GatorBoost,5.0,5.0,1,639.0,Stella Wilkinson,Stella.Wilkinson@example.com
+1099,344-278-2013,Urban Outfitters Loft,Oreoz,3.0,3.0,1,568.0,Zaki Mcpherson,Zaki.Mcpherson@example.com
+1100,531-380-1711,PetPals Mart,KittyKat,2.0,2.0,1,307.0,Rebekah Shaw,Rebekah.Shaw@example.com
+1100,531-380-1711,PetPals Mart,Flixnet,10.0,10.0,1,307.0,Rebekah Shaw,Rebekah.Shaw@example.com
+1101,551-867-4367,Urban Outfitters Loft,GatorBoost,3.0,3.0,1,653.0,Lilli Bowman,Lilli.Bowman@example.com
+1101,551-867-4367,Urban Outfitters Loft,KittyKat,2.0,2.0,1,653.0,Lilli Bowman,Lilli.Bowman@example.com
+1101,551-867-4367,Urban Outfitters Loft,Dovee,2.0,1.0,2,653.0,Lilli Bowman,Lilli.Bowman@example.com
+1102,245-506-5389,PetPals Mart,GatorBoost,3.0,3.0,1,140.0,Gary Hutchinson,Gary.Hutchinson@example.com
+1103,323-234-9528,Urban Outfitters Loft,Popsi,3.0,3.0,1,819.0,Dewey Lucas,Dewey.Lucas@example.com
+1103,323-234-9528,Urban Outfitters Loft,Krafty Cheddar,4.0,4.0,1,819.0,Dewey Lucas,Dewey.Lucas@example.com
+1103,323-234-9528,Urban Outfitters Loft,KittyKat,2.0,2.0,1,819.0,Dewey Lucas,Dewey.Lucas@example.com
+1104,795-682-8733,Urban Outfitters Loft,RedCow,6.0,3.0,2,436.0,Alan Burton,Alan.Burton@example.com
+1104,795-682-8733,Urban Outfitters Loft,KittyKat,4.0,2.0,2,436.0,Alan Burton,Alan.Burton@example.com
+1104,795-682-8733,Urban Outfitters Loft,Dovee,3.0,1.0,3,436.0,Alan Burton,Alan.Burton@example.com
+1105,805-146-4773,BestChoice Buy,Oreoz,4.0,4.0,1,146.0,Edith Walker,Edith.Walker@example.com
+1105,805-146-4773,BestChoice Buy,Popsi,4.0,4.0,1,146.0,Edith Walker,Edith.Walker@example.com
+1105,805-146-4773,BestChoice Buy,Krafty Cheddar,5.0,5.0,1,146.0,Edith Walker,Edith.Walker@example.com
+1106,531-709-2553,Trader Tales,Oreoz,8.0,4.0,2,877.0,Drew Orozco,Drew.Orozco@example.com
+1106,531-709-2553,Trader Tales,Dovee,2.0,2.0,1,877.0,Drew Orozco,Drew.Orozco@example.com
+1106,531-709-2553,Trader Tales,Colgatex,3.0,3.0,1,877.0,Drew Orozco,Drew.Orozco@example.com
+1107,866-155-1011,PetPals Mart,Popsi,6.0,3.0,2,150.0,Mariah Castro,Mariah.Castro@example.com
+1107,866-155-1011,PetPals Mart,Popsi,3.0,3.0,1,150.0,Mariah Castro,Mariah.Castro@example.com
+1108,652-272-9539,Urban Outfitters Loft,RedCow,6.0,3.0,2,2.0,Arabella Knox,Arabella.Knox@example.com
+1108,652-272-9539,Urban Outfitters Loft,Dovee,1.0,1.0,1,2.0,Arabella Knox,Arabella.Knox@example.com
+1108,652-272-9539,Urban Outfitters Loft,Popsi,3.0,3.0,1,2.0,Arabella Knox,Arabella.Knox@example.com
+1109,368-154-2650,Urban Outfitters Loft,RedCow,9.0,3.0,3,343.0,Taha Carroll,Taha.Carroll@example.com
+1110,504-112-5228,Urban Outfitters Loft,KittyKat,2.0,2.0,1,908.0,Nataniel Glenn,Nataniel.Glenn@example.com
+1111,481-405-7265,Trader Tales,Colgatex,3.0,3.0,1,235.0,Tamara Riddle,Tamara.Riddle@example.com
+1111,481-405-7265,Trader Tales,Flixnet,11.0,11.0,1,235.0,Tamara Riddle,Tamara.Riddle@example.com
+1111,481-405-7265,Trader Tales,Coca-Splash,3.0,3.0,1,235.0,Tamara Riddle,Tamara.Riddle@example.com
+1112,500-251-7080,Trader Tales,Dovee,2.0,2.0,1,938.0,Alisha Hoover,Alisha.Hoover@example.com
+1113,964-448-9785,Urban Outfitters Loft,KittyKat,4.0,2.0,2,838.0,Aisha Sosa,Aisha.Sosa@example.com
+1114,705-890-7715,PetPals Mart,Popsi,6.0,3.0,2,584.0,Darcy Jenkins,Darcy.Jenkins@example.com
+1114,705-890-7715,PetPals Mart,Flixnet,10.0,10.0,1,584.0,Darcy Jenkins,Darcy.Jenkins@example.com
+1115,791-853-6464,PetPals Mart,Dovee,1.0,1.0,1,626.0,Phoenix Chapman,Phoenix.Chapman@example.com
+1116,796-816-9963,Urban Outfitters Loft,Flixnet,10.0,10.0,1,733.0,Fahad Gill,Fahad.Gill@example.com
+1116,796-816-9963,Urban Outfitters Loft,Dovee,1.0,1.0,1,733.0,Fahad Gill,Fahad.Gill@example.com
+1117,629-807-5687,PetPals Mart,Dovee,1.0,1.0,1,81.0,Ahmad Castro,Ahmad.Castro@example.com
+1117,629-807-5687,PetPals Mart,Oreoz,6.0,3.0,2,81.0,Ahmad Castro,Ahmad.Castro@example.com
+1118,107-156-5064,PetPals Mart,Dovee,2.0,1.0,2,283.0,Autumn Hensley,Autumn.Hensley@example.com
+1119,505-476-1251,PetPals Mart,Krafty Cheddar,4.0,4.0,1,430.0,Huw Pearson,Huw.Pearson@example.com
+1119,505-476-1251,PetPals Mart,Colgatex,4.0,2.0,2,430.0,Huw Pearson,Huw.Pearson@example.com
+1119,505-476-1251,PetPals Mart,Popsi,6.0,3.0,2,430.0,Huw Pearson,Huw.Pearson@example.com
+1120,728-796-4352,BestChoice Buy,Flixnet,33.0,11.0,3,197.0,Tiago Dunn,Tiago.Dunn@example.com
+1120,728-796-4352,BestChoice Buy,KittyKat,3.0,3.0,1,197.0,Tiago Dunn,Tiago.Dunn@example.com
+1121,271-604-3446,Urban Outfitters Loft,KittyKat,6.0,2.0,3,234.0,Esmee Harmon,Esmee.Harmon@example.com
+1121,271-604-3446,Urban Outfitters Loft,GatorBoost,3.0,3.0,1,234.0,Esmee Harmon,Esmee.Harmon@example.com
+1122,782-806-6417,PetPals Mart,Dovee,1.0,1.0,1,990.0,Juliette Luna,Juliette.Luna@example.com
+1122,782-806-6417,PetPals Mart,Colgatex,2.0,2.0,1,990.0,Juliette Luna,Juliette.Luna@example.com
+1122,782-806-6417,PetPals Mart,Oreoz,6.0,3.0,2,990.0,Juliette Luna,Juliette.Luna@example.com
+1123,312-891-9587,Urban Outfitters Loft,Popsi,3.0,3.0,1,251.0,Grayson Rasmussen,Grayson.Rasmussen@example.com
+1124,247-523-1403,SparkMart,Colgatex,4.0,4.0,1,86.0,Douglas Browning,Douglas.Browning@example.com
+1124,247-523-1403,SparkMart,Popsi,10.0,5.0,2,86.0,Douglas Browning,Douglas.Browning@example.com
+1124,247-523-1403,SparkMart,RedCow,10.0,5.0,2,86.0,Douglas Browning,Douglas.Browning@example.com
+1125,626-458-8110,Urban Outfitters Loft,Oreoz,6.0,3.0,2,693.0,Jayden Dunlap,Jayden.Dunlap@example.com
+1125,626-458-8110,Urban Outfitters Loft,RedCow,3.0,3.0,1,693.0,Jayden Dunlap,Jayden.Dunlap@example.com
+1125,626-458-8110,Urban Outfitters Loft,Flixnet,30.0,10.0,3,693.0,Jayden Dunlap,Jayden.Dunlap@example.com
+1126,724-444-3001,Urban Outfitters Loft,Flixnet,10.0,10.0,1,746.0,Isabelle Jenkins,Isabelle.Jenkins@example.com
+1126,724-444-3001,Urban Outfitters Loft,Popsi,6.0,3.0,2,746.0,Isabelle Jenkins,Isabelle.Jenkins@example.com
+1127,598-173-8153,Trader Tales,Dovee,2.0,2.0,1,705.0,Vincent Garrison,Vincent.Garrison@example.com
+1127,598-173-8153,Trader Tales,Colgatex,6.0,3.0,2,705.0,Vincent Garrison,Vincent.Garrison@example.com
+1127,598-173-8153,Trader Tales,Popsi,4.0,4.0,1,705.0,Vincent Garrison,Vincent.Garrison@example.com
+1128,852-236-4050,Urban Outfitters Loft,Dovee,1.0,1.0,1,373.0,Robbie Paul,Robbie.Paul@example.com
+1129,196-551-2162,SparkMart,RedCow,5.0,5.0,1,445.0,Marco Fletcher,Marco.Fletcher@example.com
+1129,196-551-2162,SparkMart,Krafty Cheddar,12.0,6.0,2,445.0,Marco Fletcher,Marco.Fletcher@example.com
+1130,530-539-9474,BestChoice Buy,KittyKat,6.0,3.0,2,258.0,Felicity Tran,Felicity.Tran@example.com
+1130,530-539-9474,BestChoice Buy,Colgatex,9.0,3.0,3,258.0,Felicity Tran,Felicity.Tran@example.com
+1130,530-539-9474,BestChoice Buy,Krafty Cheddar,5.0,5.0,1,258.0,Felicity Tran,Felicity.Tran@example.com
+1131,778-172-1502,Trader Tales,RedCow,8.0,4.0,2,855.0,Yaseen Kennedy,Yaseen.Kennedy@example.com
+1131,778-172-1502,Trader Tales,Popsi,4.0,4.0,1,855.0,Yaseen Kennedy,Yaseen.Kennedy@example.com
+1132,545-458-1679,Trader Tales,Krafty Cheddar,10.0,5.0,2,63.0,Johnathan Berger,Johnathan.Berger@example.com
+1132,545-458-1679,Trader Tales,GatorBoost,8.0,4.0,2,63.0,Johnathan Berger,Johnathan.Berger@example.com
+1133,699-966-4749,BestChoice Buy,Dovee,2.0,2.0,1,69.0,Saoirse Keller,Saoirse.Keller@example.com
+1134,919-925-5280,BestChoice Buy,RedCow,8.0,4.0,2,868.0,Cecilia David,Cecilia.David@example.com
+1135,148-739-3707,PetPals Mart,Flixnet,20.0,10.0,2,332.0,Gertrude Huffman,Gertrude.Huffman@example.com
+1135,148-739-3707,PetPals Mart,GatorBoost,3.0,3.0,1,332.0,Gertrude Huffman,Gertrude.Huffman@example.com
+1136,270-914-6681,PetPals Mart,Krafty Cheddar,8.0,4.0,2,416.0,Emilie Mckee,Emilie.Mckee@example.com
+1136,270-914-6681,PetPals Mart,Dovee,1.0,1.0,1,416.0,Emilie Mckee,Emilie.Mckee@example.com
+1136,270-914-6681,PetPals Mart,Colgatex,2.0,2.0,1,416.0,Emilie Mckee,Emilie.Mckee@example.com
+1137,264-319-7312,Urban Outfitters Loft,Dovee,1.0,1.0,1,289.0,Adele Cantrell,Adele.Cantrell@example.com
+1137,264-319-7312,Urban Outfitters Loft,Colgatex,2.0,2.0,1,289.0,Adele Cantrell,Adele.Cantrell@example.com
+1138,659-190-9378,Trader Tales,Flixnet,22.0,11.0,2,15.0,Leroy Barrera,Leroy.Barrera@example.com
+1138,659-190-9378,Trader Tales,RedCow,4.0,4.0,1,15.0,Leroy Barrera,Leroy.Barrera@example.com
+1138,659-190-9378,Trader Tales,KittyKat,3.0,3.0,1,15.0,Leroy Barrera,Leroy.Barrera@example.com
+1139,582-574-4299,PetPals Mart,Dovee,3.0,1.0,3,554.0,Tyrell Holman,Tyrell.Holman@example.com
+1139,582-574-4299,PetPals Mart,Flixnet,10.0,10.0,1,554.0,Tyrell Holman,Tyrell.Holman@example.com
+1139,582-574-4299,PetPals Mart,Colgatex,4.0,2.0,2,554.0,Tyrell Holman,Tyrell.Holman@example.com
+1140,821-675-4190,SparkMart,Dovee,3.0,3.0,1,377.0,Phyllis Gill,Phyllis.Gill@example.com
+1140,821-675-4190,SparkMart,Oreoz,5.0,5.0,1,377.0,Phyllis Gill,Phyllis.Gill@example.com
+1141,313-206-2033,BestChoice Buy,RedCow,4.0,4.0,1,706.0,Elisha Garza,Elisha.Garza@example.com
+1141,313-206-2033,BestChoice Buy,KittyKat,3.0,3.0,1,706.0,Elisha Garza,Elisha.Garza@example.com
+1142,547-388-2503,Trader Tales,Colgatex,9.0,3.0,3,210.0,Alessia Jenkins,Alessia.Jenkins@example.com
+1143,489-241-7631,PetPals Mart,RedCow,3.0,3.0,1,7.0,Inaaya Velasquez,Inaaya.Velasquez@example.com
+1144,312-891-9587,Trader Tales,Dovee,6.0,2.0,3,251.0,Grayson Rasmussen,Grayson.Rasmussen@example.com
+1145,416-776-3422,Urban Outfitters Loft,KittyKat,2.0,2.0,1,577.0,Yasin Rogers,Yasin.Rogers@example.com
+1145,416-776-3422,Urban Outfitters Loft,GatorBoost,3.0,3.0,1,577.0,Yasin Rogers,Yasin.Rogers@example.com
+1145,416-776-3422,Urban Outfitters Loft,Dovee,2.0,1.0,2,577.0,Yasin Rogers,Yasin.Rogers@example.com
+1146,627-954-8991,Targeted Treasures,Dovee,3.0,3.0,1,165.0,Amira Berg,Amira.Berg@example.com
+1146,627-954-8991,Targeted Treasures,Popsi,10.0,5.0,2,165.0,Amira Berg,Amira.Berg@example.com
+1147,934-954-3387,Urban Outfitters Loft,Flixnet,20.0,10.0,2,441.0,Conrad Hanna,Conrad.Hanna@example.com
+1147,934-954-3387,Urban Outfitters Loft,KittyKat,2.0,2.0,1,441.0,Conrad Hanna,Conrad.Hanna@example.com
+1147,934-954-3387,Urban Outfitters Loft,Colgatex,2.0,2.0,1,441.0,Conrad Hanna,Conrad.Hanna@example.com
+1148,778-566-2709,Trader Tales,Colgatex,3.0,3.0,1,957.0,Effie Jordan,Effie.Jordan@example.com
+1148,778-566-2709,Trader Tales,Krafty Cheddar,5.0,5.0,1,957.0,Effie Jordan,Effie.Jordan@example.com
+1149,220-296-3772,PetPals Mart,Dovee,1.0,1.0,1,195.0,Jorge Maldonado,Jorge.Maldonado@example.com
