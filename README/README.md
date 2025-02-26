@@ -1,7 +1,7 @@
 # Venmito Data Engineering Project (Raul Rivera Solution)
 
-- 'Name: Raul A. Rivera Rodriguez'
-- 'Email: raularmandoriv@gmail.com'
+- Name: Raul A. Rivera Rodriguez
+- Email: raularmandoriv@gmail.com
 
 ## Approach Description
 
